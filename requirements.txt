@@ -1,0 +1,8 @@
+networkx
+numpy
+pandas
+tqdm
+torchnet
+torch
+sklearn
+pytorch=0.3.1
