@@ -1,0 +1,128 @@
+1 |||  ||| 0.1 ||| Indução do trabalho de parto por meio de solução oral titulada de misoprostol versus oxitocina em gestação a termo: estudo controlado randomizado Artigo Original Abstract PURPOSE: To evaluate the effectiveness and the safety of orally administered misoprostol in comparison to intravenously infused oxytocin for labor induction in term pregnant women.
+2 |||  ||| 0.2 ||| METHODS: Between 2008 and 2010, a total of 285 term pregnant women whom were candidate for vaginal delivery were assessed for eligibility to enter the study.
+3 |||  ||| 0.3 ||| Twenty five patients were excluded for different reasons; and 260 included women were randomly assigned to one of the two groups according to the method of treatment, misoprostol or oxytocin.
+4 |||  ||| 0.4 ||| The misoprostol group received 25 µg every 2 hours for up to 24 hours for induction.
+5 |||  ||| 0.5 ||| The oxytocin group received an infusion of 10 IU which was gradually increased.
+6 |||  ||| 0.6 ||| The time from induction to delivery and induction to the beginning of the active phase and successful inductions within 12, 18, and 24 hours were recorded.
+7 |||  ||| 0.7 ||| The trial is registered at irct.ir, number IRCT2012061910068N1.
+8 |||  ||| 0.8 ||| RESULTS: Failure of induction, leading to caesarean section was around 38.3% in the oxytocin group and significantly higher than that of the misoprostol group (20.3%) (p<0.001).
+9 |||  ||| 0.9 ||| Despite the more prevalent failure in the oxytocin group, the mean time intervals from induction to active phase and labor of this group were both significantly less than the misoprostol group (10.1±6.1 and 13.2±7.7 versus 12.9±5.4 and 15.6±5.1 hours respectively, both p-values were <0.05).
+10 |||  ||| 0.10 ||| Maternal and fetal complications were comparable between groups except gastrointestinal symptoms which were encountered more frequently in the misoprostol (10.9 versus 3.9%, p=0.03).
+11 |||  ||| 0.11 ||| CONCLUSIONS: Misoprostol is a safe and effective drug with low complications for the induction of labor.
+12 |||  ||| 0.12 ||| Failure is seen less with misoprostol and caesarean sections are less frequently indicated as compared to oxytocin.
+13 |||  ||| 0.13 ||| Resumo
+14 |||  ||| 0.14 ||| OBJETIVO: Avaliar a eficácia e segurança do misoprostol administrado por via oral em comparação à infusão de oxitocina para a indução do trabalho de parto em gestantes a termo.
+15 |||  ||| 0.15 ||| MÉTODOS: Entre 2008 e 2010, um total de 285 gestantes a termo candidatas para parto vaginal foram avaliadas quanto à eligibilidade para inclusão no estudo.
+16 |||  ||| 0.16 ||| Vinte e cinco pacientes foram excluídas por várias razões, e as 260 mulheres incluídas foram divididas aleatoriamente em dois grupos de acordo com o método de tratamento, misoprostol ou oxitocina.
+17 |||  ||| 0.17 ||| O grupo tratado com o misoprostol recebeu 25 µg cada 2 horas durante um máximo de 24 horas para indução.
+18 |||  ||| 0.18 ||| O grupo tratado com oxitocina recebeu infusão de 10 UI, que foi aumentada gradativamente.
+19 |||  ||| 0.19 ||| O tempo a partir da indução até o início da fase ativa e as induções bem-sucedidas dentro de 12, 18 e 24 horas foram registrados.
+20 |||  ||| 0.20 ||| O ensaio foi registrado em irct.ir, número IRCT2012061910068N1.
+21 |||  ||| 0.21 ||| RESULTADOS: A falha de indução levando à necessidade de cesariana foi de aproximadamente 38.3% no grupo tratado com oxitocina, sendo significativamente maior em relação ao grupo tratado com misoprostol (20,3%) (p<0,001).
+22 |||  ||| 0.22 ||| Apesar da falha mais prevalente no grupo tratado com oxitocina, os intervalos médios entre indução e fase ativa e trabalho de parto nesse grupo foram ambos significativamente menores em relação ao grupo tratado com misoprostol (10,1±6,1 e 13,2±7,7 versus 12,9±5,4 and 15,6±5,1 horas, respectivamente, sendo ambos os p-valores <0,05).
+23 |||  ||| 0.23 ||| Complicações maternas e fetais foram comparáveis entre grupos, com exceção dos sintomas gastrointestinais, que foram encontrados mais frequentemente no grupo tratado com misoprostol (10,9 versus 3,9%, p=0,03).
+24 |||  ||| 0.24 ||| CONCLUSÕES: O misoprostol é droga segura e eficaz para a indução do parto, com poucas complicações.
+25 |||  ||| 0.25 ||| Falhas são menos observadas e cesáreas são indicadas menos frequentemente com o misoprostol em relação à oxitocina.
+26 |||  ||| 0.26 ||| Ensaio clínico registrado no Iranian Registry of Clinical Trials, number IRCT2012061910068N1.
+27 ||| Introduction ||| 1.1 ||| Labor induction is one of the most common procedures carried out worldwide for delivering mothers 1 .
+28 ||| Introduction ||| 1.2 ||| The goal of labor induction is to stimulate uterine contractions before the spontaneous onset of labor, resulting in vaginal delivery 2 .
+29 ||| Introduction ||| 1.3 ||| Uterine contractions and an appropriate cervical ripening cervix are two important factors in labor contributing to good pregnancy outcomes 3 .
+30 ||| Introduction ||| 1.4 ||| The benefits of labor induction must be weighed against the potential maternal and fetal risks associated with this procedure.
+31 ||| Introduction ||| 1.5 ||| When the benefits of expeditious delivery are greater than the risks of continuing the pregnancy, inducing labor can be justified as a therapeutic intervention 4 .
+32 ||| Introduction ||| 1.6 ||| Oxytocin and prostaglandins, such as misoprostol, are used for the induction of labor.
+33 ||| Introduction ||| 1.7 ||| The worldwide increase in use of this procedure during recent years necessitates a careful review of indications, resulted risks, and also benefits of labor induction especially regarding two main methods including oxytocin and misoprostol (a synthetic prostaglandin E1) 5
+34 ||| Introduction ||| 1.8 ||| .
+35 ||| Introduction ||| 1.9 ||| The usual method for inducing labor in our country is the use of oxytocin (Syntocinon) due to ethical-social concerns about the potential risk of abuse of misoprostol as an abortifacient drug.
+36 ||| Introduction ||| 1.10 ||| A number of trials have shown that misoprostol is more effective than oxytocin for labor induction in terms of reducing post-partum hemorrhage and time of induction.
+37 ||| Introduction ||| 1.11 ||| However, dosage of misoprostol, administration interval, administration route was different in published series withdraw from the study at any time without being denied the standard clinical care.
+38 ||| Introduction ||| 1.12 ||| Twenty-five patients were excluded for different reasons; 260 were included in the study.
+39 ||| Introduction ||| 1.13 ||| The inclusion criteria were women aged 18 years or older with a gestational age of 38 to 42 weeks and a singleton pregnancy who had request for elective termination of pregnancy before 42 weeks of gestation or had medical indication for labor induction (hypertension and diabetes).
+40 ||| Introduction ||| 1.14 ||| Additional criteria for enrollment were birth weight of maximally 4.000 gram, normal fetal heart rate, cephalic presentation, lack of uterine contractures, and Bishop's score of 6 or less.
+41 ||| Introduction ||| 1.15 ||| The exclusion criteria were lack of satisfaction for incorporation in the study, a positive history of uterine surgery including cesarean, intrauterine growth retardation (IUGR), oligohydramnios, placenta previa, umbilical cord prolapse, active herpes infection, symptoms of chorioamnionitis, hepatic or renal disease, non-reactive contraindications for prostaglandins use, contraindications for labor induction, and idiopathic vaginal bleeding.
+42 ||| Introduction ||| 1.16 ||| As soon as the patients presented to delivery ward, baseline demographic and obstetric data including age, parity, body mass index (BMI), and past medical events were recorded and thereafter all the patients were evaluated for Bishop's score by a senior resident physician.
+43 ||| Introduction ||| 1.17 ||| Study design 6,7 .
+44 ||| Introduction ||| 1.18 ||| According to some clinical recommendation, based on limited or inconsistent evidence (level B), misoprostol at a dose of 50 µg every 6 hours, may be appropriate to induce labor 8 .
+45 ||| Introduction ||| 1.19 ||| Higher doses are linked to a greater risk for uterine tachysystole with fetal heart rate (FHR) decelerations and other complications 9
+46 ||| Introduction ||| 1.20 ||| .
+47 ||| Introduction ||| 1.21 ||| Despite numerous reports on this issue, the question remains on efficacy and maternal/neonatal safety of oxytocin and misoprostol.
+48 ||| Introduction ||| 1.22 ||| The aim of the present study was, therefore, to evaluate the effectiveness and the safety of orally administered 25 µg of misoprostol every 2 hours in comparison to that of intravenously infused 10 units of oxytocin for labor induction in term pregnant women.
+49 ||| Introduction ||| 1.23 ||| This was a single center balanced randomized parallelgroup study carried out in the Gynecology Department of Tajrish Hospital in Tehran, Iran.
+50 ||| Introduction ||| 1.24 ||| Patients were randomly assigned to one of two groups according to the method of treatment: oxytocin or misoprostol.
+51 ||| Introduction ||| 1.25 ||| Randomization was carried out using computer-generated simple random tables in a 1:1 ratio.
+52 ||| Introduction ||| 1.26 ||| It was not possible to blind the study participants and personnel from knowledge of which intervention a participant received because both methods were clearly different.
+53 ||| Introduction ||| 1.27 ||| Sample size was determined after consideration of type1 statistical error <5%; and type2 statistical error <20%.
+54 ||| Introduction ||| 1.28 ||| Drug prescription method
+55 ||| Study population ||| 3.1 ||| Between 2008 and 2010, a total of 285 term pregnant women whom were candidate for vaginal delivery were assessed for eligibility to enter the study.
+56 ||| Study population ||| 3.2 ||| All patients provided an informed written consent; the study was approved by ethical committee of Shahid Beheshti University of Medical Sciences.
+57 ||| Study population ||| 3.3 ||| Women were assured that they had the right to refuse to participate and/or Initiation of labor induction was the time at which the first misoprostol dose was administered or the oxytocin infusion was started.
+58 ||| Study population ||| 3.4 ||| In the oxytocin group, infusion rate of 2 mIU/min was prescribed for induction and gradually increased by 2 mIU/min every 15 minutes to a maximum dose of 36 mIU/min until adequate uterine contractions were attained.
+59 ||| Study population ||| 3.5 ||| In the misoprostol group, a tablet of 200 µg was dissolved in 200 cc of water and 25 cc was administered every 2 hours until adequate uterine contractions were achieved.
+60 ||| Study population ||| 3.6 ||| If contractions did not occur after 24 hours (twelve doses), no further misoprostol was given .
+61 ||| Study population ||| 3.7 ||| The maximum dose 10 was 300 µg.
+62 ||| Study population ||| 3.8 ||| If the ideal pattern of uterine activites (at least 3 contractions per 10 minutes) was reached over 1 hour, misoprostol was no longer administered.
+63 ||| Study population ||| 3.9 ||| The practical strategies common to the administration of intravenous oxytocin or oral misoprostol solution were as follows: monitoring of FHR and intrapartum uterine activity was performed continuously; in the presence of any tachysystole or hypertonus, or changes in FHR associated with tachysystole or hypertonus, infusion rate was decreased or stopped; intravenous magnesium sulfate (4 g over 30 minutes) could be given at the discretion of the physician if uterine hyperstimulation occurred.
+64 ||| Study population ||| 3.10 ||| The active phase was defined as achieving adequate uterine contractions with cervical dilatation greater than 3 cm.
+65 ||| Study population ||| 3.11 ||| Contractions with regular intervals which resulted in progressive cervical dilatation, effacement were considered effective in induction of labor.
+66 ||| Study population ||| 3.12 ||| Failure to progress was defined as the cervical dilation or fetal descent without any progress for 3 hours after entering the active labor phase as augmented by the agent.
+67 ||| Study population ||| 3.13 ||| In the absence of ideal uterine activites pattern after 24 hours of the first drug administration, induction was considered to have failed.
+68 ||| Study population ||| 3.14 ||| Cesarean section was performed if hyperstimulation syndrome or fetal hypoxia (thick meconium and/or fetal monitoring alteration) were present and if induction was failed.
+69 ||| Study population ||| 3.15 ||| Adequate uterine contractions were defined as at least 3 contractions per 10 minutes and lasting 60-90 seconds.
+70 ||| Study population ||| 3.16 ||| Tachysystole was defined as the presence of at least five contractions in a 10-minutes interval.
+71 ||| Study population ||| 3.17 ||| Hyperstimulation was defined as tachysystole or hypertonus with nonreassuring FHR changes.
+72 ||| Study population ||| 3.18 ||| FHR changes considered to be nonreassuring were late deceleration, severe variable deceleration, prolonged deceleration, tachycardia, or reduced FHR variability requiring intervention with either tocolytic or delivery.
+73 ||| Study population ||| 3.19 ||| All women were given standard postpartum care and discharged after 48 hours.
+74 ||| Statistical analysis ||| 4.1 ||| Results were given as mean plus or minus SD.
+75 ||| Statistical analysis ||| 4.2 ||| Statistical analysis was performed using the SPSS 16.0 statistical software package (SPSS Inc, Chicago, IL, USA).
+76 ||| Statistical analysis ||| 4.3 ||| Time intervals were analyzed with Mann-Whitney U test and other data were analyzed with the χ 2 for qualitative and Student's t-test for quantitative variables.
+77 ||| Statistical analysis ||| 4.4 ||| A p-value of 0.05 was considered significant.
+78 ||| Baseline characteristics ||| 6.1 ||| Two hundred and sixty consenting patients who fulfilled the entry criteria were enrolled in this study.
+79 ||| Baseline characteristics ||| 6.2 ||| Two hundred and fifty-six patients were able to complete the study and their data were included in the final analyses.
+80 ||| Baseline characteristics ||| 6.3 ||| Demographic and clinical characteristics of patients are shown in the Table 1.
+81 ||| Baseline characteristics ||| 6.4 ||| There was no significant difference between the groups regarding any of the studied parameters including age, nulliparity, gestational age, BMI, Bishop's score, premature rupture of membranes, and indication for labor induction.
+82 ||| Baseline characteristics ||| 6.5 ||| Induction results
+83 ||| Baseline characteristics ||| 6.6 ||| The mean prescribed doses of misoprostol were 7.6±3.
+84 ||| Baseline characteristics ||| 6.7 ||| Both values of mean time from induction to active phase and induction to delivery were significantly shorter in oxytocin group than in misoprostol group (10.1±6.1 and 13.2±7.7 versus 12.9±5.4 and 15.6±5.1 hours respectively, both p-values were <0.05).
+85 ||| Baseline characteristics ||| 6.8 ||| The rate of vaginal deliveries within the first 12 hours was comparable between both groups.
+86 ||| Baseline characteristics ||| 6.9 ||| However, in comparison with the oxytocin group, patients in the misoprostol Outcome assessment Outcome in terms of mode of delivery, time from induction to delivery and induction to the beginning of the active phase, and successful inductions within 12, 18, and 24 hours were all recorded as the primary parameters used to evaluate efficacy.
+87 ||| Baseline characteristics ||| 6.10 ||| The primary parameters used to evaluate adverse events were the rate of cesarean section and its indication and serious maternal complications such as uterine hyperstimulation, uterine rupture, and placental abruption.
+88 ||| Baseline characteristics ||| 6.11 ||| The secondary parameters used to evaluate efficacy or adverse events included postpartum hemorrhage, abnormal changes in maternal vital signs, and gastrointestinal symptoms (such as nausea, vomiting and diarrhea); regarding group had significantly higher rate of vaginal deliveries at time intervals of 18 and 24 hours during the study period (67.1, 79.7% versus 53.1, 61.7% respectively; all p-values were <0.05).
+89 ||| Baseline characteristics ||| 6.12 ||| There was no need for instrumental-assisted delivery in two groups.
+90 ||| Baseline characteristics ||| 6.13 ||| The most common indication for cesarean was lack of response to induction in both groups.
+91 ||| Baseline characteristics ||| 6.14 ||| Labor characteristics and delivery outcome data are summarized in Table 2.
+92 ||| Baseline characteristics ||| 6.15 ||| Neonatal outcomes
+93 ||| Baseline characteristics ||| 6.16 ||| Maternal complications
+94 ||| Baseline characteristics ||| 6.17 ||| Except for the gastrointestinal symptoms, there were no statistically significant differences between the oxytocin and misoprostol patients groups in terms of other maternal complications (Table 3).
+95 ||| Baseline characteristics ||| 6.18 ||| In fact, gastrointestinal symptoms were observed more frequently in the misoprostol than in the oxytocin group (10.9 versus 3.9%, p=0.03); all of them were treated conservatively.
+96 ||| Baseline characteristics ||| 6.19 ||| As shown in Table 4, the 1 and 5-Minute Apgar scores and birth weight were similar between the two groups (p=0.05).
+97 ||| Baseline characteristics ||| 6.20 ||| Fourteen patients (10.9%) in misoprostol group and 16 subjects (12.5%) in oxytocin group had fetal tachycardia (p=0.07).
+98 ||| Baseline characteristics ||| 6.21 ||| Admission in neonatal intensive care unit was seen more frequently in oxytocin group (3.9%) than in misoprostol group (0.7%); however, this difference was not statistically significant (p=0.02).
+99 ||| Baseline characteristics ||| 6.22 ||| Only one patient (0.7%) in oxytocin group and none of the subjects in misoprostol group had meconium in amniotic fluid (p=1.0).
+100 ||| Baseline characteristics ||| 6.23 ||| No maternal and neonatal deaths occurred in either group.
+101 ||| Discussion ||| 7.1 ||| Oxytocin and misoprostol are the most common drugs used for the induction of labor 2 .
+102 ||| Discussion ||| 7.2 ||| Many studies have stated the safety and feasibility, efficacy, stability, and low cost of the misoprostol for induction of labor at term with an unfavorable cervix Optimal dosing of misoprostol that will achieve effective induction without above mentioned side effects has been focused by many studies.
+103 ||| Discussion ||| 7.3 ||| For example, Hofmeyr et al.
+104 ||| Discussion ||| 7.4 ||| In our study, a dose of 25 µg which was repeated every 2 hours for up to 24 hours, was orally administered   groups in percentage of vaginal deliveries within the first 12 hours.
+105 ||| Discussion ||| 7.5 ||| One group of authors in a randomized study among 210 pregnant women compared the effectiveness of orally administered 25 µg of misoprostol every 4 hours and intravenously infused 10 units of oxytocin.
+106 ||| Discussion ||| 7.6 ||| The cesarean section rate, latent period and period from induction to vaginal delivery were significantly lower for the misoprostol group other investigation is in favor of one method of induction.
+107 ||| Discussion ||| 7.7 ||| In a recent research among 240 pregnant women it was revealed that mean induction-to-vaginal delivery time with misoprostol was shorter than Foley catheter and oxytocin (17.3 versus 20.2 hours) 19 .
+108 ||| Discussion ||| 7.8 ||| These findings were also established in two other separate studies 15,20 .
+109 ||| Discussion ||| 7.9 ||| On the other hand, results of Fonseca's et al.
+110 ||| Discussion ||| 7.10 ||| In another study 120 patients were enrolled in misoprostol (57 cases) and oxytocin (63 cases) groups.
+111 ||| Discussion ||| 7.11 ||| Vaginal delivery occurred in 78.9 and 58.7% of misoprostol and oxytocin group respectively (p<0.05) study support the finding that the induction-to-delivery interval with oxytocin is shorter compared with misoprostol (13.1 versus 16.3 hours) 13
+112 ||| Discussion ||| 7.12 ||| 17
+113 ||| Discussion ||| 7.13 ||| .
+114 ||| Discussion ||| 7.14 ||| Fonseca et al.
+115 ||| Discussion ||| 7.15 ||| Also, the total percentage of cesarean deliveries was not significantly different among these methods in Kramer's study .
+116 ||| Discussion ||| 7.16 ||| A shorter interval for oxytocin in comparison with misoprostol was also reported in another study (8.4±4.1 hours versus 11.3 ±6.9 hours, p<0.05) 17
+117 ||| Discussion ||| 7.17 ||| 18
+118 ||| Discussion ||| 7.18 ||| .
+119 ||| Discussion ||| 7.19 ||| The average time interval of drug prescription to vaginal delivery is related to the dose, route and administration interval of misoprostol or oxytocin in concurrence with favorable cervices for induction or previous administration of dinoprostone in pregnant women 14 .
+120 ||| Discussion ||| 7.20 ||| Most of these studies did not demonstrate a difference in the interval from treatment to delivery between groups of misoprostol and oxytocin.
+121 ||| Discussion ||| 7.21 ||| However, .
+122 ||| Discussion ||| 7.22 ||| In our trial, the mean times from induction to active phase and induction to delivery were significantly shorter in oxytocin group than in misoprostol group.
+123 ||| Discussion ||| 7.23 ||| Inability to design a double blind clinical trial due to the different rout of drug administration was a major limitation of our study.
+124 ||| Discussion ||| 7.24 ||| According to the results obtained in this clinical trial, the orally administered misoprostol could be mentioned as safe and effective as to intravenously infused oxytocin for labor induction in term pregnant women.
+125 ||| Discussion ||| 7.25 ||| Vaginal delivery is seen more frequently with misoprostol than oxytocin.
+126 ||| Discussion ||| 7.26 ||| However, further studies should be carried out to obtain more definite results especially with longer follow-up period.
+127 ||| Discussion ||| 7.27 ||| Maternal complications: comparison of labor induction with misoprostol or oxytocin
+128 ||| Discussion ||| 7.28 ||| Neonatal outcomes
