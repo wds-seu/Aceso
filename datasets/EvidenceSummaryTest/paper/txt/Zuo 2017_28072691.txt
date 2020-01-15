@@ -1,0 +1,135 @@
+1 |||  ||| 0.1 ||| Background: There are limited data on the effect of dual antiplatelet treatment with clopidogrel plus aspirin in patients with ischemic cerebrovascular disease and intracranial and extracranial arteriostenosis.
+2 |||  ||| 0.2 ||| The aim of our study was to evaluate the efficacy and safety of aspirin plus clopidogrel in the treatment of ischemic cerebrovascular disease with intracranial and extracranial arteriostenosis.
+3 |||  ||| 0.3 ||| Methods: Patients with clinically evident acute cerebral infarction or transient ischemic attack combined with intracranial and extracranial arteriostenosis (greater than 50%) who were unsuitable or reluctance to perform stent implantation were enrolled in this study.
+4 |||  ||| 0.4 ||| We randomly assigned these patients to receive clopidogrel (75 or 50 mg) plus aspirin (100 mg) or aspirin (100 mg) once daily through 90 days, and followed them for 90 days.
+5 |||  ||| 0.5 ||| We examined the main endpoints including the recurrence of stroke, death from cardiovascular causes, and bleeding events.
+6 |||  ||| 0.6 ||| Results: In all, 200 patients were recruited and followed for 90 days.
+7 |||  ||| 0.7 ||| Ischemic stroke occurred in 6 patients (9.1%) treated with 50 mg clopidogrel and aspirin, 6 patients (9.1%) receiving 75 mg clopidogrel and aspirin, whereas 19 patients (27.9%) in the aspirin group (aspirin alone vs copidogrel 50 mg plus aspirin; 95% confidence intervals 1.704-23.779, P < 0.05; aspirin alone vs copidogrel 75 mg plus aspirin; 95% confidence intervals 1.190-13.240, P < 0.05).
+8 |||  ||| 0.8 ||| There were more hemorrhagic events among recipients (3 patients [2.3%]) in the copidogrel plus aspirin group than aspirin recipients (0 patient [0%]), including 1 subcutaneous hemorrhage in the group of 50 mg clopidogrel and aspirin, doubling the number of nasal and gum bleeding in the group of 75 mg clopidogrel and aspirin (P > 0.05).
+9 |||  ||| 0.9 ||| No intracranial hemorrhage and gastro-intestinal hemorrhage occurred in these 3 groups.
+10 |||  ||| 0.10 ||| Conclusion: Accordingly, 50 mg clopidogrel plus aspirin, and 75 mg clopidogrel plus aspirin were all superior to aspirin alone as stroke prevention in patients with cerebral infarction or transient ischemic attack combined with intracranial and extracranial arteriostenosis.
+11 |||  ||| 0.11 ||| The effect of secondary stroke prevention was similar between 50 mg clopidogrel plus aspirin and 75 mg clopidogrel plus aspirin.
+12 |||  ||| 0.12 ||| The therapy of 75 mg clopidogrel plus aspirin resulted in a worrisome tread in bleeding events.
+13 |||  ||| 0.13 ||| Abbreviations: ADP = adenosine diphosphate glucose pyrophospheralase, BA = basilar artery, CAPRIE = clopidogrel versus aspirin in patients at risk of ischaemic events, CI = cerebral infarction, CIs = confidence intervals, FASTER = fast assessment of stroke and transient ischaemic attack to prevent early recurrence, GUSTO = Global Utilization of Streptokinase and Tissue Plasminogen Activator for Occluded Coronary Arteries, ICA = internal carotid artery, ICVD = ischemic cerebrovascular disease, MCA = middle cerebral artery, PCA = posterior cerebral artery, SD = standard deviation, TIA = transient ischemic attack, VA = vertebral artery.
+14 ||| Introduction ||| 1.1 ||| Editor: Fadi Khasawneh.
+15 ||| Introduction ||| 1.2 ||| Ischemic cerebrovascular disease (ICVD) is the main cause of disability and death among all adults.
+16 ||| Introduction ||| 1.3 ||| Significantly, stenosis of cerebral vessels is a common cause of stroke in the world, and is related with a high risk of recurrent stroke.
+17 ||| Introduction ||| 1.4 ||| Thus, new and effective therapy is needed to treat this high-risk disease to prevent recurrent stroke.
+18 ||| Introduction ||| 1.5 ||| Antiplatelet therapy has been exhibited to exert important roles in the secondary prevention of stroke.
+19 ||| Introduction ||| 1.6 ||| Fortunately, clopidogrel versus aspirin in patients at risk of ischaemic events (CAPRIE) study has indicated that the effect of clopidogrel is superior to aspirin in the ischemic stroke patients, decreasing the relative risk for ischemic stroke by 8.7% versus aspirin (P = 0.043).
+20 ||| Study design ||| 3.1 ||| This research was a prospective, randomized, single-center study of efficacy of clopidogrel plus aspirin as compared with aspirin alone in patients with clinically evident ICVD combined with intracranial and extracranial arteriostenosis.
+21 ||| Study design ||| 3.2 ||| The trial proposal was approved by the ethics committee of the hospital.
+22 ||| Study design ||| 3.3 ||| All enrolled patients or family members signed written informed consent.
+23 ||| Participants ||| 4.1 ||| [18] Because of these inconsistent data, we proposed to resolve this uncertainty.
+24 ||| Participants ||| 4.2 ||| On the contrary, considerable differences exist between Chinese and Western population with respect to health conditions, genetic background, and medicine tradition.
+25 ||| Participants ||| 4.3 ||| Remarkably, in China, the incidence of cerebral bleeding induced by antiplatelet drugs is high in the secondary prevention of stroke.
+26 ||| Participants ||| 4.4 ||| Moreover, the combination of aspirin and clopidogrel has not yet proven effective and safe in the secondary prevention of stroke and TIA.
+27 ||| Participants ||| 4.5 ||| Patients were eligible when they met the following inclusive criteria: patients with age ranging from 45 to 80 years; diagnosis of an acute cerebral infarction (CI) or TIA; greater than 50% stenosis of internal carotid artery (ICA), middle cerebral artery (MCA), vertebral artery (VA), basilar artery (BA), and posterior cerebral artery (PCA) alone or in combination; unsuitable or reluctance to perform stent implantation.
+28 ||| Participants ||| 4.6 ||| Exclusion criteria were as follows: large-area CI or hemorrhagic CI; cardiogenic brain embolism; current peptic ulceration or history of systemic bleeding; platelet number less than 10 5 / mm 3 or coagulopathy; systemic disease, for example, terminal malignancy or serious renal or liver disease; known contraindication to clopidogrel or aspirin; CI caused by rheumatoid disease or arterial inflammation; major surgery or trauma in the previous 3 months, or planning operation in the near future; gastrointestinal disorders or inability to obtain oral drugs; discontinuation of the study drug before testing.
+29 ||| Participants ||| 4.7 ||| Significantly, the characteristics of age, sex, smoking history, and also other vascular risk factors including diabetes, hyperlipidemia, hypertension, TIA, coronary heart disease, or cerebral infarction were assessed at baseline.
+30 ||| Participants ||| 4.8 ||| Thus, low-dose (50 mg) clopidogrel may be acceptable for Chinese patients.
+31 ||| Participants ||| 4.9 ||| Thus, a study to compare safety and efficacy of 50 mg with 75 mg clopidogrel is required.
+32 ||| Participants ||| 4.10 ||| To our knowledge, there were limited studies comparing the efficacy and safety between 50 and 75 mg clopidogrel in Chinese patients with ICVD, and intracranial and extracranial arteriostenosis.
+33 ||| Participants ||| 4.11 ||| Procedures
+34 ||| Participants ||| 4.12 ||| Hence, we carried out the trial to verify the hypothesis that the combination of clopidogrel and aspirin may have a greater benefit in prevention of recurrent stroke in patients from China who had ICVD and intracranial and extracranial arteriostenosis.
+35 ||| Participants ||| 4.13 ||| In addition, we compare the efficacy of secondary stroke prevention between 50 and 75 mg clopidogrel.
+36 ||| Participants ||| 4.14 ||| Moreover, the potential bleedings were estimated after adding aspirin to clopidogrel.
+37 ||| Participants ||| 4.15 ||| Our study will shed light on the theoretical basis for the application of the combination of clopidogrel and aspirin in the secondary prevention of stroke in Chinese subjects with intracranial and extracranial arteriostenosis.
+38 ||| Participants ||| 4.16 ||| Patients meeting the inclusion criteria were randomly assigned (1:1:1) to receive aspirin alone (100 mg), or clopidogrel (50 mg) plus aspirin (100 mg), or clopidogrel (75 mg) plus aspirin (100 mg).
+39 ||| Participants ||| 4.17 ||| Patients in the aspirin alone group received a loading dose of 100 mg/d aspirin on day 1 through 90 days.
+40 ||| Participants ||| 4.18 ||| Patients in clopidogrel (50 mg) plus aspirin (100 mg) group received clopidogrel at a dose of 50 mg/d and aspirin in a dose of 100 mg daily on day 1 through 90 days.
+41 ||| Participants ||| 4.19 ||| Cases in clopidogrel (75 mg) plus aspirin (100 mg) group received clopidogrel at a dose of 75 mg/d and aspirin at a dose of 100 mg/d on day 1 through 90 days.
+42 ||| Participants ||| 4.20 ||| Moreover, all patients were treated with standard therapy as appropriate (eg, hypoglycemic or antihypertensive drugs) at the discretion of the investigator and clinician.
+43 ||| Participants ||| 4.21 ||| The appropriate standard therapy was emphasized to the investigator or clinician, who was offered with international guidelines.
+44 ||| Participants ||| 4.22 ||| We required all patients to return at 90 days for a consultation with a trained trial nurse or physician.
+45 ||| Participants ||| 4.23 ||| If it was not feasible, the follow-up evaluations were acquired by telephone contact with the patient or the family doctor or caregiver.
+46 ||| Participants ||| 4.24 ||| At these contacts, the occurrence of possible outcome events, changes in trial medication, and adverse events was recorded.
+47 ||| Participants ||| 4.25 ||| Endpoints
+48 ||| Participants ||| 4.26 ||| The main study endpoints were recurrence of ischemic stroke, death from any causes, and death from cardiovascular causes Zuo et al.
+49 ||| Participants ||| 4.27 ||| Medicine (2017) 96:1 www.md-journal.com (including hemorrhage) in the first 90 days after CI or TIA.
+50 ||| Participants ||| 4.28 ||| Stroke recurrence was determined as additional neurological deficit, and also corresponding positive lesions on diffusion-weighted imaging.
+51 ||| Participants ||| 4.29 ||| All patients with the main study endpoints undertook brain CT scan to exclude intracranial hemorrhage.
+52 ||| Participants ||| 4.30 ||| Several hemorrhagic events were monitored in consideration of safety concerns based on the Global Utilization of Streptokinase and Tissue Plasminogen Activator for Occluded Coronary Arteries (GUSTO) definition, which includes intracranial hemorrhage and gastrointestinal bleeding.
+53 ||| Participants ||| 4.31 ||| Moreover, nasal and gum bleeding were also examined.
+54 ||| Participants ||| 4.32 ||| A P value less than 0.05 was regarded significant difference.
+55 ||| Results ||| 5.1 ||| Characteristics of the patients
+56 ||| Statistical analysis ||| 6.1 ||| All data were analyzed by means of SPSS 19.0 (SPSS Inc., Chicago, IL) and were tabulated using Microsoft software (Excel, Microsoft, Redmond, WA).
+57 ||| Statistical analysis ||| 6.2 ||| All data were shown as the mean ± standard deviation (SD).
+58 ||| Statistical analysis ||| 6.3 ||| Differences in baseline factors (sex, age, clinical characteristics, concomitant medications, risk factors) among groups were compared using the chi-square test.
+59 ||| Statistical analysis ||| 6.4 ||| The treatment effects were compared with analysis of variance, and 95% confidence intervals (CIs).
+60 ||| Statistical analysis ||| 6.5 ||| Statistical analysis of safety data Between January 2013 and March 2014, a total of 216 patients with ICVD (CI or TIA, within 7 days of onset) plus intracranial and extracranial arteriostenosis were eligible and enrolled in our study.
+61 ||| Statistical analysis ||| 6.6 ||| However, 16 of these patients were gradually excluded from the trial as they refused to provide the written informed consent, or had side effects or met at least 1 exclusion standard (Fig.
+62 ||| Statistical analysis ||| 6.7 ||| Thus, a total of 200 eligible subjects were included in our study.
+63 ||| Statistical analysis ||| 6.8 ||| Among these patients, 66 received clopidogrel 50 mg plus aspirin, another 66 participants were treated using clopidogrel 75 mg plus aspirin, and the remaining 68 patients were treated using aspirin alone.
+64 ||| Statistical analysis ||| 6.9 ||| Of note, these 200 patients completed the treatment.
+65 ||| Statistical analysis ||| 6.10 ||| The patients' baseline characteristics in the study are shown in Table 1.
+66 ||| Statistical analysis ||| 6.11 ||| In all 200 patients, the median age was 62 years, and 79 (39.5%) patients were female.
+67 ||| Statistical analysis ||| 6.12 ||| About one-half patients had a TIA.
+68 ||| Statistical analysis ||| 6.13 ||| There was no difference of baseline characteristics among these groups.
+69 ||| Statistical analysis ||| 6.14 ||| There were no significant differences in age, sex, and Table 1 Baseline characteristics.
+70 ||| Statistical analysis ||| 6.15 ||| Characteristic
+71 ||| Statistical analysis ||| 6.16 ||| Clopidogrel 50 mg plus aspirin (n = 66) Clopidogrel 75 mg plus aspirin (n = 66) Aspirin (n = 68)  disease category.
+72 ||| Statistical analysis ||| 6.17 ||| The most prevalent risk factors in these 3 groups were smoking (clopidogrel 50 mg plus aspirin: 50%; clopidogrel 75 mg plus aspirin: 54.5%; aspirin: 48.5%), hypertension (clopidogrel 50 mg plus aspirin: 68.2%; clopidogrel 75 mg plus aspirin: 60.6%; aspirin: 65.2%), and hypercholesterolemia (clopidogrel 50 mg plus aspirin: 65.2%; clopidogrel 75 mg plus aspirin: 62.1%; aspirin: 58.8%).
+73 ||| Statistical analysis ||| 6.18 ||| But there was also no significant difference in these risk features.
+74 ||| Statistical analysis ||| 6.19 ||| Medications taken by the patients were exhibited in Table 2.
+75 ||| Statistical analysis ||| 6.20 ||| These figures depicted the maximal frequency of drug use at any time during the trial (evaluated at baseline and during the period of follow-up).
+76 ||| Statistical analysis ||| 6.21 ||| All of the patients took aspirin and the study drug.
+77 ||| Statistical analysis ||| 6.22 ||| Almost all of the patients took statin, and more than half used beta-blocker.
+78 ||| Statistical analysis ||| 6.23 ||| Nearly one-half patients took diuretics and angiotensin-converting-enzyme inhibitors, and a quarter took angiotensin II receptor blockers.
+79 ||| Statistical analysis ||| 6.24 ||| Both dual antiplatelet therapeutic approaches (copidogrel 50 mg plus aspirin, and copidogrel 75 mg plus aspirin) showed an obvious decrease in the recurrence of ischemic stroke (P < 0.05), comparing with that of the patients treated by aspirin alone.
+80 ||| Statistical analysis ||| 6.25 ||| Safety endpoints
+81 ||| Statistical analysis ||| 6.26 ||| Efficacy endpoints
+82 ||| Statistical analysis ||| 6.27 ||| During the period of follow-up, the ischemic stroke occurred in 6 patients (9.1%) treated with 50 mg clopidogrel and aspirin, 6
+83 ||| Statistical analysis ||| 6.28 ||| As shown in Table 3, hemorrhagic events occurred more frequently in the patients of clopidogrel and aspirin (3 patients [2.3%]) than in the recipients of aspirin alone (0 patient [0%]).
+84 ||| Statistical analysis ||| 6.29 ||| However, no significant difference was observed in the risk of life-threatening bleedings.
+85 ||| Statistical analysis ||| 6.30 ||| Moreover, there was no statistical significance in the increased incidence of hemorrhage between dual antiplatelet treatment group and aspirin group (P > 0.05).
+86 ||| Statistical analysis ||| 6.31 ||| There was 1 case with subcutaneous hemorrhage in the group of 50 mg clopidogrel and aspirin, doubling the number of nasal and Table 3 Efficacy and safety endpoints.
+87 ||| Statistical analysis ||| 6.32 ||| No primary intracranial hemorrhage and gastrointestinal hemorrhage occurred in these 3 groups.
+88 ||| Discussion ||| 7.1 ||| In Europe and United States, a 75 mg maintenance dose of clopidogrel is utilized.
+89 ||| Discussion ||| 7.2 ||| However, 75 mg clopidogrel can lead to higher platelet inhibition, which is a trade-off for higher bleeding complications.
+90 ||| Discussion ||| 7.3 ||| Significantly, Asano et al [22] have indicated that lower maintenance dose of clopidogrel (50 mg) is appropriate for Japanese patients.
+91 ||| Discussion ||| 7.4 ||| Thus, low-dose (50 mg) clopidogrel may be acceptable for Chinese patients.
+92 ||| Discussion ||| 7.5 ||| Thus, a study to compare safety and efficacy of 50 mg with 75 mg clopidogrel is required.
+93 ||| Discussion ||| 7.6 ||| We consider that, even if efficacy and safety were similar between 50 and 75 mg clopidogrel, 50 mg clopidogrel would be useful because this drug is cost-effective.
+94 ||| Discussion ||| 7.7 ||| To our knowledge, there were limited studies comparing the efficacy and safety between 50 and 75 mg clopidogrel in Chinese patients with ICVD and intracranial and extracranial arteriostenosis.
+95 ||| Discussion ||| 7.8 ||| More significantly, we also compared the efficacy and evaluated the safety of combination of clopidogrel and aspirin over aspirin alone in reducing or preventing the recurrence of stroke in ICVD patients with intracranial and extracranial arteriostenosis.
+96 ||| Discussion ||| 7.9 ||| The results showed that early dual therapy with clopidogrel plus aspirin was more effective than aspirin alone in decreasing the presence of acute ischemic stroke.
+97 ||| Discussion ||| 7.10 ||| However, the dual therapy of clopidogrel plus aspirin resulted in a worrisome tread of increased bleeding events, compared with aspirin alone, but there was no difference.
+98 ||| Discussion ||| 7.11 ||| The efficiency of reducing stroke was similar between 50 mg clopidogrel plus aspirin group and 75 mg clopidogrel plus aspirin group.
+99 ||| Discussion ||| 7.12 ||| The risk of bleeding was lower in the group of 50 mg clopidogrel and aspirin, compared with 75 mg clopidogrel and aspirin, but no statistical difference was recorded.
+100 ||| Discussion ||| 7.13 ||| These results imply that clopidogrel plus aspirin is superior to aspirin alone in the early treatment of ICVD with intracranial and extracranial arteriostenosis.
+101 ||| Discussion ||| 7.14 ||| As reported, aspirin is the first option of antithrombotic drug for the prevention of noncardioembolic stroke and TIA, but there is a relatively limited efficacy on recurrent events with a relative risk reduction of 13% to 22%.
+102 ||| Discussion ||| 7.15 ||| Clopidogrel plus aspirin synergistically increased antagonism of platelet aggregation.
+103 ||| Discussion ||| 7.16 ||| The combination seemed to be well-tolerated and effective after intracranial stenting.
+104 ||| Discussion ||| 7.17 ||| However, the combination of aspirin and clopidogrel has not yet proven effective and safe in the secondary prevention of stroke and TIA.
+105 ||| Discussion ||| 7.18 ||| However, there was no statistical significance in hemorrhage in the group of 50 mg clopidogrel plus aspirin, and the group of 75 mg clopidogrel plus aspirin.
+106 ||| Discussion ||| 7.19 ||| Moreover, no significant difference was observed in the risk of life-threatening bleedings in these 3 groups.
+107 ||| Discussion ||| 7.20 ||| Despite this, a worrisome trend was noted that clopidogrel, especially 75 mg clopidogrel, was related with an increased rate of bleeding events.
+108 ||| Discussion ||| 7.21 ||| Unfortunately, another study has also shown that the fatal bleeding risk is higher in the group of 75 mg clopidogrel plus 75 mg aspirin versus monotherapy.
+109 ||| Discussion ||| 7.22 ||| Another study has also indicated that loading with 300 mg clopidogrel added to 75 mg aspirin, followed by 75 mg clopidogrel and aspirin once daily to 90 days, reduces the incidence of recurrent stroke, without any severe bleeding.
+110 ||| Discussion ||| 7.23 ||| Although a worrisome trend was noted that clopidogrel, especially 75 mg clopidogrel, was related with an increase rate of bleeding events in our study, no difference was recorded between any 2 groups in the groups of 50 mg clopidogrel plus aspirin, 75 mg clopidogrel plus aspirin, and aspirin alone.
+111 ||| Discussion ||| 7.24 ||| Thus, the protocol of our study was feasible for secondary stroke prevention, but the sample size was small.
+112 ||| Discussion ||| 7.25 ||| In the future work, we will compare the effects of front-loading method and our protocol in larger multicenters with larger sample size to verify which method is more available in preventing stroke in patients with TIA or stroke combine with intracranial and extracranial arteriostenosis.
+113 ||| Discussion ||| 7.26 ||| The incidence for stroke recurrence after TIA is up to 20% in the first 90 days, and most events accrue in the first few days.
+114 ||| Discussion ||| 7.27 ||| The incidence of the efficacy endpoints was about 5.1% per month.
+115 ||| Discussion ||| 7.28 ||| In addition to this, we should take into consideration the balance between the reduction of stroke recurrence and the increasing risk of bleeding when using more reinforced antiplatelet treatment.
+116 ||| Discussion ||| 7.29 ||| In our analysis, there was 1 case with subcutaneous hemorrhage in Thus, it is warranted to take emergency measures to prevent the occurrence of stroke.
+117 ||| Discussion ||| 7.30 ||| Wang et al [30] have suggested that the combination therapy of clopidogrel and aspirin for patients with ischemic stroke or TIA within 7 days of onset is more effective than aspirin alone to reduce microembolic signals, without severe bleeding.
+118 ||| Discussion ||| 7.31 ||| The fast assessment of stroke and transientischaemic attack to prevent early recurrence (FASTER) pilot study also has suggested that the incidence of CI is 7.1% after treatment of clopidogrel plus aspirin once daily to 90 days, but 10.8% after treatment of aspirin alone once daily to 90 days, which exhibits a 3.7% risk benefit favoring clopidogrel and aspirin over aspirin alone.
+119 ||| Discussion ||| 7.32 ||| Accordingly, our findings and previous trials provide sufficient evidence to prefer the combination therapy of clopidogrel and aspirin over aspirin monotherapy as stroke prevention after ICVD.
+120 ||| Discussion ||| 7.33 ||| This might be explained by synergistic effects of 2 antiplatelet drugs due to different action mechanisms.
+121 ||| Discussion ||| 7.34 ||| Aspirin inhibits the aggregation of platelets through the cyclooxygenase pathway.
+122 ||| Discussion ||| 7.35 ||| Collectively, ADP is 1 important mediator of hemostasis and thrombosis.
+123 ||| Discussion ||| 7.36 ||| Importantly, the metabolites of clopidogrel play crucial roles of reducing the risk of recurrent ischemic events by acting on the platelet P2Y12 receptor and suppressing the activation of ADP.
+124 ||| Discussion ||| 7.37 ||| Although we obtained some significant evidences to confirm our hypothesis, there remained several drawbacks in the present analysis.
+125 ||| Discussion ||| 7.38 ||| The sample size was not large enough, which might weaken the statistical power.
+126 ||| Discussion ||| 7.39 ||| Furthermore, patients were recruited in 1 clinical center.
+127 ||| Discussion ||| 7.40 ||| Moreover, efficacy and safety of aspirin plus clopidogrel were obtained within a short follow-up period of 90 days.
+128 ||| Discussion ||| 7.41 ||| Because of these limitations, randomized trials in larger multicenters with larger sample size and longer time observation are warrant to identify the effectiveness and safety of combination of different drugs for second prevention of stroke in patients with TIA or stroke combine with intracranial and extracranial arteriostenosis.
+129 ||| Discussion ||| 7.42 ||| Last but not the least, our study did not use the front-loading method to measure the effect of clopidogrel and aspirin in avoiding the bleeding events; thus, we will do this work in future.
+130 ||| Discussion ||| 7.43 ||| Despite these drawbacks, to a certain degree, our results provided some preliminary evidence to prefer the combination regimen of clopidogrel sulfate plus aspirin over aspirin alone as stroke prevention in patients.
+131 ||| Discussion ||| 7.44 ||| Taken together, our findings indicated that the use of 50 mg clopidogrel plus aspirin, and 75 mg clopidogrel plus aspirin was superior to aspirin alone in the aspect of reducing the incidence of ischemic stroke for patients with ICVD and intracranial and extracranial arteriostenosis.
+132 ||| Discussion ||| 7.45 ||| Moreover, the effect of secondary stroke prevention was similar between 50 mg clopidogrel plus aspirin group and 75 mg clopidogrel plus aspirin group.
+133 ||| Discussion ||| 7.46 ||| The dual therapy of 75 mg clopidogrel plus aspirin resulted in a worrisome tread in bleeding events.
+134 ||| Acknowledgment ||| 8.1 ||| We wish to express our warm thanks to Jinan EBM Technology Development Center.
+135 ||| Acknowledgment ||| 8.2 ||| Their ideas and help gave a valuable added dimension to our research.

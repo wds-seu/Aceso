@@ -1,0 +1,92 @@
+1 |||  ||| 0.1 ||| Methods: A prospective, randomized, single-center, double-blinded and placebo-controlled clinical trial randomly assigned 40 patients to receive pre-and postinterventional therapy with aspirin and clopidogrel.
+2 |||  ||| 0.2 ||| Another 40 patients received the same doses of aspirin and placebo instead of clopidogrel.
+3 |||  ||| 0.3 ||| Clopidogrel and placebo were stopped after 6 months, and patients remained on aspirin only.
+4 |||  ||| 0.4 ||| At 12 months after the intervention, 36 clopidogrel patients and 37 placebo patients were reevaluated.
+5 |||  ||| 0.5 ||| Results: At 6 months, clopidogrel patients had significantly lower rates of TLR compared to placebo patients [2 (5%) vs. 8 (20%), p¼0.04].
+6 |||  ||| 0.6 ||| After stopping clopidogrel/placebo after 6 months, there was no significant difference in TLR at 12 months after treatment [9 (25%) clopidogrel vs. 12 (32.4%) placebo, p¼0.35].
+7 |||  ||| 0.7 ||| Mortality was 0 vs. 1 in the placebo group at 6 months (p¼0.32) and 0 vs. 3 at 12 months (p¼0.08).
+8 |||  ||| 0.8 ||| Conclusion: In contrast to the first report of a reduction in the TLR at 6 months, this advantage of dual antiplatelet therapy does not persist after stopping clopidogrel.
+9 |||  ||| 0.9 ||| Prolonged dual therapy (.6 months) should be considered in patients who are at high risk for restenosis.
+10 |||  ||| 0.10 ||| J Endovasc Ther.
+11 |||  ||| 0.11 ||| Thus, reinterventions are often necessary in endovascularly treated patients with peripheral artery disease.
+12 |||  ||| 0.12 ||| Thus, based on the results of randomized clinical trials, current guidelines recommend dual antiplatelet therapy consisting of clopidogrel and aspirin for 12 months after percutaneous coronary intervention (PCI) due to acute myocardial infarction and/ or coronary artery disease.
+13 |||  ||| 0.13 ||| The results of the MIRROR study showed that patients treated with clopidogrel þ aspirin compared to aspirin alone had significantly lower target lesion revascularization (TLR) rates at 6 months.
+14 |||  ||| 0.14 ||| We therefore conducted an additional clinical follow-up of MIRROR patients at 12 months to evaluate the persistence or extinction of the clinical advantage of dual antiplatelet therapy.
+15 ||| METHODS ||| 1.1 ||| Study Design and Patients
+16 ||| METHODS ||| 1.2 ||| The MIRROR trial was an investigator-initiated, prospective, randomized, single-center, double-blinded and placebo-controlled clinical trial whose 6-month results were published in 2012.
+17 ||| METHODS ||| 1.3 ||| The study was listed on clinicaltrials.gov (identifier NCT00163267) and supported by Sanofi-Aventis S.A (Paris, France).
+18 ||| METHODS ||| 1.4 ||| The aim of the current secondary analysis was to evaluate if the initial benefit seen with 6 months of dual antiplatelet therapy compared to aspirin monotherapy would persist after discontinuation of clopidogrel.
+19 ||| METHODS ||| 1.5 ||| The study began in September 2005 and completed in April 2011.
+20 ||| METHODS ||| 1.6 ||| In brief, 80 patients (42 men; mean age 70 years) gave written informed consent and were enrolled in the trial according to the inclusion/exclusion criteria (Table 1).
+21 ||| METHODS ||| 1.7 ||| Forty patients were randomized to the clopidogrel arm and 40 to the placebo arm according to a lot-generated random list (Fig.
+22 ||| METHODS ||| 1.8 ||| They all underwent balloon angioplasty alone or with additional stenting of the femoropopliteal lesion if required (Table 2).
+23 ||| METHODS ||| 1.9 ||| There was no limitation on the lesion length.
+24 ||| METHODS ||| 1.10 ||| Stents employed were Xpert (Abbott Vascular, Redwood City, CA, USA); S.M.A.R.T (Cordis Corporation, a Johnson & Johnson company, Bridgewater, NJ, USA); Complete (Medtronic Vascular, Santa Rosa, CA, USA); and Zilver (Cook Medical Inc, Bloomington, IN, USA).
+25 ||| METHODS ||| 1.11 ||| All patients were administered an intra-arterial 5000-unit heparin bolus at the time of the procedure.
+26 ||| METHODS ||| 1.12 ||| The clopidogrel group received 300 mg of clopidogrel (Plavix, Sanofi-Aventis S.A.) and 500 mg of aspirin (Bayer AG, Leverkusen, Germany) 6 to 12 hours before the intervention as a bolus, with a daily dose of 75 mg of clopidogrel and 100 mg of aspirin for 6 months following the intervention.
+27 ||| METHODS ||| 1.13 ||| The placebo group received a 300-mg placebo and 500 mg of aspirin 6 to 12 hours before the intervention as a bolus, with a daily dose of 75 mg of placebo and 500 mg of aspirin for 6 months.
+28 ||| METHODS ||| 1.14 ||| Medication was given in the form of blister packs to the patients; placebo and verum medications were indistinguishable.
+29 ||| METHODS ||| 1.15 ||| The patients were supplied with the blinded medication for 6 months.
+30 ||| METHODS ||| 1.16 ||| The patients and investigators were not informed about the assigned study medication.
+31 ||| METHODS ||| 1.17 ||| Endpoints and Extended Follow-up
+32 ||| METHODS ||| 1.18 ||| Primary endpoints were the concentration of platelet activation markers using the Chandler-Loop vessel model and the rate of clopidogrel resistance.
+33 ||| METHODS ||| 1.19 ||| Secondary endpoints were the clinical development of the patients 6 months after the intervention as reflected by TLR, restenosis, ankle-brachial index (ABI), Rutherford class, serious adverse events (SAE), and days in hospital due to TLR.
+34 ||| METHODS ||| 1.20 ||| These data were reported previously.
+35 ||| METHODS ||| 1.21 ||| TLR was carried out if clinical claudication symptoms, as well as angiographically confirmed restenosis, were present.
+36 ||| METHODS ||| 1.22 ||| After the first clinical follow-up, an additional follow-up of the patients was performed 12 months after the interventions.
+37 ||| METHODS ||| 1.23 ||| Patients were contacted either during a hospital stay or interviewed by telephone.
+38 ||| METHODS ||| 1.24 ||| At 12 months, 36 clopidogrel patients and 37 placebo patients were re-evaluated; 3 clopidogrel and 4 placebo patients could not be contacted and where lost to follow-up.
+39 ||| METHODS ||| 1.25 ||| If TLR and reintervention had been performed outside our department, the interventionist was contacted to obtain angiographic images of the intervention, which were reviewed to confirm TLR.
+40 ||| Statistical Analysis ||| 2.1 ||| All data were analyzed according to the intention-to-treat principle.
+41 ||| Statistical Analysis ||| 2.2 ||| Normally distributed descriptive variables are given as the mean 6 standard deviation and compared using a 2-sided t test.
+42 ||| Statistical Analysis ||| 2.3 ||| Categorical variables were compared using a chi-square test.
+43 ||| Statistical Analysis ||| 2.4 ||| Eventfree survival was estimated using the KaplanMeier method; the curves were compared with the log-rank test.
+44 ||| Statistical Analysis ||| 2.5 ||| Calculations were performed with SPSS software (version 17; IBM Corporation, Somers, NY, USA).
+45 ||| RESULTS ||| 3.1 ||| All baseline demographic characteristics were balanced between the two treatment groups (Table 2).
+46 ||| RESULTS ||| 3.2 ||| Among the lesion characteristics, however, the clopidogrel group had a signif- icantly longer mean length (p¼0.011) and more restenotic lesions (p¼0.01).
+47 ||| RESULTS ||| 3.3 ||| No other lesion or intervention characteristic differed between the treatment groups.
+48 ||| RESULTS ||| 3.4 ||| At 6 months, clopidogrel patients had significantly lower rates of TLR compared to placebo patients [2 (5%) vs. 8 (20%), p¼0.04].
+49 ||| RESULTS ||| 3.5 ||| None of the TLR was due to thrombotic occlusion of previously recanalized arteries.
+50 ||| RESULTS ||| 3.6 ||| There were no significant differences in the rate of binary restenosis at 6 months.
+51 ||| RESULTS ||| 3.7 ||| After stopping clopidogrel/placebo, the significant difference in TLR disappeared [9 (25%) clopidogrel vs. 12 (32.4%) placebo (p¼0.35)].
+52 ||| RESULTS ||| 3.8 ||| Kaplan-Meier estimates of TLR at 6 and 12 months are shown in Figure 1A.
+53 ||| RESULTS ||| 3.9 ||| Subgroup analyses of patients treated either with angioplasty alone or angioplasty þ stent showed no significant difference in TLR rates.
+54 ||| RESULTS ||| 3.10 ||| Mortality (Fig.
+55 ||| RESULTS ||| 3.11 ||| At 12 months, no clopidogrel patient had died vs. 3 placebo patients (p¼0.08).
+56 ||| RESULTS ||| 3.12 ||| Causes of death were sepsis, myocardial infarction, and heart failure.
+57 ||| RESULTS ||| 3.13 ||| Subsequently, study participants remained on an indefinite regimen of aspirin monotherapy.
+58 ||| RESULTS ||| 3.14 ||| At 12 months after the primary intervention, the positive effect of dual antiplatelet therapy did not persist after discontinuation of clopidogrel.
+59 ||| RESULTS ||| 3.15 ||| There was no longer a significant difference in TLR rates at 12 months.
+60 ||| RESULTS ||| 3.16 ||| All revascularizations were owing to clinical deterioration and angiographically confirmed restenosis.
+61 ||| RESULTS ||| 3.17 ||| These results could reflect the equal restenosis rates in both groups.
+62 ||| RESULTS ||| 3.18 ||| Clopidogrel seems to reduce claudication symptoms even in patients with angiographically confirmed restenosis, although we can only assume what the effect would have been if clopidogrel had been continued.
+63 ||| RESULTS ||| 3.19 ||| Our results are in line with the hypothesis of a rebound effect with hyperthrombotic activity after cessation of antiplatelet therapy.
+64 ||| RESULTS ||| 3.20 ||| This effect has been described as a transient increased risk of adverse cardiovascular events after discontinuation of clopidogrel in patients treated with PCI.
+65 ||| RESULTS ||| 3.21 ||| This effect, however, seems to disappear after cessation of clopidogrel.
+66 ||| RESULTS ||| 3.22 ||| In coronary interventions, conflicting results have been published on the rebound phenomenon.
+67 ||| RESULTS ||| 3.23 ||| Ho et al.
+68 ||| RESULTS ||| 3.24 ||| Early discontinuation (,6 months) Figure 2 ^ (A) Kaplan-Meier curve representing freedom from target lesion revascularization (TLR) at 12 months after the intervention.
+69 ||| RESULTS ||| 3.25 ||| The log-rank test shows a significant difference between the treatment groups at 6 months (p¼0.04) but at 12 months, there is no difference (p¼0.35).
+70 ||| RESULTS ||| 3.26 ||| CLOPIDOGREL þ ASA VS. ASA ALONE IN PAD J ENDOVASC THER Strobl et al.
+71 ||| RESULTS ||| 3.27 ||| Some studies showed a potential benefit of prolonged (.12 months) dual antiplatelet therapy, 11,28 whereas others did not.
+72 ||| RESULTS ||| 3.28 ||| The current recommendations include 12 months of dual antiplatelet therapy after PCI based on the results of large studies.
+73 ||| RESULTS ||| 3.29 ||| Nevertheless, coronary interventions cannot really be compared to peripheral interventions.
+74 ||| RESULTS ||| 3.30 ||| Coronary drug-eluting stents are associated with delayed endothelialization, which might result in late stent thrombosis when dual antiplatelet therapy is stopped.
+75 ||| RESULTS ||| 3.31 ||| In MIRROR, no drug-eluting stents were placed, so this was not an issue in this study.
+76 ||| RESULTS ||| 3.32 ||| Furthermore, our results support the conclusion that a premature cessation of dual antiplatelet therapy should be avoided, except under circumstances in which it would be clinically unsafe to do so, such as allergic reactions or for patients requiring surgery.
+77 ||| RESULTS ||| 3.33 ||| Therefore, the treating physician should discuss the importance of dual antiplatelet therapy with the patient before the intervention.
+78 ||| RESULTS ||| 3.34 ||| In addition, primary care physicians should be informed about the importance of taking clopidogrel regularly and of not discontinuing antiplatelet therapy unless absolutely necessary.
+79 ||| RESULTS ||| 3.35 ||| In addition, there was an indication of lower mortality in the clopidogrel group.
+80 ||| RESULTS ||| 3.36 ||| Given the fact that most patients with peripheral artery disease suffer from systemic atherosclerosis, 36 patients with systemic cardiovascular disease might profit both locally and systemically from dual antiplatelet therapy, particularly as regards a reduction in death, stroke, or myocardial infarction, as reported in the CHARISMA trial.
+81 ||| RESULTS ||| 3.37 ||| It is a reasonable clinical recommendation that prolonged dual antiplatelet therapy (.6 months) should be considered in patients who are at high risk for restenosis.
+82 ||| RESULTS ||| 3.38 ||| This is especially true considering our results, which demonstrated that ongoing dual antiplatelet therapy, when compared to aspirin monotherapy, appears to reduce the claudication symptoms of patients with similar restenosis rates.
+83 ||| RESULTS ||| 3.39 ||| One strategy may be to prolong dual antiplatelet therapy for an extended period or even indefinitely to avoid an increase in TLR.
+84 ||| RESULTS ||| 3.40 ||| Although the bleeding risk and the costeffectiveness of this strategy have yet to be comprehensively evaluated, our results were encouraging in that there was no increased bleeding risk linked with dual antiplatelet therapy.
+85 ||| Limitations ||| 4.1 ||| This was a study with a small sample size.
+86 ||| Limitations ||| 4.2 ||| Two baseline criteria (lesion length and restenotic lesions) were not well matched.
+87 ||| Limitations ||| 4.3 ||| Future studies with larger sample sizes are required to identify in which patient population a prolonged or even indefinite dual antiplatelet therapy would be useful.
+88 ||| Limitations ||| 4.4 ||| Furthermore, new antiplatelet agents, such as ticagrelor or prasugrel, which are now used after coronary interventions, should be assessed in patients with peripheral vascular diseases as well.
+89 ||| Limitations ||| 4.5 ||| Until further evidence is collected, an individually tailored dual antiplatelet therapy seems J ENDOVASC THER CLOPIDOGREL þ ASA VS. ASA ALONE IN PAD 705 2013;20:699-706 Strobl et al.
+90 ||| Conclusion ||| 5.1 ||| In contrast to the predictions from studies with limited follow-up that investigated the role of dual antiplatelet therapy in minimizing TLR, the advantage of dual antiplatelet therapy does not persist after stopping clopidogrel.
+91 ||| Conclusion ||| 5.2 ||| A prolonged dual therapy (.6 months) should be considered in patients who are at high risk for restenosis and TLR.
+92 ||| Conclusion ||| 5.3 ||| Further prospective trials are required in order to determine the optimal duration of dual antiplatelet therapy.

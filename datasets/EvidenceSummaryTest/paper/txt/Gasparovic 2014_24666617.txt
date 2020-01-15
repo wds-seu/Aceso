@@ -1,0 +1,72 @@
+1 |||  ||| 0.1 ||| Coronary artery bypass grafting is pivotal in the contemporary management of complex coronary artery disease.
+2 |||  ||| 0.2 ||| Interpatient variability to antiplatelet agents, however, harbors the potential to compromise the revascularization benefit by increasing the incidence of adverse events.
+3 |||  ||| 0.3 ||| This study was designed to define the impact of dual antiplatelet therapy (dAPT) on clinical outcomes among aspirin-resistant patients who underwent coronary artery surgery.
+4 |||  ||| 0.4 ||| We randomly assigned 219 aspirin-resistant patients according to multiple electrode aggregometry to receive clopidogrel (75 mg) plus aspirin (300 mg) or aspirin-monotherapy (300 mg).
+5 |||  ||| 0.5 ||| The primary end point was a composite outcome of all-cause death, nonfatal myocardial infarction, stroke, or cardiovascular hospitalization assessed at 6 months post-operatively.
+6 |||  ||| 0.6 ||| The primary end point occurred in 6% of patients assigned to dAPT and 10% of patients randomized to aspirin-monotherapy (relative risk 0.61, 95% confidence interval 0.25 to 1.51, p [ 0.33).
+7 |||  ||| 0.7 ||| No significant treatment effect was noted in the occurrence of the safety end point.
+8 |||  ||| 0.8 ||| The total incidence of bleeding events was 25% and 19% in the dAPT and aspirin-monotherapy groups, respectively (relative risk 1.34, 95% confidence interval 0.80 to 2.23, p [ 0.33).
+9 |||  ||| 0.9 ||| In the subgroup analysis, dAPT led to lower rates of adverse events in patients with a body mass index >30 kg/m 2 (0% vs 18%, p <0.01) and those <65 years (0% vs 10%, p [ 0.02).
+10 |||  ||| 0.10 ||| In conclusion, the addition of clopidogrel in patients found to be aspirin resistant after coronary artery bypass grafting did not reduce the incidence of adverse events, nor did it increase the number of recorded bleeding events.
+11 |||  ||| 0.11 ||| A total of 224 aspirin-resistant patients with CABG were randomly assigned to receive aspirin only (n ¼ 110) or aspirin plus clopidogrel (n ¼ 114).
+12 |||  ||| 0.12 ||| An overview of the patient enrollment and randomization is shown in Figure 1.
+13 |||  ||| 0.13 ||| The baseline patient demographic and clinical profiles were well balanced between the 2 groups (Table 1).
+14 |||  ||| 0.14 ||| Approximately, 3/4 of the patients were men, and the majority of them had three-vessel disease, which is representative of the contemporary cardiac surgical practice.
+15 |||  ||| 0.15 ||| Beta blockers were utilized more commonly in the dAPT group before surgery.
+16 |||  ||| 0.16 ||| The use of other preoperative medications, including antiplatelet agents, did not differ significantly between the groups (Table 1).
+17 |||  ||| 0.17 ||| Perioperative data are listed in Table 2.
+18 |||  ||| 0.18 ||| Postoperative medication regimes did not differ between the groups with the notable exception of clopidogrel utilization, which was subject to the randomization protocol (Table 2).
+19 |||  ||| 0.19 ||| There were no differences in preoperative platelet aggregability between the groups (Table 1).
+20 |||  ||| 0.20 ||| The ASPI test values evaluated on POD 4 were also comparable between the control and intervention groups (Table 2).
+21 |||  ||| 0.21 ||| Postoperative The American Journal of Cardiology (www.ajconline.org)  Additional evidence for a hypercoagulable state in the early postoperative period was found in the dynamics of fibrinogen levels.
+22 |||  ||| 0.22 ||| We documented a consistent and statistically significant increase in fibrinogen concentrations in response to the surgical procedure (4.1 AE 1.3 vs 6.8 AE 1.4 g/L, p <0.001).
+23 |||  ||| 0.23 ||| The observed increase in platelet aggregability was seen in both groups, irrespective of the antiplatelet management strategy (Figure 2).
+24 |||  ||| 0.24 ||| Six-month follow-up was completed in 107 (97%) and 112 (98%) patients in the aspirin monotherapy and dAPT groups, respectively.
+25 |||  ||| 0.25 ||| The study outcomes are listed in Table 3.
+26 |||  ||| 0.26 ||| Freedom from MACCE at the completion of the follow-up period was 90% in the control group and 94% in the dAPT group.
+27 |||  ||| 0.27 ||| The overall incidence of the primary end point was not affected by the different antiplatelet management protocols (6% vs 10%; RR 0.61, 95% CI 0.25 to 1.51, two-tailed p ¼ 0.33, one-tailed p ¼ 0.20).
+28 |||  ||| 0.28 ||| A nonsignificant 43% RR reduction in the composite end point of MI/stroke/cardiovascular death was observed with enhancement of platelet inhibition (two-tailed p ¼ 0.49, one-tailed p ¼ 0.34).
+29 |||  ||| 0.29 ||| The frequency of individual MACCE components was not affected by the antiplatelet management strategy (Table 3).
+30 |||  ||| 0.30 ||| The causes of death in the 4 control group patients were stroke, sepsis, necrotizing tracheitis, and trauma.
+31 |||  ||| 0.31 ||| Two patients in the dAPT group died during follow-up.
+32 |||  ||| 0.32 ||| One suffered a stroke that eventually led to his death, whereas the other died of intractable respiratory failure induced by pneumonia.
+33 |||  ||| 0.33 ||| An intention-to-treat analysis revealed no statistically significant differences in the incidence of bleeding events between the groups within any of the Bleeding Academic Research Consortium strata (Table 3).
+34 |||  ||| 0.34 ||| A nonsignificant increase in the frequency of total bleeding events was noted with the postprocedural addition of clopidogrel to aspirin-resistant patients (25% vs 19%; RR 1.34, 95% CI 0.80 to 2.23, two-tailed p ¼ 0.33, one-tailed p ¼ 0.17).
+35 |||  ||| 0.35 ||| A post hoc analysis excluding patients requiring anticoagulation during the follow-up period was also performed.
+36 |||  ||| 0.36 ||| The incidence of bleeding events in the per-protocol analysis did not differ significantly from the intention-to-treat analysis (24% in the dAPT group vs 19% in the aspirin monotherapy group; RR 1.28, 95% CI 0.75 to 2.20, two-tailed p ¼ 0.39, one-tailed p ¼ 0.23).
+37 |||  ||| 0.37 ||| The incidence of the primary end point was analyzed in patient subgroups, stratified according to the presence or absence of individual co-morbidities or clinical characteristics.
+38 |||  ||| 0.38 ||| We found a statistically significant reduction in the frequency of MACCE in patients aged <65 years (0% vs 10%, p ¼ 0.02).
+39 |||  ||| 0.39 ||| Analogously, patients with a body mass index >30 kg/m 2 were more likely to benefit from platelet inhibition with clopidogrel on the background of aspirin therapy in the prevention of the composite adverse outcome.
+40 |||  ||| 0.40 ||| The incidences of MACCE among obese patients were 0% with the dAPT strategy versus 18% in the aspirin-only arm (p <0.01).
+41 |||  ||| 0.41 ||| The subgroup analyses are listed in Table 4. dAPT did not increase the incidence of bleeding events in patients <65 years (22% vs 22%; RR 0.99, 95% CI 0.48 to 2.04, two-tailed p ¼ 1.0, one-tailed p ¼ 0.61).
+42 |||  ||| 0.42 ||| Similarly, dAPT did not significantly increase bleeding among patients with a body mass index >30 kg/m 2 (29% vs 20%; RR 1.46, 95% CI 0.69 to 3.11, two-tailed p ¼ 0.45, one-tailed p ¼ 0.23).
+43 |||  ||| 0.43 ||| Similar bleeding rates were noted in all other studied subgroups (all one-and two-tailed p >0.05).
+44 |||  ||| 0.44 ||| Computed tomographic imaging revealed better saphenous vein graft patency in the dual antiplatelet treatment arm.
+45 |||  ||| 0.45 ||| In a similar study design, Sun et al 23 suggested that, in the 79 patients who completed angiographic follow-up, clopidogrel was superior to placebo in preventing radial artery graft failure.
+46 |||  ||| 0.46 ||| A caveat worth noting was that only a low-maintenance aspirin dose was administered (81 to 100 mg) in the monotherapy arm in the latter trials, 3,23 which has been found to incompletely inhibit TxA2 production after CABG.
+47 |||  ||| 0.47 ||| In the Clopidogrel for High Atherothrombotic Risk and Ischemic Stabilization, Management, and Avoidance trial evaluating patients with stable cardiovascular disease, dAPT was ineffective in reducing the composite end point of death, MI, or stroke.
+48 |||  ||| 0.48 ||| The principal goal of this trial was to measure the impact of enhanced platelet inhibition with clopidogrel in the background of standard therapy in aspirin-resistant patients with CABG on the incidence of adverse events.
+49 |||  ||| 0.49 ||| This is the first prospective randomized study to address the clinical impact of augmented antiplatelet therapy after CABG in patients with aggregometry-documented aspirin resistance.
+50 |||  ||| 0.50 ||| Platelets are anuclear cell fragments harboring unique adhesion mechanisms that are as critical to arresting bleeding as they are to atherothrombosis.
+51 |||  ||| 0.51 ||| The rationale for using clopidogrel in patients with a history of cardiac surgery has been validated in the Clopidogrel versus Aspirin in Patients at Risk of Ischemic Events study.
+52 |||  ||| 0.52 ||| We found that 51% of patients who underwent elective CABG had incomplete inhibition of platelet reactivity with aspirin.
+53 |||  ||| 0.53 ||| The utilized aggregometry-based algorithm for discriminating between aspirin responders and nonresponders had a distinct advantage in the comparison with conventional coagulation tests.
+54 |||  ||| 0.54 ||| It used whole blood at the patient's own temperature for analysis, thereby measuring platelet activity within their physiological milieu.
+55 |||  ||| 0.55 ||| Similar incidences of post-CABG aspirin resistance were previously reported.
+56 |||  ||| 0.56 ||| We found that the surgical procedure elicited an increase in both fibrinogen levels and platelet reactivity.
+57 |||  ||| 0.57 ||| Although there are data to suggest that aspirin resistance postoperatively is a transient phenomenon, 28 this observed early hypercoagulability may render the grafts particularly vulnerable during this period.
+58 |||  ||| 0.58 ||| The parallel and synergistic inhibitions of the cyclooxygenase-1 and ADP-mediated platelet activation pathways result in amplification of platelet inhibition, 5 which we hypothesized to be potentially useful in patients exhibiting single antiplatelet drug resistance.
+59 |||  ||| 0.59 ||| Our trial, however, did not prove that the combination of aspirin and clopidogrel was superior in reducing the frequency of the primary end point to aspirin monotherapy in aspirin-resistant patients with CABG.
+60 |||  ||| 0.60 ||| These results mirror the observations from a retrospective analysis of propensity-matched cohorts, which also found no survival benefit for dAPT over aspirin after CABG.
+61 |||  ||| 0.61 ||| This gain was not offset by increasing bleeding events in neither the entire study cohort nor any of the subgroups.
+62 |||  ||| 0.62 ||| We believe that a study evaluating the potential of these aspirin-resistant subgroups to capitalize on enhancement of antiplatelet therapy is warranted.
+63 |||  ||| 0.63 ||| Our study has significant limitations.
+64 |||  ||| 0.64 ||| The estimation of the sample size required to test the null hypothesis was based on an exact binomial test power analysis.
+65 |||  ||| 0.65 ||| In fact, a nonsignificant 39% RR reduction in the primary end point was noted with the addition of clopidogrel to aspirin in the context of aspirin resistance.
+66 |||  ||| 0.66 ||| Our results may provide an impetus for the conduct of a larger scale study of a similar design.
+67 |||  ||| 0.67 ||| Another potential drawback of our study stems from the lack of an unequivocal definition of aspirin resistance.
+68 |||  ||| 0.68 ||| Aggregometry in our study revealed a continuum in individual platelet inhibition responses to aspirin.
+69 |||  ||| 0.69 ||| The cut-off points of multiple platelet function tests differentiating between aspirin response and resistance are based on the definition, rather than unambiguous clinical data supporting their relevance.
+70 |||  ||| 0.70 ||| Furthermore, different laboratory pathway descriptors of platelet function yield varying incidences of high on-therapy residual platelet reactivity.
+71 |||  ||| 0.71 ||| One should, therefore, resist extrapolating results based on one platelet assessment instrument onto a larger group of platelet function tests, until confirmation of interchangeability has been established.
+72 ||| Disclosures ||| 1.1 ||| The authors have no conflicts of interest to disclose.

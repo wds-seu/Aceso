@@ -1,0 +1,205 @@
+1 |||  ||| 0.1 ||| Recent studies suggest that the intracoronary administration of bone marrow (BM)-derived mesenchymal stem cells (MSCs) may improve left ventricular function in patients with acute myocardial infarction (AMI).
+2 |||  ||| 0.2 ||| However, there is still argumentative for the safety and efficacy of MSCs in the AMI setting.
+3 |||  ||| 0.3 ||| We thus performed a randomized pilot study to investigate the safety and efficacy of MSCs in patients with AMI.
+4 |||  ||| 0.4 ||| Eighty patients with AMI after successful reperfusion therapy were randomly assigned and received an intracoronary administration of autologous BM-derived MSCs into the infarct related artery at 1 month.
+5 |||  ||| 0.5 ||| During follow-up period, 58 patients completed the trial.
+6 |||  ||| 0.6 ||| The primary endpoint was changes in left ventricular ejection fraction (LVEF) by single-photon emission computed tomography (SPECT) at 6 month.
+7 |||  ||| 0.7 ||| We also evaluated treatment-related adverse events.
+8 |||  ||| 0.8 ||| The absolute improvement in the LVEF by SPECT at 6 month was greater in the BM-derived MSCs group than in the control group (5.9% ± 8.5% vs 1.6% ± 7.0%; P = 0.037).
+9 |||  ||| 0.9 ||| There was no treatment-related toxicity during intracoronary administration of MSCs.
+10 |||  ||| 0.10 ||| No significant adverse cardiovascular events occurred during follow-up.
+11 |||  ||| 0.11 ||| In conclusion, the intracoronary infusion of human BM-derived MSCs at 1 month is tolerable and safe with modest improvement in LVEF at 6-month follow-up by SPECT.
+12 |||  ||| 0.12 ||| However, there is still argumentative for the safety and efficacy of MSCs in the AMI setting.
+13 |||  ||| 0.13 ||| We thus performed a randomized pilot study to investigate the safety and efficacy of MSCs in patients with AMI.
+14 |||  ||| 0.14 ||| Eighty patients with AMI after successful reperfusion therapy were randomly assigned and received an intracoronary administration of autologous BM-derived MSCs into the infarct related artery at 1 month.
+15 |||  ||| 0.15 ||| During follow-up period, 58 patients completed the trial.
+16 |||  ||| 0.16 ||| The primary endpoint was changes in left ventricular ejection fraction (LVEF) by single-photon emission computed tomography (SPECT) at 6 month.
+17 |||  ||| 0.17 ||| We also evaluated treatment-related adverse events.
+18 |||  ||| 0.18 ||| The absolute improvement in the LVEF by SPECT at 6 month was greater in the BM-derived MSCs group than in the control group (5.9% ± 8.5% vs 1.6% ± 7.0%; P = 0.037).
+19 |||  ||| 0.19 ||| There was no treatment-related toxicity during intracoronary administration of MSCs.
+20 |||  ||| 0.20 ||| No significant adverse cardiovascular events occurred during follow-up.
+21 |||  ||| 0.21 ||| In conclusion, the intracoronary infusion of human BM-derived MSCs at 1 month is tolerable and safe with modest improvement in LVEF at 6-month follow-up by SPECT.
+22 |||  ||| 0.22 ||| Remarkable advances of early reperfusion therapy in acute myocardial infarction (AMI) have contributed to a reduction of early mortality as well as complications of post-AMI (1)(2)(3).
+23 |||  ||| 0.23 ||| Nevertheless, delayed treatment leads to subsequent loss of cardiomyocyte and heart failure, which is a major cause of long term morbidity and mortality.
+24 |||  ||| 0.24 ||| In this respect, stem cell therapy has emerged as a novel alternative option for repairing the damaged myocardium (4).
+25 |||  ||| 0.25 ||| The type and time of administration of stem cells are important issues.
+26 |||  ||| 0.26 ||| First, bone marrow (BM)-derived mesenchymal stem cells (MSCs) are considered to be an attractive candidate because of high replicability, paracrine effect, ability to preserve potency, and no adverse reactions to allogeneic transplants (5,6).
+27 |||  ||| 0.27 ||| However, the practical use of MSCs is limited because of time-consuming processes, expensive cost, need for strict control of infection and so on.
+28 |||  ||| 0.28 ||| Second, most studies were performed around 1 week after AMI with autologous bone marrow-derived progenitor cells (BMCs) (7)(8)(9)(10)(11)(12).
+29 |||  ||| 0.29 ||| Although STAR-Heart study showed beneficial effects of BMCs in patients with chronic heart failure (13), there is little evidence of best time to treat AMI with stem cells (14).
+30 |||  ||| 0.30 ||| Assmus et al.
+31 |||  ||| 0.31 ||| However, purified MSCs can be expanded from BM and have no concern about contamination.
+32 |||  ||| 0.32 ||| Therefore, we hypothesized that treatment with purified BM-derived MSCs would be effective in patients with AMI despite of delayed administration.
+33 |||  ||| 0.33 ||| We designed a randomized, multicenter, pilot study to determine whether intracoronary infusion of autologous BM-derived MSCs at 1 month is safe and effective in patients with AMI.
+34 |||  ||| 0.34 ||| Control group received optimal medical therapy alone.
+35 ||| MATERIALS AND METHODS ||| 1.1 ||| Study design and population
+36 ||| MATERIALS AND METHODS ||| 1.2 ||| From March 2007 to September 2010, total 80 patients were enrolled from three tertiary hospitals in Korea.
+37 ||| MATERIALS AND METHODS ||| 1.3 ||| Patients were eligible if 1) they were aged 18-70 yr; 2) they had ischemic chest pain for > 30 min; 3) they were admitted to hospital < 24 hr after the onset of chest pain; 4) electrocardiography (ECG) showed ST segment elevation > 1 mm in two consecutive leads in the limb leads or > 2 mm in the precordial leads; and 5) they could be enrolled in the study < 72 hr after successful revascularization (defined as residual stenosis < 30% of the infarct-related artery [IRA]).
+38 ||| MATERIALS AND METHODS ||| 1.4 ||| We excluded patients with cardiogenic shock, life-threatening arrhythmia, advanced renal or hepatic dysfunction, history of previous coronary artery bypass graft, history of hematologic disease and malignancy, major bleeding requiring blood transfusion, stroke or transient ischemic attack in the previous 6 months, use of corticosteroids or antibiotics during the previous month, major surgical procedure in the previous 3 months, cardiopulmonary resuscitation for > 10 min within the previous 2 weeks, positive skin test for penicillin, positive result for viral markers (human immunodeficiency virus [HIV], hepatitis B virus [HBV], hepatitis C virus [HCV] and Venereal Disease Research Laboratory [VDRL] test), pregnant woman and possible candidate for pregnancy.
+39 ||| MATERIALS AND METHODS ||| 1.5 ||| Preparation of autologous MSCs
+40 ||| MATERIALS AND METHODS ||| 1.6 ||| Twenty to twenty-five milliliters (mean ± SD: 23.1 ± 11.5 mL) of BM aspirates were obtained under local anesthesia from the posterior iliac crest in the MSCs group on 3.8 ± 1.5 days after admission.
+41 ||| MATERIALS AND METHODS ||| 1.7 ||| All manufacturing and product testing procedures for the generation of clinical-grade autologous MSCs were carried out under good manufacturing practice (FCB-Pharmicell Company Limited, Seongnam, Korea).
+42 ||| MATERIALS AND METHODS ||| 1.8 ||| Mononuclear cells were separated from the BM by density gradient centrifugation (HIS-TOPAQUE-1077; Sigma-Aldrich, St. Louis, MO, USA) and washed with phosphate-buffered saline (PBS).
+43 ||| MATERIALS AND METHODS ||| 1.9 ||| Cells were resuspended in Dulbecco's modified Eagle's medium-low glucose (DMEM; Gibco, Grand Island, NY, USA) containing 10% fetal bovine serum (Gibco), 100 U/mL penicillin/100 μg/mL and streptomycin (Gibco).
+44 ||| MATERIALS AND METHODS ||| 1.10 ||| They were plated at 2-3 × 10 5 cells/cm 2 into 75 cm 2 flasks.
+45 ||| MATERIALS AND METHODS ||| 1.11 ||| Cultures were maintained at 37°C in a humidified atmosphere containing 5% CO2.
+46 ||| MATERIALS AND METHODS ||| 1.12 ||| After 5-7 days, non-adherent cells were removed by replacing the medium; adherent cells were cultured for another 2-3 days.
+47 ||| MATERIALS AND METHODS ||| 1.13 ||| When the cultures were near confluence (70%-80%), adherent cells were detached by using trypsin containing ethylene diamine tetra-acetic acid (EDTA; Gibco) and replated at 4-5 × 10 3 cells/cm 2 in 175 cm 2 flasks.
+48 ||| MATERIALS AND METHODS ||| 1.14 ||| Cells were serially subcultured up to passage 4 or passage 5 for infusion (mean ± SD: 4.4 ± 0.5 passages).
+49 ||| MATERIALS AND METHODS ||| 1.15 ||| On the day of administration, MSCs were harvested using trypsin and EDTA, washed twice with PBS and once with saline solution, and resuspended to a final concentration of 1 × 10 6 Primary care and randomization All patients were required to have successful revascularization of an IRA on coronary angiography at the time of randomization.
+50 ||| MATERIALS AND METHODS ||| 1.16 ||| All patients received aspirin (300 mg loading dose, then 100 mg daily) and clopidogrel (600 mg loading dose, then 75 mg daily) with optimal medical therapy according to the American College of Cardiology (ACC)/American Heart Association (AHA) guidelines for treatment of ST-segment elevation myocardial infarction (STEMI) (16)(17)(18), including aspirin, clopidogrel, beta blocker, angiotensin-converting enzyme (ACE) inhibitor (or angiotensin-receptor blocker) and statin unless these drugs were contraindicated.
+51 ||| MATERIALS AND METHODS ||| 1.17 ||| The use of aspiration thrombectomy or a glycoprotein IIb/IIIa inhibitor during percutaneous coronary intervention (PCI) was left to the investigator's discretion.
+52 ||| MATERIALS AND METHODS ||| 1.18 ||| If primary PCI was not available, a thrombolytic agent was used to reperfuse the occluded artery.
+53 ||| MATERIALS AND METHODS ||| 1.19 ||| We performed rescue PCI when ST-segment resolution was < 50% at follow-up electrocardiography 90 min after thrombolytic therapy.
+54 ||| MATERIALS AND METHODS ||| 1.20 ||| Patients who were successfully reperfused with thrombolytic agents underwent elective PCI.
+55 ||| MATERIALS AND METHODS ||| 1.21 ||| Patients were randomly allocated in a 1:1 cells/kg.
+56 ||| MATERIALS AND METHODS ||| 1.22 ||| The criteria for the release of MSCs for clinical use included viability > 80%, absence of microbial contamination (bacteria, fungus, virus, and mycoplasma) if undertaken 3-4 days before administration, and expression of CD73 and CD105 by > 90% of cells and absence of CD14, CD34, and CD45 by < 3% of cells as assessed by flow cytometry (data not shown).
+57 ||| MATERIALS AND METHODS ||| 1.23 ||| Also, the in vitro osteogenic and cardiomyogenic differentiation potential of MSCs in passage 0 or 1 was tested before release as a potency test.
+58 ||| MATERIALS AND METHODS ||| 1.24 ||| Alkaline phosphatase staining was used to demonstrate the osteogenic differentiation.
+59 ||| MATERIALS AND METHODS ||| 1.25 ||| Immunostaining with α-sarcomeric actin and troponin T was used to demonstrate the cardiomyogenic differentiation.
+60 ||| MATERIALS AND METHODS ||| 1.26 ||| Qualitative analysis showed well differentiation potential of all MSCs.
+61 ||| MATERIALS AND METHODS ||| 1.27 ||| Cell injection
+62 ||| MATERIALS AND METHODS ||| 1.28 ||| Injection of MSCs has been described elsewhere (11).
+63 ||| MATERIALS AND METHODS ||| 1.29 ||| The final preparation of MSCs (7.2 ± 0.90 × 10 7 cells) contained into sterilized syringe was gently transferred and mixed to infusion syringe to minimize cell aggregation and then infused into the IRA via the central lumen of an over-the-wire balloon catheter (Maverick ® , Boston Scientific, Natick, MA, USA).
+64 ||| MATERIALS AND METHODS ||| 1.30 ||| To allow the maximum contact time of MSCs with the microcirculation of the IRA, the balloon was inflated inside the stent at a low pressure to transiently interrupt antegrade blood flow during infusions.
+65 ||| MATERIALS AND METHODS ||| 1.31 ||| The entire cell injection was done during three transient occlusions, each lasting 2 to 3 min.
+66 ||| MATERIALS AND METHODS ||| 1.32 ||| Between occlusions, the coronary artery was reperfused for 3 min.
+67 ||| MATERIALS AND METHODS ||| 1.33 ||| After cell injection, repeated coronary angiography was undertaken to identify antegrade flow and the absence of other possible complications.
+68 ||| MATERIALS AND METHODS ||| 1.34 ||| Measurements of cardiac enzymes and electrocardiography were repeated to assess periprocedural myocardial infarction (MI).
+69 ||| MATERIALS AND METHODS ||| 1.35 ||| The mean duration of cultured MSCs from BM aspiration to intracoronary injection was 25.0 ± 2.4 days.
+70 ||| MATERIALS AND METHODS ||| 1.36 ||| Follow-up visit and endpoints
+71 ||| MATERIALS AND METHODS ||| 1.37 ||| Study visits were scheduled at 1, 2, and 6 months after hospital admission for the clinical and functional evaluation.
+72 ||| MATERIALS AND METHODS ||| 1.38 ||| Coronary angiography, electrocardiogram-gated single-photon emission computed tomography (SPECT) and echocardiography were done at baseline and 6 months.
+73 ||| MATERIALS AND METHODS ||| 1.39 ||| Twenty-four hour ambulatory ECG (Holter) monitoring was done at baseline, 1 month and 6 months.
+74 ||| MATERIALS AND METHODS ||| 1.40 ||| The primary endpoint of the study was absolute changes in global LVEF from baseline to 6 months after the MSCs administration measured by SPECT.
+75 ||| MATERIALS AND METHODS ||| 1.41 ||| Secondary endpoints were changes in left ventricular end-diastolic volume (LVEDV), left ventricular end-systolic volume (LVESV), regional wall motion score index (WMSI) and major adverse cardiac events (MACE).
+76 ||| MATERIALS AND METHODS ||| 1.42 ||| MACE was defined as the composites of any cause of death, myocardial infarction, revascularization of the target vessel, re-hospitalization for heart failure, and life-threatening arrhythmia.
+77 ||| MATERIALS AND METHODS ||| 1.43 ||| MI was defined following the consensus statement of the Joint European Society of Cardiology (ESC)/American College of Cardiology (ACC)/American Heart Association (AHA)/World Heart Federation (WHF) Task Force for the Redefinition of Myocardial Infarction for clinical trials on coronary intervention (19).
+78 ||| MATERIALS AND METHODS ||| 1.44 ||| Hence, periprocedural MI was defined as the levels of cardiac biomarkers (troponin or creatine kinase-MB [CK-MB]) > 3 times the 99th percentile of upper limit of normal (ULN) in patients with normal baseline levels, and as a subsequent elevation > 3 times in CK-MB or troponin in patients with raised baseline levels.
+79 ||| MATERIALS AND METHODS ||| 1.45 ||| Target-vessel revascularization (TVR) included bypass surgery or repeat PCI of the target vessel(s).
+80 ||| MATERIALS AND METHODS ||| 1.46 ||| System, Tel Aviv, Israel) equipped with a low-energy, high-resolution collimator.
+81 ||| MATERIALS AND METHODS ||| 1.47 ||| Sixty-four images were obtained over a 180° orbit using 90° between the heads.
+82 ||| MATERIALS AND METHODS ||| 1.48 ||| Acquisitions were attenuation-corrected and gated for 16 frames/cardiac cycle.
+83 ||| MATERIALS AND METHODS ||| 1.49 ||| Total acquisition time was ~20 min.
+84 ||| MATERIALS AND METHODS ||| 1.50 ||| Vendor-specific, computer-enhanced edge detection methods were used to assess the LV epicardial and endocardial margins during the entire cardiac cycle.
+85 ||| MATERIALS AND METHODS ||| 1.51 ||| The computer calculated resting global LVEF from the gated SPECT images using an automated algorithm (20).
+86 ||| MATERIALS AND METHODS ||| 1.52 ||| The analysis of SPECT images was performed by blinded independent investigators at each participating center.
+87 ||| MATERIALS AND METHODS ||| 1.53 ||| Regional and global LV function were measured by two-dimensional echocardiography according to the recommendations of the American Society of Echocardiography (21).
+88 ||| MATERIALS AND METHODS ||| 1.54 ||| LVEF was measured from the end-diastolic and end-systolic volumes calculated by the Simpson method from two orthogonal apical views.
+89 ||| MATERIALS AND METHODS ||| 1.55 ||| LV regional wall motion analyses were based on grading the contractility of individual segments.
+90 ||| MATERIALS AND METHODS ||| 1.56 ||| The left ventricle was divided into three levels (basal, mid, apical) and 16 segments.
+91 ||| MATERIALS AND METHODS ||| 1.57 ||| The basal and mid-levels were subdivided into six segments, and the apical level subdivided into four segments.
+92 ||| MATERIALS AND METHODS ||| 1.58 ||| Numerical scoring was adopted on the basis of the contractility of the individual segments.
+93 ||| MATERIALS AND METHODS ||| 1.59 ||| In this scoring system, higher scores indicated more severe abnormality in the motion of the wall: 1) normokinesis, 2) hypokinesis, 3) akinesis, 4) dyskinesis, and 5) aneurysm.
+94 ||| MATERIALS AND METHODS ||| 1.60 ||| The WMSI was derived by dividing the sum of wall motion score by the number of visualized segments; a normal WMSI was 1.
+95 ||| MATERIALS AND METHODS ||| 1.61 ||| Off-line assessment of all echocardiographic images was performed by one blinded independent investigator.
+96 ||| MATERIALS AND METHODS ||| 1.62 ||| Study hypothesis is to demonstrate the superiority of MSCs treatment compared with control group.
+97 ||| MATERIALS AND METHODS ||| 1.63 ||| Type I and II error is set to 0.05 and 0.20 (statistical power 80%).
+98 ||| MATERIALS AND METHODS ||| 1.64 ||| The changes of LVEF and standard deviation are 6.7% ± 6.5% in BMCs group and 0.7% ± 8.1% in control group.
+99 ||| MATERIALS AND METHODS ||| 1.65 ||| Based on the assumption of 6% differences of LVEF and 1:1 allocation ratio with 27% drop-out rate, total 80 patients (40 patients in each group) are necessary.
+100 ||| MATERIALS AND METHODS ||| 1.66 ||| Continuous variables are presented as mean ± standard deviation.
+101 ||| MATERIALS AND METHODS ||| 1.67 ||| Categorical data are presented as frequencies and percentages.
+102 ||| MATERIALS AND METHODS ||| 1.68 ||| Comparisons of continuous variables at baseline with those at follow-up were done with the paired t-test.
+103 ||| MATERIALS AND METHODS ||| 1.69 ||| Comparison of non-parametric data between groups was undertaken using the Wilcoxon rank sum test and the Mann-Whitney test.
+104 ||| MATERIALS AND METHODS ||| 1.70 ||| Statistical significance was set at P < 0.05.
+105 ||| MATERIALS AND METHODS ||| 1.71 ||| Data were analyzed using SPSS for Windows ver.
+106 ||| Ethics statement ||| 2.1 ||| This study (SEED-MSC) was a randomized, open-label, multicenter phase-II/III clinical trial, which was approved by the Kohttp://jkms.org rean Food and Drug Administration (KFDA) and registered with clinicaltrials.gov, number NCT01392105.
+107 ||| Ethics statement ||| 2.2 ||| The institutional review board of each participating center approved the treatment protocol before the initiation of enrollment.
+108 ||| Ethics statement ||| 2.3 ||| All patients provided written informed consent for inclusion in the trial.
+109 ||| Ethics statement ||| 2.4 ||| The changes of LVEDV and LVESV also did not significantly different at 6-month follow-up in either group.
+110 ||| Ethics statement ||| 2.5 ||| There were no significant differences with regard to WMSI and change in WMSI.
+111 ||| RESULTS ||| 3.1 ||| Study participants and baseline characteristics
+112 ||| RESULTS ||| 3.2 ||| Eighty patients were screened and 69 patients (86.3%) were included and randomly assigned to the MSCs group (n = 33) or control group (n = 36).
+113 ||| RESULTS ||| 3.3 ||| After enrollment, 11 patients were excluded for the reasons listed in Fig.
+114 ||| RESULTS ||| 3.4 ||| The main cause of exclusion during follow-up was poor image quality.
+115 ||| RESULTS ||| 3.5 ||| Two patients were excluded because of long-term medication of prohibited drug (corticosteroid).
+116 ||| RESULTS ||| 3.6 ||| There were no differences with respect to cardiovascular risk factors and medical treatments.
+117 ||| RESULTS ||| 3.7 ||| The Killip classification and angiographic characteristics including IRA were also similar between two groups.
+118 ||| RESULTS ||| 3.8 ||| Primary PCI was carried out in most cases, except 7 patients treated with thrombolytic agents (Table 2).
+119 ||| RESULTS ||| 3.9 ||| Rescue PCI was done in 1 out of 7 patients because of reperfusion failure.
+120 ||| RESULTS ||| 3.10 ||| There were no significant differences in procedural characteristics and time intervals from chest pain onset to treatment (Table 3).
+121 ||| RESULTS ||| 3.11 ||| LV function as revealed by echocardiography
+122 ||| RESULTS ||| 3.12 ||| Baseline LVEF was similar in the MSCs group and the control group (48.1% ± 8.0% and 51.0% ± 9.2%, respectively, P = 0.215).
+123 ||| RESULTS ||| 3.13 ||| Echocardiographic evaluation revealed a significant increase in LVEF from baseline to 6 months in the MSCs group but not in the control group (1.9% ± 2.7% and 0.5% ± 1.8%, P < 0.001).
+124 ||| RESULTS ||| 3.14 ||| Volumetric analyses of LV end-diastole and end-systole at baseline and 6 months and the changes at 6 months showed no significant differences between groups.
+125 ||| RESULTS ||| 3.15 ||| Subgroup analyses according to time interval
+126 ||| RESULTS ||| 3.16 ||| We analyzed the subgroup population treated < 6 hr from symptom onset to first balloon inflation.
+127 ||| RESULTS ||| 3.17 ||| Twenty-one patients of the stem cell group and 20 patients of the control group were analyzed.
+128 ||| RESULTS ||| 3.18 ||| The improvement in LVEF was more significant in the MSCs group than in the control group according to SPECT (8.3% ± 8.3% and 1.3% ± 7.5%, P = 0.007) and echocardiography (2.0% ± 2.8% and -0.3% ± 1.5%, P = 0.003).
+129 ||| RESULTS ||| 3.19 ||| Quantitative analyses of LV function by SPECT
+130 ||| RESULTS ||| 3.20 ||| Baseline LVEF was similar between the two groups (49.0% ± 11.7% in the MSCs group, and 52.3% ± 9.3% in the control group, P = 0.247) ( Table 4).
+131 ||| RESULTS ||| 3.21 ||| The absolute change in global LVEF from baseline to 6 months was significantly improved in the MSCs group than the control group.
+132 ||| RESULTS ||| 3.22 ||| Baseline and 6 months LVEDV and LVESV showed no
+133 ||| RESULTS ||| 3.23 ||| Safety and clinical outcomes
+134 ||| RESULTS ||| 3.24 ||| All procedures related to the BM aspiration and stem cell transplantation were well tolerated.
+135 ||| RESULTS ||| 3.25 ||| There were no serious inflammatory reactions or bleeding complications at the site of iliac puncture after BM aspiration.
+136 ||| RESULTS ||| 3.26 ||| Patients had no or mild angina during balloon inflation for infusion of MSCs.
+137 ||| RESULTS ||| 3.27 ||| There were no serious procedural complications related to intracoronary administration of MSCs, such as ventricular arrhythmias, thrombus formation or dissection.
+138 ||| RESULTS ||| 3.28 ||| Periprocedural MI was occurred in 2 patients.
+139 ||| RESULTS ||| 3.29 ||| The peak levels of CK-MB and troponin I were 2.38    (90) 28 (100) 28 (100) 5 ( 1.4 ± 0.6 3.08 ± 0.50 31.9 ± 12.9
+140 ||| RESULTS ||| 3.30 ||| 1.6 ± 0.7 3.17 ± 0.39 41.8 ± 19.
+141 ||| RESULTS ||| 3.31 ||| Symptom to initial SPECT (day) 5.1 ± 2.3 4.8 ± 2.0 0.578 Symptom to follow-up SPECT (day) 185.3 ± 7.5 182.4 ± 9.2 0.184 Symptom to initial Echo (day)
+142 ||| RESULTS ||| 3.32 ||| 1.7 ± 0.8 1.7 ± 0.9 0.815 Symptom to follow-up Echo (day) 182.6 ± 6.0 179.5 ± 7.4 0.084
+143 ||| RESULTS ||| 3.33 ||| Values are expressed as mean ± SD or number of patients (%).
+144 ||| RESULTS ||| 3.34 ||| MSC, mesenchymal stem cell; ACEi, Angiotensin-converting enzyme inhibitor; ARB, angiotensin receptor blocker; BP, blood pressure; SPECT, single-photon emission computed tomography; Echo, echocardiography.
+145 ||| RESULTS ||| 3.35 ||| However, they had no symptoms and spontaneously recovered without additional treatment during 6-month follow-up.
+146 ||| RESULTS ||| 3.36 ||| There were no deaths, MI, TVR, stent thrombosis, life-threatening arrhythmia or stroke in both groups during 6-month follow-up.
+147 ||| RESULTS ||| 3.37 ||| No significant arrhythmic events were recorded on 24 hr ambulatory ECG (Holter) monitoring.
+148 ||| RESULTS ||| 3.38 ||| Paroxysmal non-sustained atrial fibrillation was found in 2 patients of the MSCs group (1 patient after PCI and 1 patient at 1 month follow-up) and in 1 patient of the control group after PCI.
+149 ||| DISCUSSION ||| 4.1 ||| In our study, the main finding is that the intracoronary adminhttp://jkms.org   istration of autologous purified BM-derived MSCs at 1 month after STEMI is tolerable without serious complications and provides modest improvement in LVEF at 6-month follow-up by SPECT.
+150 ||| DISCUSSION ||| 4.2 ||| The stem cell therapy for AMI increased LVEF by 2.99% (95% confidence interval [CI], 1.26%-4.72%, P = 0.0007) in meta-analysis (4).
+151 ||| DISCUSSION ||| 4.3 ||| In chronic ischemic heart failure, STAR-Heart study demonstrated that intracoronary BM cell therapy improved ventricular performance, quality-of-life and even survival (13).
+152 ||| DISCUSSION ||| 4.4 ||| Our results met the primary endpoint of ≥ 4.3% improvement in LVEF compared with the control group.
+153 ||| DISCUSSION ||| 4.5 ||| However, it is uncertain whether the relatively small increase in systolic function is meaningful in real-life situations (and not just a statistical difference).
+154 ||| DISCUSSION ||| 4.6 ||| In terms of safety, intracoronary administration of MSCs showed no serious adverse events, although periprocedural MI was developed in 2 patients.
+155 ||| DISCUSSION ||| 4.7 ||| It seems to be a safe method to deliver stem cells via intracoronary route, since its introduction by Strauer et al.
+156 ||| DISCUSSION ||| 4.8 ||| Moreover, ischemic pre-conditioning induced by transient balloon occlusion seems to be important to recruit MSCs into the infarcted myocardium (24,25).
+157 ||| DISCUSSION ||| 4.9 ||| Numerous in vitro and in vivo studies have shown the pleiotropic effects of MSCs such as antifibrotic, immunomodulatory, antiapototic and proangiogenic features as well as the impact of inflammation/cytokine expression on the different aspects of homing, including chemokine-chemokine receptor interactions, adhesion on endothelial cells, transendothelial migration, and invasion through the extracellular matrix (26).
+158 ||| DISCUSSION ||| 4.10 ||| Stromal cellderived factor (SDF)-1α is a major chemotactic paracrine factor for homing stem cells.
+159 ||| DISCUSSION ||| 4.11 ||| SDF-1α-modified MSCs enhanced the tolerance of engrafted MSCs to hypoxic injury in vitro and improved their viability in a rat model of infarcted hearts, thus helping preserve the contractile function and attenuate LV remodeling (27).
+160 ||| DISCUSSION ||| 4.12 ||| Moreover, MSC-conditioned medium directly inhibited the function of cardiac fibroblasts and resulted in a decrease of myocardial fibrosis with the consequent improvement of cardiac function by secreting antifibrotic factors such as adrenomedullin (28).
+161 ||| DISCUSSION ||| 4.13 ||| One of the main concerns is the time limitation for using autologous MSCs in acute setting.
+162 ||| DISCUSSION ||| 4.14 ||| It is impossible to use autologous MSCs immediately because it takes time to harvest and culture cells for over 3 weeks.
+163 ||| DISCUSSION ||| 4.15 ||| However, the optimal time for stem-cell therapy was not precisely identified.
+164 ||| DISCUSSION ||| 4.16 ||| The temporal window of opportunity to maximize efficacy seems to be between the acute inflammatory response and scar formation.
+165 ||| DISCUSSION ||| 4.17 ||| Several experimental studies and clinical subgroup analyses provided important clues that stem cell therapy might be effective within the first month after AMI, but not in very acute phase (24 hr after AMI) (29).
+166 ||| DISCUSSION ||| 4.18 ||| Further clinical randomized trials need to confirm the optimal time to treatment.
+167 ||| DISCUSSION ||| 4.19 ||| The use of statin may ameliorate the microenvironment of injured myocardium and protect implanted MSCs.
+168 ||| DISCUSSION ||| 4.20 ||| Animals treated with atorvastatin showed the improvement of myocardial perfusion and contractility compared with untreated animals by Yang et al.
+169 ||| DISCUSSION ||| 4.21 ||| The combined treatment of atorvastatin with MSCs reduced myocardial apoptosis, oxidative stress and expression of the inflammatory cytokines (30).
+170 ||| DISCUSSION ||| 4.22 ||| Nearly 90% of our patients were prescribed statin at discharge.
+171 ||| DISCUSSION ||| 4.23 ||| This synergic effect of statin might contribute to the functional recovery of damaged myocardium in our study.
+172 ||| DISCUSSION ||| 4.24 ||| The total ischemic time from symptom to treatment is the most important factor related to adverse outcomes.
+173 ||| DISCUSSION ||| 4.25 ||| Mortality reduction was greatest in the first 2-3 hr after the onset of AMI, as a consequence of myocardial salvage (31).
+174 ||| DISCUSSION ||| 4.26 ||| However, there was no mortality benefit by opening the occluded artery after 6 hr (31).
+175 ||| DISCUSSION ||| 4.27 ||| Our subgroup analysis supports that BM-derived MSCs may help damaged myocardium to recover, if treated within 6 hr after AMI.
+176 ||| DISCUSSION ||| 4.28 ||| Our study has several limitations.
+177 ||| DISCUSSION ||| 4.29 ||| First, our study enrolled relatively small number of patients.
+178 ||| DISCUSSION ||| 4.30 ||| This limitation may attenuate the efficacy of intracoronary purified MSCs.
+179 ||| DISCUSSION ||| 4.31 ||| Further largescale randomized trials are needed.
+180 ||| DISCUSSION ||| 4.32 ||| Second, there may be a technical problem for the assessment of LVEF.
+181 ||| DISCUSSION ||| 4.33 ||| Although CMR was considered to be the "gold standard" for evaluation of LV function, it was impossible to use CMR at all institutions for the first time.
+182 ||| DISCUSSION ||| 4.34 ||| We therefore measured LVEF with SPECT because we concluded that software-based automated analysis using SPECT could minimize inter-observer variability.
+183 ||| DISCUSSION ||| 4.35 ||| Hovland et al.
+184 ||| DISCUSSION ||| 4.36 ||| Third, many patients were excluded from this study.
+185 ||| DISCUSSION ||| 4.37 ||| Total patients of exclusion were 22/80 (27.5%).
+186 ||| DISCUSSION ||| 4.38 ||| Ten of 40 (25%) in treatment group and 12/40 (30%) in control group were excluded.
+187 ||| DISCUSSION ||| 4.39 ||| It was larger than we had anticipated.
+188 ||| DISCUSSION ||| 4.40 ||| After randomization, 11 of 69 (15.9%) patients were excluded and the main cause was poor image quality.
+189 ||| DISCUSSION ||| 4.41 ||| More patients in control group (5/36, 13.9%) were excluded than those in treatment group (1/33, 3.0%).
+190 ||| DISCUSSION ||| 4.42 ||| However, there may be little possibility for selection bias, because radiologists were blinded to treatment information.
+191 ||| DISCUSSION ||| 4.43 ||| The selection of inappropriate images was left at the discretion of radiologists.
+192 ||| DISCUSSION ||| 4.44 ||| The final decision was confirmed by the agreement of investigators in each participating center.
+193 ||| DISCUSSION ||| 4.45 ||| Fourth, we did not use diverse assessment tools such as the 6-min walking distance, exercise tolerance, pulmonary function test and quality of life.
+194 ||| DISCUSSION ||| 4.46 ||| Finally, we did not evaluate the inter-and intra-observer variability in radiographic measurements.
+195 ||| DISCUSSION ||| 4.47 ||| Sixth, there was no death in either group.
+196 ||| DISCUSSION ||| 4.48 ||| Our study group showed a relatively preserved LV systolic function and low risk profiles.
+197 ||| DISCUSSION ||| 4.49 ||| Long-term follow-up is needed to define the safety and beneficial effect of MSCs.
+198 ||| DISCUSSION ||| 4.50 ||| In conclusion, this pilot study was designed to identify the safety and practical efficacy of intracoronary purified autologous BM-derived MSCs in patients with STEMI.
+199 ||| DISCUSSION ||| 4.51 ||| Intracoronary administration of autologous BM-derived MSCs at 1 month is tolerable and safe with modest improvement in LVEF at 6-month follow-up.
+200 ||| DISCLOSURE ||| 5.1 ||| FCB-Pharmicell Company Limited (Seongnam, Korea) supported this study but played no role in the study design, data collection, data analysis and interpretation, manuscript writing, and decision to proceed with publication.
+201 ||| DISCLOSURE ||| 5.2 ||| The authors indicate no potential conflicts of interest.
+202 ||| DISCLOSURE ||| 5.3 ||| Assessment of left ventricular (
+203 ||| DISCLOSURE ||| 5.4 ||| Baseline characteristics between the MSCs group and control group
+204 ||| DISCLOSURE ||| 5.5 ||| Procedural characteristics between the MSCs group and control group
+205 ||| DISCLOSURE ||| 5.6 ||| Ejection fraction and left ventricular volume as determined by SPECT and echocardiography

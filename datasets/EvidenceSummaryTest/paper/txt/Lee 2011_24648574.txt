@@ -1,0 +1,124 @@
+1 |||  ||| 0.1 ||| Background: Hydromorphone is a potent ␮-opioid selective agonist that has an onset time within 5 minutes and reaches peak effect between 10 and 20 minutes.
+2 |||  ||| 0.2 ||| However, it may show immediate analgesic effect to rocuronium-induced pain because of its peripheral analgesic property and also may attenuate noxious stimuli from tracheal intubation during induction.
+3 |||  ||| 0.3 ||| The opioid receptors are known to be present in peripheral sensory nerve terminals as well as in the dorsal root ganglion and the central terminal of primary afferent nerves.
+4 |||  ||| 0.4 ||| Therefore, we hypothesized that hydromorphone may be considered a potent pretreatment or adjuvant drug during the induction of anesthesia with its peripherally and centrally mediated analgesia.
+5 |||  ||| 0.5 ||| Objective: The aim of this study was to compare the effects of pretreatment with hydromorphone in reducing rocuronium-induced withdrawal movements and hemodynamic changes during tracheal intubation with the effects of fentanyl and normal saline.
+6 |||  ||| 0.6 ||| Methods: In this double-blind, randomized, controlled study, consecutive adult patients aged 20 to 70 years who were scheduled to undergo general anesthesia for elective gastric or colorectal surgery at the Samsung Seoul Hospital (Seoul, Republic of Korea) were randomly assigned to receive 5 mL hydromorphone 0.03 mg/kg or fentanyl 2 ␮g/kg or normal saline.
+7 |||  ||| 0.7 ||| Thirty seconds after administering the study drug, anesthesia was induced with 2.5% thiopental sodium 5 mg/kg.
+8 |||  ||| 0.8 ||| After loss of consciousness, rocuronium 0.6 mg/kg was injected and immediate withdrawal movements were recorded.
+9 |||  ||| 0.9 ||| Two minutes after rocuronium injection, tracheal intu-bation was performed and hemodynamic changes were observed.
+10 |||  ||| 0.10 ||| Results: A total of 194 patients were enrolled, with 65 in the hydromorphone group, 67 in the fentanyl group, and 62 in the saline group.
+11 |||  ||| 0.11 ||| The overall incidence of withdrawal movements was significantly lower in the hydromorphone group (2 patients; 3.1%) and the fentanyl group (5 patients; 7.5%) (both, P Ͻ 0.001) than in the saline group (36 patients; 58.1%).
+12 |||  ||| 0.12 ||| The mean arterial pressure (MAP) and heart rate (HR) after intubation (median [interquartile range]) in the fentanyl group (101.5 [84Ϫ115] mm Hg; 93.5 [82Ϫ102 ] beats per minute [bpm]) and the hydromor-phone group (93.0 [83Ϫ106] mm Hg; 90.0 [86.3Ϫ93.6] bpm) were significantly lower than these measures in the saline group (111.5 [105Ϫ123] mm Hg; 103.5 [96Ϫ113] bpm) (fentanyl group MAP and HR, P Ͻ 0.001; hydromorphone group MAP and HR, P Ͻ 0.001).
+13 |||  ||| 0.13 ||| Conclusions: Pretreatment with hydromorphone and fentanyl may have similar effectiveness in reducing withdrawal movements in response to rocuronium injection pain and inducing immediate general anesthesia.
+14 |||  ||| 0.14 ||| Opioid receptors are known to be present in peripheral sensory nerve terminals as well as in the dorsal root ganglion and the central terminal of primary afferent nerves.
+15 |||  ||| 0.15 ||| The peripherally mediated immediate analgesic property of hydromorphone may work to reduce intravenous rocuronium injection pain by inhibiting the activation of the peripheral nociceptors, 4,5 and, with its centrally mediated analgesic effect, may also produce earlier systemic effect than expected.
+16 |||  ||| 0.16 ||| Therefore, we investigated the effectiveness of hydromorphone as a pretreatment drug to reduce the withdrawal movements in response to injection of rocuronium and to attenuate hemodynamic changes to tracheal intubation compared with that of fentanyl and saline.
+17 ||| PATIENTS AND METHODS ||| 1.1 ||| This double-blind, randomized, controlled study was conducted at the Samsung Seoul Hospital, Samsung Medical Center in Seoul, Korea.
+18 ||| PATIENTS AND METHODS ||| 1.2 ||| This study was approved by the Samsung Seoul Medical Center's institutional review board (No.
+19 ||| PATIENTS AND METHODS ||| 1.3 ||| Written, informed consent was obtained from all subjects.
+20 ||| PATIENTS AND METHODS ||| 1.4 ||| Patients aged 20 to 70 years who had an American Society of Anesthesiologists physical status I or II and were undergoing general anesthesia for elective gastric or colorectal surgery from August 2008 to January 2009 were enrolled consecutively in this study.
+21 ||| PATIENTS AND METHODS ||| 1.5 ||| Enrollment of patients was evaluated through preanesthetic rounds and determined by 2 anesthesiologists (E.Y.J.
+22 ||| PATIENTS AND METHODS ||| 1.6 ||| Patients with a history of hypertension were included in the study only if confirmed to be of medically well-controlled status with blood pressure Ͻ140/90 mm Hg with or without anti-hypertensive medication.
+23 ||| PATIENTS AND METHODS ||| 1.7 ||| The exclusion criteria were as follows: known allergy and contraindication to opioids; history of diabetes mellitus, asthma, or neurological deficit; pregnancy; or use of analgesics or sedatives within the 24 hours before surgery.
+24 ||| PATIENTS AND METHODS ||| 1.8 ||| Random allocation of patients into 1 of 3 groups to receive 5 mL of either IV hydromorphone hydrochloride* 0.03 mg/kg (n ϭ 65) or IV fentanyl citrate 2 ␮g/kg (n ϭ 67; Gu Ju Pharm, Seoul, Korea) or IV saline (n ϭ 62; sodium chloride, Joong Wae Pharm, Seoul, Korea) was facilitated by using a computer-generated random number concealed in an envelope.
+25 ||| PATIENTS AND METHODS ||| 1.9 ||| One of 2 anesthesiologists (S.Y.L.
+26 ||| PATIENTS AND METHODS ||| 1.10 ||| The syringes for both study drug and placebo were identical, labeled "study drug" to conceal treatment group allocation.
+27 ||| PATIENTS AND METHODS ||| 1.11 ||| The anesthesiologist (S.Y.L.
+28 ||| PATIENTS AND METHODS ||| 1.12 ||| The anesthesiologists (S.Y.L.
+29 ||| PATIENTS AND METHODS ||| 1.13 ||| The patient and 2 anesthesiologists carrying out the induction and recording the outcomes were all blinded to treatment group.
+30 ||| PATIENTS AND METHODS ||| 1.14 ||| The syringes were stored at room temperature.
+31 ||| PATIENTS AND METHODS ||| 1.15 ||| Premedication was not administered before surgery.
+32 ||| PATIENTS AND METHODS ||| 1.16 ||| On arrival at the operating room, the intravenous cannulation site and its patency were confirmed by the anesthesiologist.
+33 ||| PATIENTS AND METHODS ||| 1.17 ||| Patients with intravenous cannulation located elsewhere than at the veins of the forearm were excluded from the study.
+34 ||| PATIENTS AND METHODS ||| 1.18 ||| All patients received continuous electrocardiography, noninvasive arterial pressure, capnography, and end-tidal sevoflurane monitoring.
+35 ||| PATIENTS AND METHODS ||| 1.19 ||| All drugs were injected through the proximal rubber port connected to the intravenous cannula with a free flow of intravenous lactated Ringer solution.
+36 ||| PATIENTS AND METHODS ||| 1.20 ||| During preoxygenation with 100% oxygen, the study drug was injected over 30 seconds, and an investigator blinded to the study drug observed for signs of adverse events, such as apnea and coughing for 30 seconds, and questioned patients about adverse events just before injection of thiopental sodium.
+37 ||| PATIENTS AND METHODS ||| 1.21 ||| Then, 2.5% thiopental sodium 5 mg/kg was injected over 5 seconds.
+38 ||| PATIENTS AND METHODS ||| 1.22 ||| After loss of consciousness and eyelash reflexes, when the appropriate end-tidal carbon dioxide curve appeared on capnography upon trial of mask ventilation with inspired oxygen fraction 1.0, rocuronium 0.6 mg/kg was injected over 5 seconds.
+39 ||| PATIENTS AND METHODS ||| 1.23 ||| The time interval between the study drug injection and rocuronium injection was set at Ͻ90 seconds in all patients.
+40 ||| PATIENTS AND METHODS ||| 1.24 ||| Two anesthesiologists, the one who administered the study drug and another to conduct anesthetic induction, assessed the patient response during and immediately after rocuronium injection.
+41 ||| PATIENTS AND METHODS ||| 1.25 ||| The 2 investigators were educated beforehand to grade patients' responses according to the scale proposed by Shevchenko and colleagues 8  2 ϭ movement at the wrist only; 3 ϭ movement/withdrawal involving the arm only (elbow/shoulder); 4 ϭ generalized response, withdrawal or movement in more than 1 extremity.
+42 ||| PATIENTS AND METHODS ||| 1.26 ||| Sevoflurane was started after the rocuronium injection and was adjusted to maintain an end-tidal concentration of 2.5 to 3.0 vol% in 100% oxygen.
+43 ||| PATIENTS AND METHODS ||| 1.27 ||| Two minutes after the rocuronium injection, the anesthesiologist, who had more than 4 years of experience in anesthetic practice, performed tracheal intubation and applied controlled ventilation to maintain normocarbia without ballooning the cuff for 1 minute to avoid stimulation.
+44 ||| PATIENTS AND METHODS ||| 1.28 ||| Patient movement and status of vocal cord relaxation were observed during tracheal intubation.
+45 ||| PATIENTS AND METHODS ||| 1.29 ||| Anesthesia was maintained with sevoflurane (end-tidal concentration of 2 to 3 vol%).
+46 ||| PATIENTS AND METHODS ||| 1.30 ||| The time interval between the study drug injection and intubation was designed to be within 3 to 4 minutes in all patients.
+47 ||| PATIENTS AND METHODS ||| 1.31 ||| The intubation time, defined as the time from mouth opening to obtaining the appropriate capnographic trace, was measured in all patients.
+48 ||| PATIENTS AND METHODS ||| 1.32 ||| The mean arterial pressure (MAP) and heart rate (HR) were measured on arrival at the operating room, 1 minute before intubation, and 1 minute after tracheal intubation.
+49 ||| PATIENTS AND METHODS ||| 1.33 ||| If there was an increase in HR (Ͼ40% in baseline) and/or increased blood pressure with ST change in electrocardiography after intubation, IV esmolol (0.3 mg/kg) was available for administration.
+50 ||| Statistical Analysis ||| 2.1 ||| Statistical analyses were carried out using SPSS 12.0 for Windows (SPSS Inc, Chicago, Illinois).
+51 ||| Statistical Analysis ||| 2.2 ||| The data are reported as mean (SD), median (interquartile range), or number (proportion) of patients.
+52 ||| Statistical Analysis ||| 2.3 ||| Patient characteristics and intravenous cannulation sites were compared using ␹ 2 test, Fisher exact test, Kruskal-Wallis test, or 1-way ANOVA where appropriate.
+53 ||| Statistical Analysis ||| 2.4 ||| The incidence of withdrawal movements was analyzed using Fisher exact test.
+54 ||| Statistical Analysis ||| 2.5 ||| The changes in MAP and HR within each group from the baseline to before and after tracheal intubation were analyzed by repeatedmeasures ANOVA with Bonferroni adjustment.
+55 ||| Statistical Analysis ||| 2.6 ||| The hemodynamic parameters among groups, including MAP and HR differences before and after intubation, were compared using Kruskal-Wallis test with post hoc analysis by Tukey test using ranking.
+56 ||| Statistical Analysis ||| 2.7 ||| P value was corrected by Bonferroni adjustment because of multiple testing.
+57 ||| Statistical Analysis ||| 2.8 ||| The incidence of patient movements and the status of vocal cord relaxation during tracheal intubation were analyzed using ␹ 2 test and Fisher exact test, respectively.
+58 ||| Statistical Analysis ||| 2.9 ||| The intubation time was compared using KruskalWallis test with post hoc analysis by Tukey test using ranking.
+59 ||| Statistical Analysis ||| 2.10 ||| The number of patients in the study was determined based on a pilot study, with an estimated incidence of 45% and 15% withdrawal movement in the saline and hydromorphone groups, respectively.
+60 ||| Statistical Analysis ||| 2.11 ||| At least 53 patients were required for each group to achieve a 30% reduction in the withdrawal movement at the significance level of 5% and power of 90%, and considering the possibility of unanticipated exclusions (10%).
+61 ||| Statistical Analysis ||| 2.12 ||| P Ͻ 0.05 was considered significant.
+62 ||| Statistical Analysis ||| 2.13 ||| A total of 194 patients (hydromorphone group, n ϭ 65; fentanyl group, n ϭ 67; and saline group, n ϭ 62) were enrolled consecutively between August 2008 and January 2009.
+63 ||| Statistical Analysis ||| 2.14 ||| Among the 194 patients, 3 patients in the fentanyl group and 1 patient in the saline group did not complete the study because they met exclusion criteria during the study process.
+64 ||| Statistical Analysis ||| 2.15 ||| Exclusion criteria were patients with laryngeal view grade 3 or 4 with no visualization of the vocal cords during tracheal intubation, 9 or any other conditions that would affect vocal cord assessment such as vocal cord spasm, and patients with an intravenous route other than the forearm.
+65 ||| Statistical Analysis ||| 2.16 ||| One patient (fentanyl group) had a percutaneously inserted central catheter instead of a peripheral intravenous line, another developed vocal cord spasm (saline group), and 2 patients (fentanyl group) did not show the vocal cords during intubation.
+66 ||| Statistical Analysis ||| 2.17 ||| Therefore, 190 patients (hydromorphone group, n ϭ 65; fentanyl group, n ϭ 64; and saline group, n ϭ 61) (mean [SD]  However, for an intent-to-treat analysis, the 194 initially enrolled patients were analyzed.
+67 ||| Statistical Analysis ||| 2.18 ||| This randomized trial was carried out and reported in accordance to the CONSORT statement 10 and the CONSORT explanation and elaboration document.
+68 ||| Statistical Analysis ||| 2.19 ||| The intravenous cannulation sites at the forearm were similar in all 3 groups.
+69 ||| Statistical Analysis ||| 2.20 ||| The most common intravenous cannulation site was the cephalic vein.
+70 ||| Statistical Analysis ||| 2.21 ||| The number of patients with intravenous cannulation at the cephalic vein were 45, 42, and 46 in the hydromorphone, fentanyl, and saline groups, respectively.
+71 ||| Statistical Analysis ||| 2.22 ||| The next most common sites were accessory cephalic vein, basilic vein, and median antebrachial vein.
+72 ||| Statistical Analysis ||| 2.23 ||| An 18-gauge intravenous cannula was used for all patients except 1 patient in the saline group who had a 20-gauge intravenous line.
+73 ||| Statistical Analysis ||| 2.24 ||| The overall incidence of withdrawal movements was significantly lower in the hydromorphone group (2 patients; 3.1%) and the fentanyl group (5 patients; 7.5%) (both, P Ͻ 0.001) than in the saline group (36 patients; 58.1%).
+74 ||| Statistical Analysis ||| 2.25 ||| The incidence of wrist, arm, and generalized movements was higher in the fentanyl group (1.5%, 3.0%, and 3.0%, respectively) than in the hydromorphone group (1.5%, 0%, and 1.5%, respectively), but without statistical significance.
+75 ||| Statistical Analysis ||| 2.26 ||| No patients required administration of IV esmolol after intubation.
+76 ||| Statistical Analysis ||| 2.27 ||| No significant between-group differences were found in the incidence of movements during intubation (12 patients [18.5%] in the hydromorphone group; 12 [17.9%] in the fentanyl group; and 20
+77 ||| DISCUSSION ||| 3.1 ||| This study suggests that hydromorphone may be as effective as fentanyl as a pretreatment drug in reducing withdrawal movements due to rocuronium injection pain and inducing general anesthesia without delay.
+78 ||| DISCUSSION ||| 3.2 ||| Hydromorphone has 5 to 7 times more potent analgesic efficacy than morphine, with a similar or lower incidence of adverse effects.
+79 ||| DISCUSSION ||| 3.3 ||| MEDLINE was searched (inception to 2010) using the following terms: hydromorphone, induction, anesthesia, preoperative, intraoperative, and analgesia.
+80 ||| DISCUSSION ||| 3.4 ||| The search did not identify any studies regarding the use of hydromorphone as an adjuvant agent for general anesthesia.
+81 ||| DISCUSSION ||| 3.5 ||| In terms of onset of action, hydromorphone may not be appropriate for procedures that require a rapid onset time.
+82 ||| DISCUSSION ||| 3.6 ||| Hydromorphone has an onset time of 5 minutes and a peak effect time of 10 to 20 minutes.
+83 ||| DISCUSSION ||| 3.7 ||| However, we found that patients in the hydromorphone group had effectively diminished rocuronium injection pain within 90 seconds after injection and blunt cardiovascular responses to tracheal intubation with the same efficacy as fentanyl.
+84 ||| DISCUSSION ||| 3.8 ||| This observation of instantaneous onset of pain subsidence to rocuronium injection may require explanations other than its centrally mediated analgesia, which take at least 5 minutes to be effective.
+85 ||| DISCUSSION ||| 3.9 ||| Opioid analgesia is obtained via the central and peripheral opioid receptors.
+86 ||| DISCUSSION ||| 3.10 ||| Additional application of venous tourniquets in future studies could be performed to verify the peripheral analgesic effects of hydromorphone.
+87 ||| DISCUSSION ||| 3.11 ||| Therefore, if opioids with delayed onset displayed prompt analgesic effect on injection followed by immediate rocuronium administration, peripheral analgesia of opioid may be suspected more prominently.
+88 ||| DISCUSSION ||| 3.12 ||| However, opioid pretreatments are used not only for reducing the withdrawal movement but also to attenuate hemodynamic changes due to tracheal intubation.
+89 ||| DISCUSSION ||| 3.13 ||| Taking this into account, we used hydromorphone as the study agent to affect rocuronium withdrawal movement and hemodynamic profile.
+90 ||| DISCUSSION ||| 3.14 ||| The status of vocal cord relaxation and the incidence of patient movement during tracheal intubation showed no statistical difference among the 3 groups.
+91 ||| DISCUSSION ||| 3.15 ||| However, patients in the saline group presented more movements during intubation than those in the hydromorphone and fentanyl groups.
+92 ||| DISCUSSION ||| 3.16 ||| This finding may suggest that despite the reportedly adequate muscle relaxation with rocuronium 0.6 mg/kg, adjuvant drugs, such as hydromorphone and fentanyl, are required to deepen the level of anesthesia and suppress movement during the strong stimulus of tracheal intubation.
+93 ||| DISCUSSION ||| 3.17 ||| The time to facilitate intubation was different among the groups (P ϭ 0.032); however, their differences of approximately 2 seconds are not clinically significant.
+94 ||| DISCUSSION ||| 3.18 ||| The size and sites of the intravenous cannulas at 1 of the 6 superficial veins at the forearm were not different among groups.
+95 ||| DISCUSSION ||| 3.19 ||| By investigating the selection of the venous cannulation at the forearm, it was expected that a difference in the withdrawal movement according to the selection of veins would be detected, but without significance.
+96 ||| DISCUSSION ||| 3.20 ||| This study had several limitations.
+97 ||| DISCUSSION ||| 3.21 ||| First, there are no established recommended doses of hydromorphone for the induction of anesthesia.
+98 ||| DISCUSSION ||| 3.22 ||| Therefore, equianalgesic doses of hydromorphone 0.03 mg/kg to fentanyl 2 ␮g/kg were used.
+99 ||| DISCUSSION ||| 3.23 ||| Because the literature reports a hydromorphone-to-morphine equianalgesic potency of 1:5 to 1:7, 12,13 a conversion ratio of 1:7 was used to select 0.03 mg/kg of hydromorphone.
+100 ||| DISCUSSION ||| 3.24 ||| It is possible that hydromorphone 0.03 mg/kg might have a lower or higher analgesic effect than fentanyl 2 ␮g/kg.
+101 ||| DISCUSSION ||| 3.25 ||| Second, the duration of hemodynamic monitoring was not long enough to fully evaluate the effects of hydromorphone on hemodynamic stability.
+102 ||| DISCUSSION ||| 3.26 ||| The maximum onset of action for hydromorphone is 10 to 20 minutes 17 ; therefore, a longer period of observation would have been appreciated.
+103 ||| DISCUSSION ||| 3.27 ||| Third, the start of sevoflurane after rocuronium injection is not congruent with common clinical practice.
+104 ||| DISCUSSION ||| 3.28 ||| This study was designed deliberately to turn sevoflurane on after rocuronium injection to rule out any potential confounding effect of sevoflurane on withdrawal movements.
+105 ||| DISCUSSION ||| 3.29 ||| Fourth, hydromorphone is less emetogenic than the fentanyl derivatives 12,21,22 ; however, we did not observe the incidence or severity of postoperative nausea and vomiting in this study.
+106 ||| DISCUSSION ||| 3.30 ||| Patients in the fentanyl and hydromorphone groups showed statistically significant hemodynamic stability compared with patients in the saline group; however, the patients in the latter group also did not show hemodynamic changes requiring esmolol administration.
+107 ||| DISCUSSION ||| 3.31 ||| Although withdrawal movement occurred significantly more in patients in the saline group, it did not cause severe adverse outcomes such as loss of intravenous cannulation, prolongation of intubation time, or loss of correct endotracheal tube placement.
+108 ||| DISCUSSION ||| 3.32 ||| In such respects, the benefits of using an opioid as a pretreatment or adjuvant agent may be questionable; however, clinical implication lies more in its use to debilitated patients in whom sympathetic stimulation might cause detrimental clinical consequences, such as myocardial ischemia or hypertensive events.
+109 ||| CONCLUSIONS ||| 4.1 ||| Compared with saline, hydromorphone produced immediate analgesia to rocuronium painϪinduced withdrawal movement and reduced hemodynamic responses to tracheal intubation.
+110 ||| CONCLUSIONS ||| 4.2 ||| These findings were comparable with pretreatment with fentanyl.
+111 ||| CONCLUSIONS ||| 4.3 ||| These may be attributed both to central and peripheral antinociceptive effects of opioids.
+112 ||| CONCLUSIONS ||| 4.4 ||| Because using hydromorphone as an adjuvant agent during induction and the intraoperative period is relatively novel, additional studies on the optimal use and doses of hydromorphone during the induction of anesthesia and intraoperative periods are needed.
+113 ||| ACKNOWLEDGMENTS ||| 5.1 ||| The authors have indicated that they have no conflicts of interest regarding the content of this article.
+114 ||| ACKNOWLEDGMENTS ||| 5.2 ||| This manuscript was presented, in part, for poster presentation at the Canadian Anesthesiologists' Society 2010 Annual Meeting, Montreal, Quebec, Canada, June 2010.
+115 ||| ACKNOWLEDGMENTS ||| 5.3 ||| Sang Hyun Lee was responsible for drafting and revising the article, conception, analysis of data, and final approval of the article.
+116 ||| ACKNOWLEDGMENTS ||| 5.4 ||| Chul Joong Lee was responsible for the conception, design, interpretation of data, drafting, revising and final approval of the article.
+117 ||| ACKNOWLEDGMENTS ||| 5.5 ||| Tae Hyeong Kim was responsible for the conception, data collection, revising and final approval of the article.
+118 ||| ACKNOWLEDGMENTS ||| 5.6 ||| Byung Seop Shin performed the study, analysis and interpretation of data, revising and final approval of the article.
+119 ||| ACKNOWLEDGMENTS ||| 5.7 ||| Suk Young Lee designed, performed the study, data analysis, revising and final approval of the article.
+120 ||| ACKNOWLEDGMENTS ||| 5.8 ||| Eun Young Joo was responsible for the conception, interpretation of data, revising and final approval of the article.
+121 ||| ACKNOWLEDGMENTS ||| 5.9 ||| Woo Seog Sim was responsible for the conception, design, interpretation of data, drafting, revising and final approval of the article.
+122 ||| ACKNOWLEDGMENTS ||| 5.10 ||| Patients' characteristics (N ‫؍‬ 194).
+123 ||| ACKNOWLEDGMENTS ||| 5.11 ||| Incidence of patient movements, status of vocal cord relaxation during tracheal intubation, and intubation time.ϭ 1.0 *Intubation time was defined as the time from mouth opening to obtaining an appropriate capnographic trace.
+124 ||| ACKNOWLEDGMENTS ||| 5.12 ||| Incidence of patient movements, status of vocal cord relaxation during tracheal intubation, and intubation time.ϭ 1.0 *Intubation time was defined as the time from mouth opening to obtaining an appropriate capnographic trace.† P values for intubation time compared with the saline group.‡ P values compared with the fentanyl group.

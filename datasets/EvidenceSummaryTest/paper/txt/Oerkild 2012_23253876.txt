@@ -1,0 +1,126 @@
+1 ||| INTRODUCTION ||| 1.1 ||| Participation in cardiac rehabilitation (CR) is often the first step towards optimal secondary treatment and prevention, and is recommended to patients with coronary heart disease.
+2 ||| INTRODUCTION ||| 1.2 ||| The centre-based programmes are the cornerstone in the evidence of CR, with meta-analysis showing an approximately 20% reduction in all-cause and cardiac mortality and 17% reduction in re-infarction rate among patients who participated in the programmes.
+3 ||| INTRODUCTION ||| 1.3 ||| Participation rates are reported to be as low as 30% of eligible patients 5 but, among elderly patients, participation rate is even lower.
+4 ||| INTRODUCTION ||| 1.4 ||| This could be an attractive alternative to centre-based CR.
+5 ||| INTRODUCTION ||| 1.5 ||| Several guidelines have advocated for home-based CR 7-9 and these programmes are now the main alternative to the centrebased programmes.
+6 ||| INTRODUCTION ||| 1.6 ||| We have recently published a randomised clinical trial (RCT) comparing home-based CR with centre-based CR in elderly patients with coronary heart disease.
+7 ||| INTRODUCTION ||| 1.7 ||| The home-based programmes had also better outcomes with regard to exercise capacity, total cholesterol, anxiety and depression score, although these data did not reach statistical significance.
+8 ||| INTRODUCTION ||| 1.8 ||| A limitation in the reviews and meta-analyses [11][12][13] is that the included populations are highly selected with few elderly patients and excluding patients with comorbidity and disability.
+9 ||| INTRODUCTION ||| 1.9 ||| Since elderly patients with coronary heart disease is the fastestgrowing subgroup of cardiac patients there is an increasing need for adjusting the CR programmes according to their requirements.
+10 ||| INTRODUCTION ||| 1.10 ||| The aim of this study is, in a randomised design, to compare the effect of home-based CR with usual care (no rehabilitation) in a population of patients ≥65 years with coronary heart disease, who declined participation in a centre-based CR programme.
+11 ||| METHODS ||| 2.1 ||| Trial design
+12 ||| METHODS ||| 2.2 ||| The study is a randomised clinical trial comparing home-based CR with usual care.
+13 ||| METHODS ||| 2.3 ||| Inclusion criteria were patients ≥65 years with a recent coronary event defined as acute myocardial infarction (MI), percutaneous transluminal coronary intervention (PCI) or coronary artery bypass graft (CABG) and who declined participation in centre-based CR.
+14 ||| METHODS ||| 2.4 ||| Exclusion criteria were mental disorders (dementia), social disorders (severe alcoholism and drug abuse), living in a nursing home, language barriers or use of wheelchair.
+15 ||| METHODS ||| 2.5 ||| Patients were recruited from our Rehabilitation Unit which offers centre-based CR to all patients with coronary heart disease assigned to the hospital.
+16 ||| METHODS ||| 2.6 ||| In order to ensure that all patients receive the CR treatment offer, the referral procedure is centralised and computerised with identification of patients from a database covering diagnosis and all invasive procedures performed in the catchments area of Bispebjerg University Hospital, Copenhagen.
+17 ||| METHODS ||| 2.7 ||| Patients are consecutively invited by letter and non-responders are additionally contacted by telephone.
+18 ||| METHODS ||| 2.8 ||| At the first visit in the Rehabilitation Unit, patients were invited to participate in the previously mentioned RCT comparing home-based CR with centrebased CR, 10 or as an alternative encouraged to participate in the centre-based CR programme (outside the study).
+19 ||| METHODS ||| 2.9 ||| Patients who declined participation in these offers were invited to participate in this study.
+20 ||| METHODS ||| 2.10 ||| The recruitment period was from January 2007 to July 2008.
+21 ||| METHODS ||| 2.11 ||| Inclusion of patients was not based on a sample size calculation.
+22 ||| METHODS ||| 2.12 ||| Patients had to give informed consent before any trialrelated procedures.
+23 ||| METHODS ||| 2.13 ||| Patients were randomised in alternated block sizes of 4-6 using computer-generated randomly permuted blocks.
+24 ||| METHODS ||| 2.14 ||| An impartial person, not related to the study, randomised the patients.
+25 ||| METHODS ||| 2.15 ||| Because of the nature of the intervention, concealment of randomisation was not feasible with regard to both patients and researcher.
+26 ||| METHODS ||| 2.16 ||| Data were collected at Bispebjerg University Hospital before randomisation and after 3, 6 and 12 months.
+27 ||| METHODS ||| 2.17 ||| In addition, overall mortality data were Figure 1 Flowchart.
+28 ||| METHODS ||| 2.18 ||| The study was approved by the local ethic committee ( jr.nr.KF01327990), the Danish Data Protection Agency ( j.nr.
+29 ||| METHODS ||| 2.19 ||| Intervention
+30 ||| METHODS ||| 2.20 ||| The home programme Patients received two home visits by a physiotherapist in a 6-week interval with the purpose of creating a training programme that could be performed at home and outside in local surroundings.
+31 ||| METHODS ||| 2.21 ||| Patients were carefully instructed in the training programme and guided to optimal training effort.
+32 ||| METHODS ||| 2.22 ||| In between the visits, a telephone call was made by the physiotherapist to resolve any questions.
+33 ||| METHODS ||| 2.23 ||| The exercise programmes were individualised but followed the international recommendations with 30 min exercise/day including 5-10 min warm up (eg, slow walking) and 10 min.
+34 ||| METHODS ||| 2.24 ||| Regarding risk factor intervention and medical adjustment, the patients consulted a cardiologist at baseline and after 3, 6 and 12 months.
+35 ||| METHODS ||| 2.25 ||| At 4 and 5 months, a telephone call was made by the cardiologist to encourage continuous exercising and to answer any medical questions.
+36 ||| METHODS ||| 2.26 ||| All patients were offered dietary counselling and, if required, smoking cessation.
+37 ||| METHODS ||| 2.27 ||| In the STS-test, the patients must, as fast as possible within 30 s, change position from sitting on a chair to upright standing, without holding the handgrip, hereby measuring the strength in the lower limb.
+38 ||| METHODS ||| 2.28 ||| Self-reported level of physical activity was estimated by a questionnaire originally developed by Saltin and Grimby.
+39 ||| METHODS ||| 2.29 ||| Patients in the last three categories were classified as having an active lifestyle.
+40 ||| METHODS ||| 2.30 ||| Medication included the use of diuretics, β-blockers, calcium antagonists, lipid-lowering drugs, antithrombotics, antidiabetic and antidepressive treatment.
+41 ||| METHODS ||| 2.31 ||| Sociodemographic data included level of education, main employment status, contact to children, living alone and the need of weekly assistance at home.
+42 ||| METHODS ||| 2.32 ||| Patients in NYHA II-IV and CCS II-IV were categorised as having dyspnoea and angina, respectively.
+43 ||| METHODS ||| 2.33 ||| Comorbidity was assessed by The Charlson Co-Morbidity Index (CMI), 17 which measures the burden of 19 comorbid conditions through a weighted index.
+44 ||| METHODS ||| 2.34 ||| The CMI was categorised in 3 subgroups: 0 (no comorbid condition), 1-2 and ≥3 (high level of comorbid burden).
+45 ||| METHODS ||| 2.35 ||| Adverse events were recorded in the study period and included admissions for MI, progressive angina, decompensated congestive heart failure, severe bleeding, new malignant disease and performance of PCI.
+46 ||| METHODS ||| 2.36 ||| Moreover, the number and duration of hospital admissions were recorded 1 year after randomisation.
+47 ||| METHODS ||| 2.37 ||| Death data were obtained from the Civil Registration System, which records the vital status of all citizens in Denmark.
+48 ||| METHODS ||| 2.38 ||| Usual care
+49 ||| METHODS ||| 2.39 ||| This group is equivalent to a non-rehabilitation control group.
+50 ||| METHODS ||| 2.40 ||| Patients were not offered exercise education or dietary counselling but, as for the home group, offered risk factor intervention and medical adjustment by a cardiologist at baseline and after 3, 6 and 12 months.
+51 ||| METHODS ||| 2.41 ||| Telephone calls were made at 4 and 5 months.
+52 ||| METHODS ||| 2.42 ||| Thus, this group received solely consultation at a cardiologist which is offered to all patients in daily clinical practise who decline participation in our comprehensive centrebased CR programme.
+53 ||| Outcome measures ||| 3.1 ||| Because many patients, owing to age and comorbidity, were not able to perform a symptom-limited exercise capacity test, the primary outcome was change in exercise capacity determined by 6 min walk test (6MWT).
+54 ||| Outcome measures ||| 3.2 ||| The secondary outcomes were: sit to stand test (STS), selfreported level of physical activity, systolic and diastolic blood pressure, total-cholesterol, HDL-cholesterol and LDL-cholesterol, body mass index, waist-hip ratio, proportion of smokers, health-related quality of life (HRQoL) measured by SF-12, and anxiety and depression estimated by Hospital Anxiety and Depression Scale (HADS).
+55 ||| Outcome measures ||| 3.3 ||| Outcomes were evaluated after 3, 6 and 12 months.
+56 ||| STATISTICAL ANALYSIS ||| 4.1 ||| To test the effect of the interventions at 3 and 12 months, a mixed model of regression analysis was used with a time×treatment interaction term.
+57 ||| STATISTICAL ANALYSIS ||| 4.2 ||| We used a mixed model in order to analyse the effect of the interventions, since this statistical model allow us to include all data into one analysis.
+58 ||| STATISTICAL ANALYSIS ||| 4.3 ||| All the models were adjusted for age and gender.
+59 ||| STATISTICAL ANALYSIS ||| 4.4 ||| We did not adjust the significance levels for multiple testing, since such an adjustment is a too conservative test to perform, when data are positively correlated, as in this study.
+60 ||| STATISTICAL ANALYSIS ||| 4.5 ||| Data were analysed by intention to treat.
+61 ||| STATISTICAL ANALYSIS ||| 4.6 ||| All statistical analysis was performed using STATA for windows release V.10.0.
+62 ||| RESULTS ||| 5.1 ||| A total of 40 patients participated.
+63 ||| RESULTS ||| 5.2 ||| Baseline characteristics are listed in table 1.
+64 ||| RESULTS ||| 5.3 ||| All patients received antithrombotics and lipid-lowering drugs and 77.4% received β-blockers.
+65 ||| RESULTS ||| 5.4 ||| Of eligible patients to receive CR (n=284), a total of 49% (n=140) declined to participate in the centre-based programme (figure 1).
+66 ||| RESULTS ||| 5.5 ||| Of these, 29% accepted to participate in this study and 71% (n=100) did not receive any rehabilitation.
+67 ||| RESULTS ||| 5.6 ||| The figure shows a significant increase in walking distance of 33.5 m (95% CI 6.2 to 60.8, p=0.02) in the home group after the intervention followed by a significant decline of −55.2 m (95% CI 18.7 to 91.7, p<0.01) at 12 months follow-up to a level lower than the baseline value.
+68 ||| RESULTS ||| 5.7 ||| Patients in the usual care group had a nonsignificant increase in walking distance of 10.1 m (95% CI: −19.3 to 39.5, P=0.5) after 3 months followed by a decline of −52.1 m (95% CI −3.0 to 107.1, p=0.06) at the end of the follow-up period.
+69 ||| RESULTS ||| 5.8 ||| When adjusting for age and gender in a mixed model with a time×treatment interaction term, there were no significant differences between the groups
+70 ||| RESULTS ||| 5.9 ||| EXERCISE CAPACITY
+71 ||| RESULTS ||| 5.10 ||| follow-up, the proportion of patients with a self-reported active lifestyle declined again in the home group with no changes in the usual care group.
+72 ||| RESULTS ||| 5.11 ||| There were no significant differences in clinical status, exercise capacity, laboratory values, HRQoL or anxiety and depression score at 3 and 12 months follow-up either within or between the groups.
+73 ||| RESULTS ||| 5.12 ||| The number and length of acute and non-acute admissions were equally distributed at 12 months follow-up (data not shown).
+74 ||| RESULTS ||| 5.13 ||| A total of nine patients died during a mean follow-up of 4.5 years (usual care group n=5 and home group n=4).
+75 ||| RESULTS ||| 5.14 ||| There was no loss to follow-up.
+76 ||| RESULTS ||| 5.15 ||| At 12 months follow-up, a significant decline in 6MWT and STS was found in both groups with no differences between the groups (table 3).
+77 ||| RESULTS ||| 5.16 ||| Other outcomes A higher proportion of patients reported a change from an inactive to an active lifestyle in the home group (27%, p<0.05) compared to the usual care group (−5%, p=0.6), after the intervention with a difference between the two groups of 33% ( p<0.05).
+78 ||| RESULTS ||| 5.17 ||| At 12 months
+79 ||| DISCUSSION ||| 6.1 ||| To the best of our knowledge, this is the first study to investigate the effect of home-based CR compared to usual care (no rehabilitation) among elderly patients ≥65 years with coronary heart disease who declined participation in a centre-based programme.
+80 ||| DISCUSSION ||| 6.2 ||| In many countries, including Denmark, centre-based programmes are often the only cardiac rehabilitation programme available, and the limited access to CR may be an important barrier for optimal secondary treatment and prevention in elderly patients with coronary heart disease.
+81 ||| DISCUSSION ||| 6.3 ||| The study found that elderly patients who decline participation in centre-based CR had a low level of exercise capacity and a high level of comorbidity.
+82 ||| DISCUSSION ||| 6.4 ||| For this  group.bmj.com on November 13, 2015 -Published by http://bmjopen.bmj.com/ Downloaded from Home-based cardiac rehabilitation for elderly patients with coronary heart disease  population, who is often found not to be eligible to centre-based CR, home-based CR was feasible.
+83 ||| DISCUSSION ||| 6.5 ||| There was a trend towards clinical relevant improvement in 6MWT, but these changes were not statistically significant compared to the control group.
+84 ||| DISCUSSION ||| 6.6 ||| Although the study is small and conclusions must be drawn with caution, it could identify an intervention targeting this group of patients.
+85 ||| DISCUSSION ||| 6.7 ||| After having ended the home programme, the gained improvement in exercise capacity was not sustained.
+86 ||| DISCUSSION ||| 6.8 ||| This could also have been the case in our study.
+87 ||| DISCUSSION ||| 6.9 ||| At 12 months, a significant decline in exercise capacity was found in both the home and usual care group reaching a level lower than at entrance to the study.
+88 ||| DISCUSSION ||| 6.10 ||| We identified two other studies with long-term follow-up.
+89 ||| DISCUSSION ||| 6.11 ||| The meta-analysis by Jolly et al, 12 which included studies of all age groups, investigated the effect of home-based CR and usual care.
+90 ||| DISCUSSION ||| 6.12 ||| The meta-analysis showed an improvement in exercise capacity but could not identify any significant differences between the home and usual care group.
+91 ||| DISCUSSION ||| 6.13 ||| The authors explained this by the possibility that patients in usual care groups may receive input that match the homeinterventions and In contrast to our study, they both found a sustained improvement in exercise capacity after 12 months, if the exercise programme was initiated at home.
+92 ||| DISCUSSION ||| 6.14 ||| The discrepancy could be caused by the duration of our home intervention that may have been too short to maintain changes in lifestyle at 12 months follow-up, but our home intervention is in line with other home-based programmes.
+93 ||| DISCUSSION ||| 6.15 ||| In the HF-ACTION trial 22 there were no changes
+94 ||| DISCUSSION ||| 6.16 ||| in exercise capacity at 12 months follow-up.
+95 ||| DISCUSSION ||| 6.17 ||| This was explained partly by insufficient adherence to training that was below the target set at all time points.
+96 ||| DISCUSSION ||| 6.18 ||| The HF-ACTION trial mainly included middle-aged men with no major comorbidities or limitations that could interfere with training.
+97 ||| DISCUSSION ||| 6.19 ||| Thus, in spite of intensive exercise programmes with close follow-up in patients with no significant concomitant comorbidities, it is difficult to motivate patients to adhere to training.
+98 ||| DISCUSSION ||| 6.20 ||| Feasible solutions to overcome this have not yet been identified.
+99 ||| DISCUSSION ||| 6.21 ||| The discrepancy between studies may also be due to the differences in the enrolled populations.
+100 ||| DISCUSSION ||| 6.22 ||| Our population was significantly older (mean age 77.3±6.0 vs 69.0±9.0 years 3 and 64.3±0.5 years 18 ) and had a high degree of comorbidity and low level of exercise capacity.
+101 ||| DISCUSSION ||| 6.23 ||| Age, comorbidity and disability are all found to be negatively correlated with physical activity 15 23 and adherence to training 6 24 25 and thus may have contributed significantly to the lack of sustained effect at 12 months.
+102 ||| DISCUSSION ||| 6.24 ||| Moreover, in the only other study targeting the elderly, intervention but there were no significant differences in diastolic blood pressure, body composition, cessation of smoking, cholesterol profile and HRQoL between the groups.
+103 ||| DISCUSSION ||| 6.25 ||| Our population had a favorable cardiovascular risk factor control and low anxiety and depression score (HADS score <8 is within normal rage) 32 33 at entrance to the study why a further improvement could not be expected.
+104 ||| DISCUSSION ||| 6.26 ||| We did not find any significant changes in HRQoL measured by SF-12.
+105 ||| DISCUSSION ||| 6.27 ||| This is partly due to lack of statistical power and the limited duration of our home intervention but is in concordance with the meta-analysis by Jolly et al 12 and with a recent published review concerning CR and HRQoL.
+106 ||| DISCUSSION ||| 6.28 ||| Coronary heart disease is one of the leading causes of disability and, with increasing age, other chronic noncardiac conditions further limit function.
+107 ||| DISCUSSION ||| 6.29 ||| For comparison, a recent very large nationwide study, including 234 000 patients (median age 68 years in men and 75 years in women) with first time acute MI, found that only 6% of that population had CMI≥3.
+108 ||| DISCUSSION ||| 6.30 ||| In healthy elderly subjects, mean 6MWT is found to be approximately 659 m±74 m 28 and, in a recent RCT study from our group comparing home-based CR with centrebased CR 10 a baseline mean 6MWT of 340 m±122 m in the centre group was found.
+109 ||| DISCUSSION ||| 6.31 ||| Our finding is in concordance with previous studies who found that older age, high burden of comorbidity and low level of exercise capacity was negatively correlated with participation rate in centre-based CR programmes.
+110 ||| DISCUSSION ||| 6.32 ||| In central Europe, centre-based CR is the traditional choice of CR services.
+111 ||| DISCUSSION ||| 6.33 ||| However, establishing of homebased CR programmes as an alternative for elderly patients could improve CR attendance rate.
+112 ||| DISCUSSION ||| 6.34 ||| In English-speaking countries and in countries where health services are not free, home-base CR programmes are more commonly used, primarily through the adoption of The Heart Manual.
+113 ||| DISCUSSION ||| 6.35 ||| In the everyday scenario at the rehabilitation units, there is only one CR programme available, and this is often a centre-based programme.
+114 ||| DISCUSSION ||| 6.36 ||| Patients who decline enrolment in these programmes do not have alternatives.
+115 ||| DISCUSSION ||| 6.37 ||| A total of 29% of patients, who initially declined centre-based CR, did accept to participate in this study and the proportion could have been even higher if the home-based CR programme was not part of an RCT study.
+116 ||| DISCUSSION ||| 6.38 ||| Thus, with alternative concomitant CR programmes, accessibility increases and participation rate will be expected to rise.
+117 ||| DISCUSSION ||| 6.39 ||| The main limitation of this study is the number of patients included.
+118 ||| DISCUSSION ||| 6.40 ||| With the additionally large variation in the effect of intervention as reflected in the wide CIs, there is a risk of type II error.
+119 ||| DISCUSSION ||| 6.41 ||| However, wide variations in the effect of intervention are often seen in exercise trials and our results are in concordance with other much larger exercise trials.
+120 ||| DISCUSSION ||| 6.42 ||| In addition, no significant difference was found in the secondary outcomes.
+121 ||| DISCUSSION ||| 6.43 ||| The study found that elderly cardiac patients who declined participation in centre-based CR had high level of comorbidity and low exercise capacity.
+122 ||| DISCUSSION ||| 6.44 ||| These group.bmj.com on November 13, 2015 -Published by http://bmjopen.bmj.com/ Downloaded from Home-based cardiac rehabilitation for elderly patients with coronary heart disease characteristics indicate that results from exercise trials excluding this group of patients should be cautiously applied to the elderly population.
+123 ||| DISCUSSION ||| 6.45 ||| After cessation of the home intervention, the gained improvement in exercise capacity was rapidly lost.
+124 ||| DISCUSSION ||| 6.46 ||| This emphasises that close follow-up with continuous guidance beyond the initial rehabilitation period is important.
+125 ||| DISCUSSION ||| 6.47 ||| This study could contribute to the scientific gap on how to manage the large population of elderly cardiac patients who are not interested in (or capable of ) participating in a centre-based CR programme.
+126 ||| DISCUSSION ||| 6.48 ||| Larger trials of unselected older patients are needed in order to confirm our findings and ways to overcome the barriers for adherence to exercise training has to be established.

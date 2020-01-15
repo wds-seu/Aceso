@@ -1,0 +1,150 @@
+1 |||  ||| 0.1 ||| Ralph Maddison
+2 |||  ||| 0.2 ||| Aim: To determine the effectiveness and cost-effectiveness of a mobile phone intervention to improve exercise capacity and physical activity behaviour in people with ischaemic heart disease (IHD).
+3 |||  ||| 0.3 ||| Methods and results: In this single-blind, parallel, two-arm, randomized controlled trial adults (n ¼ 171) with IHD were randomized to receive a mobile phone delivered intervention (HEART; n ¼ 85) plus usual care, or usual care alone (n ¼ 86).
+4 |||  ||| 0.4 ||| Adult participants aged 18 years or more, with a diagnosis of IHD, were clinically stable as outpatients, able to perform exercise, able to understand and write English, and had access to the Internet.
+5 |||  ||| 0.5 ||| The HEART (Heart Exercise And Remote Technologies) intervention involved a personalized, automated package of text messages and a secure website with video messages aimed at increasing exercise behaviour, delivered over 24 weeks.
+6 |||  ||| 0.6 ||| All participants were able to access usual community-based cardiac rehabilitation, which involves encouragement of physical activity and an offer to join a local cardiac support club.
+7 |||  ||| 0.7 ||| All outcomes were assessed at baseline and 24 weeks and included peak oxygen uptake (PVO 2 ; primary outcome), selfreported physical activity, health-related quality of life, self-efficacy and motivation (secondary outcomes).
+8 |||  ||| 0.8 ||| Results showed no differences in PVO 2 between the two groups (difference À0.21 ml kg À1 min À1 , 95% CI: À1.1, 0.7; p ¼ 0.65) at 24 weeks.
+9 |||  ||| 0.9 ||| However significant treatment effects were observed for selected secondary outcomes, including leisure time physical activity (difference 110.2 min/week, 95% CI: À0.8, 221.3; p ¼ 0.05) and walking (difference 151.4 min/week, 95% CI: 27.6, 275.2; p ¼ 0.02).
+10 |||  ||| 0.10 ||| There were also significant improvements in self-efficacy to be active (difference 6.2%, 95% CI: 0.2, 12.2; p ¼ 0.04) and the general health domain of the SF36 (difference 2.1, 95% CI: 0.1, 4.1; p ¼ 0.03) at 24 weeks.
+11 |||  ||| 0.11 ||| The HEART programme was considered likely to be cost-effective for leisure time activity and walking.
+12 |||  ||| 0.12 ||| Conclusions: A mobile phone intervention was not effective at increasing exercise capacity over and above usual care.
+13 |||  ||| 0.13 ||| The intervention was effective and probably cost-effective for increasing physical activity and may have the potential to augment existing cardiac rehabilitation services.
+14 |||  ||| 0.14 ||| Keywords
+15 |||  ||| 0.15 ||| Exercise, mobile phones, text messaging, rehabilitation, self-efficacy, trials
+16 ||| Introduction ||| 1.1 ||| Aim
+17 ||| Introduction ||| 1.2 ||| Cardiac rehabilitation (CR), a programme of medication and risk factor education as well as psychological support is an essential part of the contemporary management of people with ischaemic heart disease (IHD).
+18 ||| Introduction ||| 1.3 ||| Despite the documented benefits of CR, participation is inadequate in all countries in which it has been measured.
+19 ||| Introduction ||| 1.4 ||| The aim of this trial was to determine the effectiveness and cost-effectiveness of a mobile health (mHealth) delivered exercise CR programme for people with IHD to improve exercise capacity and physical activity levels compared to current services.
+20 ||| Introduction ||| 1.5 ||| We hypothesized that an mHealth intervention would increase exercise capacity.
+21 ||| Introduction ||| 1.6 ||| Secondary hypotheses were that the mHealth intervention would increase physical activity levels and would be associated with increased self-efficacy to be active.
+22 ||| Introduction ||| 1.7 ||| Design
+23 ||| Introduction ||| 1.8 ||| 12-14
+24 ||| Introduction ||| 1.9 ||| Telephone-based interventions can be effective for physical activity behaviour change; 15 however because of high penetration and relatively low costs, 16 mobile phones have the potential to increase the reach of disease self-management or lifestyle coaching interventions for the secondary prevention of IHD.
+25 ||| Introduction ||| 1.10 ||| Of the 14 studies reviewed, 13 resulted in positive behaviour change outcomes for smoking cessation and diabetes management.
+26 ||| Introduction ||| 1.11 ||| However, to date a mobile phone delivered text message intervention to enhance exercise behaviour has not been examined in a CVD population.
+27 ||| Introduction ||| 1.12 ||| A randomized controlled trial was required to determine the effectiveness, safety and acceptability of such an approach.
+28 ||| Introduction ||| 1.13 ||| The HEART (Heart Exercise and Remote Technologies) study was a parallel, two-arm, randomized controlled trial of exercise prescription and behavioural support by mobile phone text messages and Internet.
+29 ||| Introduction ||| 1.14 ||| The trial was undertaken in New Zealand between 2010 and 2012 (protocol published in 2011) 22 and no changes were made to the study design in this time.
+30 ||| Introduction ||| 1.15 ||| Participants were adults aged 18 years or more, with a diagnosis of IHD, defined as angina, myocardial infarction, revascularization, including angioplasty, stent or coronary artery bypass graft within the previous 3-24 months.
+31 ||| Introduction ||| 1.16 ||| All participants were clinically stable as outpatients, able to perform exercise, able to understand and write English, and had access to the Internet (e.g.
+32 ||| Introduction ||| 1.17 ||| Eligible participants were randomized to either receive an exercise intervention delivered via mobile phone, or to usual care, with encouragement to be physically active and attend a cardiac club.
+33 ||| Introduction ||| 1.18 ||| Participants were excluded if they had been admitted to hospital with heart disease within the previous 6 weeks; had terminal cancer, or had significant exercise limitations other than IHD.
+34 ||| Introduction ||| 1.19 ||| Study procedures and terms were approved by the New Zealand Multi-region Ethics Committee (NTX/10/10/099).
+35 ||| Introduction ||| 1.20 ||| Eligible participants were recruited from two metropolitan hospitals, and were identified by nurses as inpatients, through outpatient clinics and existing databases.
+36 ||| Introduction ||| 1.21 ||| Nurses contacted potential participants and those agreeing to participate were screened for eligibility.
+37 ||| Introduction ||| 1.22 ||| Procedures
+38 ||| Introduction ||| 1.23 ||| All participants were free to participate in any other CR service or support that they wished to use.
+39 ||| Introduction ||| 1.24 ||| In Auckland, New Zealand, this typically involves participating in community-based CR education sessions on modifying CVD risk factors and psychological support, as well as encouragement to be physically active and an [1][2][3][4][5][6][7][8][9]
+40 ||| Introduction ||| 1.25 ||| offer to join a local cardiac club that provides supervised exercise.
+41 ||| Introduction ||| 1.26 ||| In addition, participants in the intervention group received the HEART programme-a personalized, automated package of text messages via their mobile phones aimed at increasing exercise behaviour over 24 weeks.
+42 ||| Introduction ||| 1.27 ||| They received six messages per week for the first 12 weeks, five messages per week for 6 weeks and then four messages per week for the remaining 6 weeks (total 24 weeks).
+43 ||| Introduction ||| 1.28 ||| The intervention focused on increasing leisure time physical activity -walking in particular -as well as encouragement to accrue incidental activity through daily tasks such as household chores and active transport.
+44 ||| Introduction ||| 1.29 ||| The intervention also focused on altering the key mediators of behaviour change, including self-efficacy, social support and motivation.
+45 ||| Introduction ||| 1.30 ||| Self-efficacy refers to an individual's beliefs in his or her capabilities to execute necessary courses of action to satisfy situational demands.
+46 ||| Introduction ||| 1.31 ||| This included role model video vignettes, an opportunity to self-monitor progress, as well as information on various forms of physical activity and exercise, energy expenditure, healthy eating advice, and links to other websites (e.g.
+47 ||| Introduction ||| 1.32 ||| Participants received 3-5 text messages per week (total of 118 messages over 24 weeks).
+48 ||| Introduction ||| 1.33 ||| Participants were encouraged to log onto the website once per week to view new information and video messages (three new messages added per week, 30-60 s in length).
+49 ||| Introduction ||| 1.34 ||| In total it was estimated that using the intervention to its full extent (maximum dose ¼ reading all text messages and using the website) took participants an average of 10 minutes per week.
+50 ||| Introduction ||| 1.35 ||| The intervention followed the mHealth development and evaluation framework 28 and was pre-tested and
+51 ||| Introduction ||| 1.36 ||| The primary outcome of the trial was change in peak oxygen uptake (PVO 2 ) from baseline to 24 weeks, which was determined using respiratory gas analysis during a standardized treadmill exercise testing protocol.
+52 ||| Introduction ||| 1.37 ||| A Moxus (AEI Technologies Inc., Pittsburgh, USA) metabolic cart was used to obtain breathby-breath measurements of VO 2 and carbon dioxide production (VCO 2 ).
+53 ||| Introduction ||| 1.38 ||| All testing was conducted in accordance with the ACSM guidelines 30 by a trained exercise physiologist blinded to treatment allocation.
+54 ||| Introduction ||| 1.39 ||| A graded protocol was initiated at a comfortable walking speed, and the gradient was increased by two degrees every 60 s until volitional exhaustion.
+55 ||| Introduction ||| 1.40 ||| Care was taken to ensure that participants exceeded the anaerobic threshold or a respiratory exchange ratio (RER) greater than 1.15 to indicate adequate effort.
+56 ||| Introduction ||| 1.41 ||| Secondary outcomes included self-reported physical activity, self-efficacy and motivation to exercise, and health-related quality of life at 24 weeks.
+57 ||| Introduction ||| 1.42 ||| An economic evaluation was also conducted.
+58 ||| Introduction ||| 1.43 ||| Self-reported physical activity levels were assessed using the International Physical Activity Questionnaire long form (IPAQ-LF).
+59 ||| Introduction ||| 1.44 ||| For task efficacy, scores were summed with greater values indicating greater efficacy to exercise for longer periods of time and at a greater level of intensity.
+60 ||| Introduction ||| 1.45 ||| For barrier efficacy, participants rated their confidence to overcome seven common reasons (e.g.
+61 ||| Introduction ||| 1.46 ||| Efficacy strength was calculated by summing the scores and dividing by total number of items used.
+62 ||| Introduction ||| 1.47 ||| Health-related quality of life was assessed using the standard version of the Short Form SF36 version 2 33 and EQ-5D.
+63 ||| Introduction ||| 1.48 ||| Economic evaluation
+64 ||| Introduction ||| 1.49 ||| For the cost-effectiveness analyses, we collected information on the costs of implementing and delivering the intervention only.
+65 ||| Introduction ||| 1.50 ||| Healthcare utilization and wider societal costs were not collected as this was a post hoc economic evaluation.
+66 ||| Introduction ||| 1.51 ||| Staff costs included a 50% overhead rate, and Web hosting fees, although not
+67 ||| Introduction ||| 1.52 ||| charged, were included for the purposes of this evaluation.
+68 ||| Introduction ||| 1.53 ||| Reported costs are in 2012 $NZ exclusive of Goods and Services Tax.
+69 ||| Introduction ||| 1.54 ||| In 2012, the purchasing power parity of NZ$1 ¼ E0.53.
+70 ||| Introduction ||| 1.55 ||| The EQ-5D (NZ tariff 2) was used to obtain a single preference index for the estimation of quality-adjusted life years (QALYs).
+71 ||| Introduction ||| 1.56 ||| Incremental cost-effectiveness ratios (ICERs) per QALY and for outcomes with a significant treatment effect were calculated.
+72 ||| Introduction ||| 1.57 ||| The ICER summarizes the additional cost per unit of health benefit gained by switching from usual care to the HEART intervention.
+73 ||| Introduction ||| 1.58 ||| To evaluate uncertainty in the ICER, cost-effectiveness acceptability curves were calculated from non-parametric bootstrapping with 10,000 replications.
+74 ||| Introduction ||| 1.59 ||| In scenario analysis, the intervention was evaluated as an ongoing nationwide programme rather than as a trial.
+75 ||| Introduction ||| 1.60 ||| Set-up costs were amortized at 3.5% over 4 years (the minimum estimated lifetime of the technological investment) over the potential national participant pool.
+76 ||| Introduction ||| 1.61 ||| As all contacts are automated and staff attention was rarely required, the trial's monthly staff maintenance and web-hosting costs are scalable nationally.
+77 ||| Introduction ||| 1.62 ||| However, to provide a conservative estimate, the monthly maintenance costs were doubled and split over potential participants for the 6-month intervention period.
+78 ||| Introduction ||| 1.63 ||| All statistical tests were two-tailed and a 5% significance level maintained throughout the analyses.
+79 ||| Introduction ||| 1.64 ||| Treatment evaluations were performed on the principle of intention to treat (ITT), using data collected from all randomized participants.
+80 ||| Introduction ||| 1.65 ||| Multiple imputations method was applied to the missing data for the primary outcome only.
+81 ||| Introduction ||| 1.66 ||| Analysis of covariance (ANCOVA) regression model was used to evaluate the main treatment effect on the primary outcome between the two treatment groups, adjusting for its baseline measure, age, sex, ethnicity and exercise history (i.e.
+82 ||| Introduction ||| 1.67 ||| A similar approach was used for other continuous secondary outcome measures.
+83 ||| Results ||| 2.1 ||| Randomization and blinding
+84 ||| Results ||| 2.2 ||| On completion of the baseline assessment, eligible participants were randomly allocated at a 1:1 ratio to either intervention or control group by means of a central computerized service.
+85 ||| Results ||| 2.3 ||| Randomization was conducted using the minimization method, stratifying by sex (male and female), ethnicity (Maori -indigenousand non-Maori), and exercise history (attendance or not at least one CR session).
+86 ||| Results ||| 2.4 ||| Allocation concealment was maintained up to the point of randomization.
+87 ||| Results ||| 2.5 ||| This was a single-blind trial, where outcome assessors were blinded to treatment allocation.
+88 ||| Results ||| 2.6 ||| However, it was not possible to blind trial participants to their allocation.
+89 ||| Results ||| 2.7 ||| A total of 171 eligible participants were randomized to the trial (Figure 1).
+90 ||| Results ||| 2.8 ||| Eligible participants were recruited from May 2011 to October 2012 via two Auckland (population 1.4 million) hospitals.
+91 ||| Results ||| 2.9 ||| Participants attended clinic visits at the time of randomization (baseline) and six months later.
+92 ||| Results ||| 2.10 ||| The majority of participants were male (139/171, 81%), New Zealand European (131/171, 76%), with a mean age of 60 years (SD ¼ 9.3).
+93 ||| Results ||| 2.11 ||| Treatment groups were well balanced at baseline (Table 1 and 2).
+94 ||| Results ||| 2.12 ||| During the trial 82% of participants in the intervention read some or all of the HEART text messages and 57% of participants viewed some or all of the video messages on the website.
+95 ||| Results ||| 2.13 ||| On average participants viewed the website once every two weeks.
+96 ||| Results ||| 2.14 ||| The primary outcome was measured for 75 (88%) participants in the intervention group and 78 (90%) in the control group at 24 weeks (Figure 1).
+97 ||| Results ||| 2.15 ||| Four participants in each of the respective groups were unable to complete the PVO 2 assessments for medical reasons.
+98 ||| Results ||| 2.16 ||| As shown in Table 3, both groups showed a small increase in PVO 2 from baseline to 24 weeks; however there were no differences between the HEART intervention and control groups (difference À0.2 ml À1 kg min
+99 ||| Results ||| 2.17 ||| À1
+100 ||| Statistical analyses ||| 3.1 ||| Based on previous research, 35 an a priori sample size estimate indicated that 170 participants (85 per group) would provide 90% power at 5% level of significance (two-sided) to detect a treatment difference of at least 2.5 ml À1 kg min À1 between the two groups, on change in PVO 2 from baseline to 24 weeks assuming a standard deviation of 5 ml À1 kg min À1 .
+101 ||| Statistical analyses ||| 3.2 ||| A formal statistical analysis plan (SAP) was approved by the Trial Steering Committee before datalock.
+102 ||| Statistical analyses ||| 3.3 ||| Statistical analyses were performed using SAS , 95% CI: À1.1, 0.7; p ¼ 0.65) at 24 weeks.
+103 ||| Statistical analyses ||| 3.4 ||| There was a significant increase in self-reported leisure time physical activity (difference 110.2 min/week, 95% CI: À0.8, 221.3; p ¼ 0.05) and walking (difference 151.4 min/ week, 95% CI: 27.6, 275.2; p ¼ 0.02) at 24 weeks in favour of the HEART intervention, which represented increases of 40% and 42%, respectively.
+104 ||| Statistical analyses ||| 3.5 ||| For the other activity domains (total activity, active transport and domestic/gardening, and reduced sitting time), there were no statistically significant differences.
+105 ||| Statistical analyses ||| 3.6 ||| There were also significant improvements in selfefficacy to be active (difference 6.2%, 95% CI: 0.2, 12.2; p ¼ 0.04) and the general health domain of the [1][2][3][4][5][6][7][8][9] //blrnas3/cenpro/ApplicationFiles/Journals/SAGE/3B2/CPRJ/Vol00000/140062/APPFile/SG-CPRJ140062.3d
+106 ||| Statistical analyses ||| 3.7 ||| (CPR) [PREPRINTER stage] Maddison et al.
+107 ||| Statistical analyses ||| 3.8 ||| Flow of participants in study.
+108 ||| Statistical analyses ||| 3.9 ||| SF36 (difference 2.1, 95% CI: 0.1, 4.1; p ¼ 0.03) at 24 weeks (Table 4).
+109 ||| Statistical analyses ||| 3.10 ||| No statistically significant differences were observed in other outcomes between the two groups.
+110 ||| Statistical analyses ||| 3.11 ||| Twenty-two participants reported 31 serious adverse events.
+111 ||| Statistical analyses ||| 3.12 ||| Of these, 15 were cardiac related (angina/chest pain ¼ 4; stenosis ¼ 2; heart palpitations ¼ 1; shortness of breath ¼ 2; dizziness ¼ 1; pericarditis ¼ 3; ventricular tachycardia ¼ 2).
+112 ||| Statistical analyses ||| 3.13 ||| The remaining serious adverse events included cancer diagnosis (n ¼ 3); injury (n ¼ 3) and other illness (n ¼ 10).
+113 ||| Statistical analyses ||| 3.14 ||| Only one serious adverse event was related to the study treatment with a participant hospitalized following a cycling accident.
+114 ||| Statistical analyses ||| 3.15 ||| Costs and cost-effectiveness
+115 ||| Statistical analyses ||| 3.16 ||| The total non-protocol cost to set-up and deliver the HEART intervention during the trial was $20,313 (E10,803) or $239 (E127) per intervention participant.
+116 ||| Statistical analyses ||| 3.17 ||| For the within-trial economic evaluation, the ICER per QALY was $28,768 (E15,247).
+117 ||| Statistical analyses ||| 3.18 ||| If the decisionmaker was willing to pay $20,000 (E10,600) -a threshold commonly accepted as cost-effective in New Zealand -and $50,000 (E26,500) per QALY, there would be a 72% and 90% probability, respectively, that the intervention would be cost-effective.
+118 ||| Statistical analyses ||| 3.19 ||| The ICERs per MET-hour of walking and leisure activity a week were $48 (E26) and $74 (E39), respectively.
+119 ||| Statistical analyses ||| 3.20 ||| To evaluate the HEART intervention as an ongoing national programme, age-standardized publicly funded hospital discharge rates for ICD codes I20-251 only (diagnosis -''ischaemic heart diseases'') in 2009-10, reported at 383.9 per 100,000 population, 36 the current New Zealand population of 4,458,000, and the 59% consent rate at the metropolitan hospitals for this study, were used to estimate that over 10,000 potential participants per annum for this programme may exist nationally.
+120 ||| Statistical analyses ||| 3.21 ||| We then halved both the potential participant pool and consent rate for a more conservative estimate of 2500.
+121 ||| Statistical analyses ||| 3.22 ||| Under these circumstances, the incremental cost per HEART participant would be $ 22.37 (E11.90)
+122 ||| Statistical analyses ||| 3.23 ||| QALY, with a 95% probability the intervention is costeffective at a willingness to pay of $20,000 (E10,600) per QALY, The ICERs per MET-hour of walking and leisure activity a week were, respectively, $4.45 (E2.37) and $6.95 (E3.70).
+123 ||| Discussion ||| 4.1 ||| To our knowledge, HEART is the first RCT to evaluate the effectiveness and cost-effectiveness of a mHealth CR exercise programme for people with IHD.
+124 ||| Discussion ||| 4.2 ||| Exercise support delivered via mobile phone and the Internet was not effective at increasing cardiorespiratory exercise capacity over and above usual care, but did have positive effects on selected secondary outcomes, including levels of self-reported physical activity, walking, self-efficacy and physical aspects of health-related quality of life.
+125 ||| Discussion ||| 4.3 ||| The intervention is likely to be cost-effective compared to usual care for increasing walking among people with IHD.
+126 ||| Discussion ||| 4.4 ||| This study has several strengths.
+127 ||| Discussion ||| 4.5 ||| The use of computer randomization ensured allocation concealment was maintained, and baseline prognostic factors were well balanced.
+128 ||| Discussion ||| 4.6 ||| An objective measure was used for the primary outcome, to which assessors were blinded to group allocation.
+129 ||| Discussion ||| 4.7 ||| This study also used intention to treat analyses and provided an economic evaluation of the intervention.
+130 ||| Discussion ||| 4.8 ||| The major limitation of this trial was the self-reported measure of physical activity behaviour, which is associated with recall bias.
+131 ||| Discussion ||| 4.9 ||| In the present study,
+132 ||| Discussion ||| 4.10 ||| we focused on domain specific physical activity (leisure time), which is consistent with recommendations by developers of the IPAQ.
+133 ||| Discussion ||| 4.11 ||| It is possible that our exercise regimen may have lacked sufficient progression and intensity to improve exercise capacity.
+134 ||| Discussion ||| 4.12 ||| Alternatively, the intensity aspect of the text messages may not have resonated with participants, such that their own perceptions of moderate to vigorous intensity were likely to be lower than the true physiological intensity required to impact on exercise capacity.
+135 ||| Discussion ||| 4.13 ||| Maximal exercise capacity is a strong predictor of mortality in people with CVD 38,39 and previous studies have demonstrated a dose-response relationship between levels of physical fitness and risk of both CHD and CVD mortality.
+136 ||| Discussion ||| 4.14 ||| Notwithstanding these positive effects, the findings on physical activity must be interpreted with caution, given they were secondary outcomes assessed using a selfreported measure.
+137 ||| Discussion ||| 4.15 ||| The HEART intervention also resulted in greater efficacious beliefs to exercise for greater intensity and increasing duration (task self-efficacy) but not to overcome barriers to be active (barrier efficacy).
+138 ||| Discussion ||| 4.16 ||| These data provide some support for the intervention successfully manipulating key constructs of Social Cognitive Theory and offer some insight into the potential mechanism of the intervention on physical activity.
+139 ||| Discussion ||| 4.17 ||| The lack of effect on barrier efficacy was surprising given that text messages did target this variable.
+140 ||| Discussion ||| 4.18 ||| The barriers (e.g.
+141 ||| Discussion ||| 4.19 ||| The HEART intervention also had a positive effect on participant's perception of general health, with a 1.6 point increase in the physical component score of the SF-36, which is consistent with previous telehealth trials in people with CVD.
+142 ||| Discussion ||| 4.20 ||| As an ongoing programme, it may also be cost-effective for improving health-related quality of life.
+143 ||| Discussion ||| 4.21 ||| There are no other similar interventions for comparison; however, previous economic evaluations have shown that CR is cost-effective for those who participate.
+144 ||| Conclusions ||| 5.1 ||| A mobile phone intervention was not effective at increasing exercise capacity over and above usual care.
+145 ||| Conclusions ||| 5.2 ||| Positive effects were found for physical activity in favour of the intervention, which was likely to be cost-effective, and may have potential to augment existing CR services.
+146 ||| Conclusions ||| 5.3 ||| More intensive exercise prescription may result in greater improvement of exercise capacity.
+147 ||| Conclusions ||| 5.4 ||| Baseline assessments.
+148 ||| Conclusions ||| 5.5 ||| Treatment effects at 24 weeks for fitness and exercise outcomes.
+149 ||| Conclusions ||| 5.6 ||| Treatment effects at 24 weeks for psychological variables and health-related quality of life.
+150 ||| Acknowledgements ||| 6.1 ||| The authors would like to acknowledge Paul Nolan, Brighid McCaffrey, Dr Aaron Lin and Dr Jocelyn Benetar for their contributions to data collection.

@@ -1,0 +1,76 @@
+1 |||  ||| 0.1 ||| Objective To compare the efficacy of oral with vaginal misoprostol for induction of labour.
+2 ||| Introduction ||| 1.1 ||| Induction of labour is the artificial initiation of labour before its spontaneous onset for the purpose of delivery of the fetoplacental unit using mechanical or pharmacologic methods [1].
+3 ||| Introduction ||| 1.2 ||| The success of labour induction depends on the cervical status at the time of induction.
+4 ||| Introduction ||| 1.3 ||| It is generally predicted that the patients with a poor Bishop's score B3 have unacceptably higher rates of failure of induction [2].
+5 ||| Introduction ||| 1.4 ||| The new synthetic prostaglandian E1 analogue 'Misoprostol' licenced primarily for the prevention and treatment of non steroidal anti-inflammatory drug induced ulcers of gastrointestional tract, is a promising agent for labour induction [3][4][5].
+6 ||| Introduction ||| 1.5 ||| Misoprostol is conveniently administered through the oral, sublingual, buccal, vaginal and rectal routes [6].
+7 ||| Introduction ||| 1.6 ||| It is inexpensive, easily stored at room temperature and has few systemic side effects.
+8 ||| Introduction ||| 1.7 ||| The purpose of this study was to compare the efficacy and safety of oral versus vaginal misoprostol for induction of labour in the equivalent dosage of 50 mcg 6 hourly.
+9 ||| Introduction ||| 1.8 ||| The induction delivery interval, maternal and fetal outcome and need for augmentation of labour in these two groups were also compared.
+10 ||| Materials and Methods ||| 2.1 ||| Amniotomy was done at cervical dilatation of 4 cm and further doses of misoprostol withheld.
+11 ||| Materials and Methods ||| 2.2 ||| Patient was started oxytocin augmentation if she had no progress of labour for 2 h on WHO partograph.
+12 ||| Materials and Methods ||| 2.3 ||| Those patients who had contractions \3/10 min of \40 s duration were considered to be not in active labour.
+13 ||| Materials and Methods ||| 2.4 ||| These patients were administered further doses of misoprostol according to the protocol.
+14 ||| Materials and Methods ||| 2.5 ||| Failure of induction was declared if patient failed to go in active phase of labour within 24 h of induction.
+15 ||| Materials and Methods ||| 2.6 ||| Student's t test and chi-square test were used to statistically compare the two groups.
+16 ||| Materials and Methods ||| 2.7 ||| Differences with a P value of \0.05 were considered statistically significant with the confidence limit of 95 % (Power of test 80 %).
+17 ||| Materials and Methods ||| 2.8 ||| The study was conducted at GMCH, Aurangabad in the Department of obstetrics and Gynaecology from July 2010 to Dec 2011.
+18 ||| Materials and Methods ||| 2.9 ||| Ethical committee approval was taken and in July 2010.
+19 ||| Materials and Methods ||| 2.10 ||| The study population (n = 200) was a mixture of high and low risk population.
+20 ||| Materials and Methods ||| 2.11 ||| Patients at term with various indications for induction of labour were included in the study after a written, valid consent.
+21 ||| Materials and Methods ||| 2.12 ||| Result
+22 ||| Inclusion Criteria ||| 3.1 ||| Group A and Group B had 100 randomised patients each.
+23 ||| Inclusion Criteria ||| 3.2 ||| Both the groups were comparable with respect to the maternal age, gestational age, indication for induction and pre-induction modified Bishop's score (Tables 1, 2).
+24 ||| Inclusion Criteria ||| 3.3 ||| Mean pre induction Bishop's score in oral group was 3.09 ± 0.692 and in vaginal group was 3.17 ± 0.721.
+25 ||| Inclusion Criteria ||| 3.4 ||| Primigravida 2.
+26 ||| Inclusion Criteria ||| 3.5 ||| Gestational age 34-42 weeks 3.
+27 ||| Inclusion Criteria ||| 3.6 ||| Singleton viable pregnancy 4.
+28 ||| Inclusion Criteria ||| 3.7 ||| Bishop's score B5
+29 ||| Inclusion Criteria ||| 3.8 ||| 5.
+30 ||| Inclusion Criteria ||| 3.9 ||| Cephalic presentation 6.
+31 ||| Inclusion Criteria ||| 3.10 ||| Clinically adequate pelvis 7.
+32 ||| Inclusion Criteria ||| 3.11 ||| Reactive non stress test.
+33 ||| Inclusion Criteria ||| 3.12 ||| The patients were randomly allocated to either Group A, (n = 100) who received oral tablet misoprostol 50 mcg 6 hourly for maximum four doses or Group B, (n = 100) who received vaginal tablet misoprostol 50 mcg 6 hourly for maximum four doses.
+34 ||| Discussion ||| 4.1 ||| Exclusion
+35 ||| Discussion ||| 4.2 ||| The Modified Bishop's score was determined.
+36 ||| Discussion ||| 4.3 ||| Each patient was questioned in detail and examined thoroughly.
+37 ||| Discussion ||| 4.4 ||| Last menstrual period was ascertained and correlated clinically.
+38 ||| Discussion ||| 4.5 ||| Demographic profile, gestational age, number of doses required, induction-delivery interval, mode of delivery and feto maternal outcome was noted.
+39 ||| Discussion ||| 4.6 ||| Patient was considered to be in active labour if she had painful uterine contractions of 3/10 min of [40 s duration.
+40 ||| Discussion ||| 4.7 ||| The results of this study show that vaginal route of administration of misoprostol is preferable to oral route when used in equivalent dosage.
+41 ||| Discussion ||| 4.8 ||| The mean number of dosage of misoprostol required for successful labour induction was 2.73 ± 0.58 in the oral group and 2.26 ± 0.52 in vaginal group (P value \ 0.0001, highly significant) ( Table 2).
+42 ||| Discussion ||| 4.9 ||| Similar were observations of Rozina Rasheed et al., Wing DA et al.
+43 ||| Discussion ||| 4.10 ||| Mean induction delivery interval for successful outcome was 15.24 ± 3.47 h in oral group and 1.74 ± 2.60 h in oral group and 12.74 ± 2.60 h in vaginal group.
+44 ||| Discussion ||| 4.11 ||| The mean induction delivery interval was significantly less in vaginal group (P \ 0.0001, highly significant).
+45 ||| Discussion ||| 4.12 ||| Similar observations were observed by Rozina Rasheed et al., Wing DA et al.
+46 ||| Discussion ||| 4.13 ||| In oral group 26 patients required LSCS of which 19 were due to fetal distress and one due to impending eclampsia.
+47 ||| Discussion ||| 4.14 ||| These can not be attributed to failure of drug.
+48 ||| Discussion ||| 4.15 ||| Three patients in Group A had LSCS due to non progress of labour due to unforeseen cephalopelvic disproportion.
+49 ||| Discussion ||| 4.16 ||| Only three patients in oral group had undergone LSCS due to failed induction.
+50 ||| Discussion ||| 4.17 ||| In vaginal group, out of 17 LSCS, 14 patients required LSCS for fetal distress which cannot be attributed to failure of drug, three patients had non progress of labour due to unforeseen cephalopelvic disproportion.
+51 ||| Discussion ||| 4.18 ||| None of the patients in vaginal group had LSCS for failed induction.
+52 ||| Discussion ||| 4.19 ||| In oral group ten patients required maximum dose (4 doses).
+53 ||| Discussion ||| 4.20 ||| Out of these five patients delivered vaginally.
+54 ||| Discussion ||| 4.21 ||| No significant side effect seen.
+55 ||| Discussion ||| 4.22 ||| All five babies had APGAR score\7.
+56 ||| Discussion ||| 4.23 ||| The five patients who required LSCS, indications were 1.
+57 ||| Discussion ||| 4.24 ||| Failed induction-3 cases 2.
+58 ||| Discussion ||| 4.25 ||| Fetal distress-1 case 3.
+59 ||| Discussion ||| 4.26 ||| Failure to progress-1 case Of this five patients one had nausea, one had dizziness and one had vomittings.
+60 ||| Discussion ||| 4.27 ||| But the side effects were not severe enough to stop the drug.
+61 ||| Discussion ||| 4.28 ||| All babies had APGAR [7.
+62 ||| Discussion ||| 4.29 ||| In vaginal group four patients required maximum dose (4 doses).
+63 ||| Discussion ||| 4.30 ||| Out of these two patients delivered vaginally.
+64 ||| Discussion ||| 4.31 ||| No significant side effects.
+65 ||| Discussion ||| 4.32 ||| All babies APGAR was [7.
+66 ||| Discussion ||| 4.33 ||| Out of four patients, two required LSCS for fetal distress.
+67 ||| Discussion ||| 4.34 ||| No significant side effect.
+68 ||| Discussion ||| 4.35 ||| APGAR score of both babies [7.
+69 ||| Discussion ||| 4.36 ||| Oxytocin augmentation was more in patients with poor bishops score (Table 4) side effects of misoprostol in both groups were not significant.
+70 ||| Discussion ||| 4.37 ||| However fever and tachysystole were the most commonly seen side effects.
+71 ||| Discussion ||| 4.38 ||| Fetal outcome data showed no significant difference between two groups with respect to birth weights (Group A 2,820 ± 377 g, Group B 2730 ± 447 g t = 1.53, P = 0.12 Not significant) ( Table 5).
+72 ||| Discussion ||| 4.39 ||| MAS (6 % in Group A and 11 % in Group B), 1 min APGAR score \7 (30 in Group A, 28 in Group B), NICU admissions (30 in Group A, 28 in Group B).
+73 ||| Discussion ||| 4.40 ||| Thus present study shows that the fetal outcome results were also comparable in both the groups.
+74 ||| Discussion ||| 4.41 ||| Neonatal outcome is comparable in both groups.
+75 ||| Conclusion ||| 6.1 ||| In conclusion, this study shows that for induction of labour, vaginal misoprostol is preferable to oral misoprostol when used in equivalent dosage of 50 mcg.
+76 ||| Conclusion ||| 6.2 ||| In vaginal route of administration compared to oral route, the number of dosage required is less, induction delivery interval is less, less incidence of failed induction,

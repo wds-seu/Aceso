@@ -1,0 +1,112 @@
+1 |||  ||| 0.1 ||| Objective: To determine the efficacy and safety of a titrated oral misoprostol solution compared with vaginal mi-soprostol tablets for labor induction.
+2 |||  ||| 0.2 ||| Methods: A randomized, triple-blind, multicenter clinical trial was conducted between March 2010 and June 2011.
+3 |||  ||| 0.3 ||| Women with a single gestation (n = 200) were randomized to receive a titrated oral misoprostol solution (initial misoprostol dose 20 μg/hour; dose increased by 20 μg/hour every 6 hours up to 80 μg/hour for a maximum of 48 doses) or vaginal misoprostol tablets (25 μg of misoprostol every 6 hours for a maximum of 8 doses).
+4 |||  ||| 0.4 ||| Risk ratios (RR) and 95% confidence intervals (CIs) were calculated for maternal and perinatal outcomes.
+5 |||  ||| 0.5 ||| Results: The frequencies of vaginal delivery not achieved within 12 hours (RR 0.87; 95% CI, 0.62-1.22) and within 24 hours (RR 1.11; 95% CI, 0.83-1.49) were similar in the 2 groups.
+6 |||  ||| 0.6 ||| No differences were found in terms of uterine hyperstimulation, unfavorable cervix at 12 and 24 hours, oxytocin augmentation , tachysystole, epidural analgesia, adverse effects, and perinatal outcome.
+7 |||  ||| 0.7 ||| Approximately 70% of the women preferred the oral solution.
+8 |||  ||| 0.8 ||| Conclusion: A titrated oral misoprostol solution was as effective and safe for labor induction as vaginal misoprostol tablets.
+9 |||  ||| 0.9 ||| ClinicalTrial.gov: NCT00 992524
+10 ||| Introduction ||| 1.1 ||| Misoprostol is one of the most common methods used to induce labor and can be administered by various routes and using several treatment regimens.
+11 ||| Introduction ||| 1.2 ||| The frequency of induced births depends on the country and region, with an estimated average of 20% of births [1][2][3][4][5][6][7][8].
+12 ||| Introduction ||| 1.3 ||| The effectiveness of misoprostol is no longer questioned, although the ideal dose and route of administration remain to be defined [3][4][5][6][7][8][9][10].
+13 ||| Introduction ||| 1.4 ||| The WHO [1] recommends 25 μg of oral misoprostol every 2 hours or 25 μg of vaginal misoprostol every 6 hours (strong recommendation).
+14 ||| Introduction ||| 1.5 ||| In an open randomized clinical trial [8], a titrated oral misoprostol solution was shown to be of exceptional benefit, with a lower rate of uterine hyperstimulation and higher rates of nausea and vaginal delivery in the oral solution group compared with vaginal misoprostol.
+15 ||| Introduction ||| 1.6 ||| However, other studies [11][12][13][14][15] have failed to confirm the superiority of this regimen.
+16 ||| Introduction ||| 1.7 ||| A lower-dose regimen with shorter dosing intervals seems to be in accordance with the pharmacokinetics of oral compared with vaginal misoprostol [8][9][10].
+17 ||| Introduction ||| 1.8 ||| Although previous studies [8,11,12,14] have evaluated the use of a titrated misoprostol solution, none used a homogenized oral solution.
+18 ||| Introduction ||| 1.9 ||| The present study was conducted to determine the effectiveness and safety of a titrated oral homogenized misoprostol solution compared with vaginal misoprostol tablets for the induction of labor in full-term live pregnancies.
+19 ||| Materials and methods ||| 2.1 ||| A multicenter randomized, triple-blind clinical trial was carried out at Instituto de Medicina Integral Professor Fernando Figueira (IMIP), Policlínica e Maternidade Professor Arnaldo Marques, and Hospital Barão de Lucena, all in the city of Recife, Pernambuco, in northeastern Brazil, between March 1, 2010, andJune 30, 2011.
+20 ||| Materials and methods ||| 2.2 ||| The study was approved by the Institutional Review Board at IMIP.
+21 ||| Materials and methods ||| 2.3 ||| All participants voluntarily agreed to take part in the trial and gave their written informed consent.
+22 ||| Materials and methods ||| 2.4 ||| The sample size was calculated using OpenEpi version 2.3 (OpenEpi; Atlanta, GA, USA).
+23 ||| Materials and methods ||| 2.5 ||| In a pilot study [16] of the titrated oral solution, 52% of women did not have a vaginal delivery within 12 hours of misoprostol administration, and the respective rate with vaginal misoprostol was 73% in another study conducted at IMIP [17].
+24 ||| Materials and methods ||| 2.6 ||| Assuming these rates, a sample of 184 women would be needed to achieve a significance level of 5% and a statistical power of 80%.
+25 ||| Materials and methods ||| 2.7 ||| This number was increased to 200 to allow for loss of follow-up.
+26 ||| Materials and methods ||| 2.8 ||| The inclusion criteria were single live pregnancy, pregnancy duration of 37 weeks or more, indication for labor induction (hypertension, premature rupture of membranes, diabetes, or pregnancy duration of 41 weeks or more), vertex presentation, estimated fetal weight of less than 4000 g according to ultrasonography, amniotic fluid index of more than 5 cm, and modified Bishop score of 6 or less.
+27 ||| Materials and methods ||| 2.9 ||| Patients with uterine scar, abnormal fetal well-being test, fetal abnormalities, restricted fetal growth, genital bleeding related to placental abnormalities, or contraindications to vaginal delivery were excluded.
+28 ||| Materials and methods ||| 2.10 ||| Fetal well-being was evaluated by Doppler flow velocimetry, cardiotocography, and/or biophysical profile scoring, depending on the routine at each hospital.
+29 ||| Materials and methods ||| 2.11 ||| All women included in the study were accompanied according to standard routine for their clinical condition, and fetal well-being was evaluated by intermittent fetal auscultation or intrapartum cardiotocography [19].
+30 ||| Materials and methods ||| 2.12 ||| The randomization procedure was performed using Random Allocation version 1.0 (Isfahan University of Medical Sciences; Isfahan, Iran).
+31 ||| Materials and methods ||| 2.13 ||| Numbers from 1 to 200 were randomly allocated to 2 groups designated A and B, and the resulting lists were sent to the pharmaceutical company in charge of the drug preparation.
+32 ||| Materials and methods ||| 2.14 ||| The medication used in the study (oral misoprostol solution, vaginal misoprostol tablets, and the respective placebos) was purchased by IMIP from Hebron S/A Indústrias Químicas e Farmacêuticas (Caruaru, Pernambuco, Brazil).
+33 ||| Materials and methods ||| 2.15 ||| The quality of the medication was controlled by the batch number, according to protocols of the Brazilian pharmaceutical industry [18].
+34 ||| Materials and methods ||| 2.16 ||| Vaginal tablets of misoprostol are commercially available in Brazil at a dose of 25 μg.
+35 ||| Materials and methods ||| 2.17 ||| The oral solution was prepared in 100 mL bottles (2 μg/mL of misoprostol).
+36 ||| Materials and methods ||| 2.18 ||| The placebo and misoprostol formulations for each route of administration contained the same ingredients, except for the presence of the active substance, and were identical in appearance, color, taste, and shape.
+37 ||| Materials and methods ||| 2.19 ||| The study medications and placebos were packaged by the pharmaceutical company in identical boxes numbered sequentially from 1 to 200 in accordance with the randomization list.
+38 ||| Materials and methods ||| 2.20 ||| Each box contained a set of 8 vaginal tablets (placebo or 25 μg of misoprostol) and 16 bottles containing 100 mL of the oral solution (placebo or 2 μg/mL of misoprostol), in the following combinations: oral misoprostol solution with placebo tablets, and misoprostol tablets with oral placebo solution.
+39 ||| Materials and methods ||| 2.21 ||| The initial dose of the oral solution was 20 μg/hour (10 mL/hour) of misoprostol or 10 mL/hour of placebo for the first 6 hours, which was increased by 20 μg/hour (10 mL/hour) every 6 hours by the attending nurse with a calibrated medicine cup if labor was not induced (maximum dose 80 μg/hour or until the 48th dose).
+40 ||| Materials and methods ||| 2.22 ||| The vaginal tablet (25 μg misoprostol or placebo) was placed into the posterior fornix by the attending physician every 6 hours (maximum dose 200 μg or 8 tablets).
+41 ||| Materials and methods ||| 2.23 ||| The primary outcome was vaginal delivery not achieved within 12 hours.
+42 ||| Materials and methods ||| 2.24 ||| Secondary outcomes were vaginal delivery not achieved within 24 hours, uterine hyperstimulation, cesarean delivery, severe neonatal morbidity (neonatal seizures and/or asphyxia) or perinatal death, and severe maternal morbidity (uterine rupture, sepsis, and/or admission to the intensive care unit) or maternal death.
+43 ||| Materials and methods ||| 2.25 ||| Other outcomes evaluated were unfavorable cervix after 12-24 hours, need for oxytocin augmentation, hypertonia/hypersystole, tachysystole, uterine rupture, epidural analgesia, instrumental vaginal delivery, and adverse effects (headache, nausea, vomiting, diarrhea, and postpartum hemorrhage).
+44 ||| Materials and methods ||| 2.26 ||| Neonatal outcomes were meconium-stained amniotic fluid, 1-minute and 5-minute Apgar scores of less than 7, admission to the neonatal intensive care unit, neonatal encephalopathy, and perinatal death [20].
+45 ||| Materials and methods ||| 2.27 ||| On discharge from the hospital, the woman's preference for the oral or vaginal misoprostol formulation was evaluated by asking which formulation she would prefer should labor induction be required in a future delivery.
+46 ||| Materials and methods ||| 2.28 ||| The indication for cesarean delivery and the times between the beginning of induction and the beginning of labor, between the beginning of induction and vaginal delivery, and between the beginning of labor and vaginal delivery were evaluated.
+47 ||| Materials and methods ||| 2.29 ||| A non-reassuring fetal heart rate (FHR) pattern, evaluated using cardiotocography or intermittent fetal auscultation, was defined as the persistence of a baseline FHR of less than 110 bpm, presence of late FHR decelerations (reduction in FHR following uterine contractions), or presence of fetal tachycardia (persistent FHR of more than 160 bpm) [19].
+48 ||| Materials and methods ||| 2.30 ||| Hypertonia/hypersystole was defined as uterine contractions for at least 2 minutes, tachysystole as 6 or more uterine contractions during 2 consecutive 10-minute periods, and uterine hyperstimulation as tachysystole or hypersystole/hypertonia associated with a nonreassuring FHR pattern [21].
+49 ||| Materials and methods ||| 2.31 ||| If tachysystole was detected, the woman was advised to lie on her left side and treated with intravenous hydration (1000 mL).
+50 ||| Materials and methods ||| 2.32 ||| If the pattern persisted, tocolysis was performed using 0.25 mg of subcutaneous terbutaline [1].
+51 ||| Materials and methods ||| 2.33 ||| In cases of uterine hyperstimulation, a cesarean delivery was performed as soon as possible.
+52 ||| Materials and methods ||| 2.34 ||| Labor was defined as the presence of 3 uterine contractions in 10 minutes with cervical changes [2].
+53 ||| Materials and methods ||| 2.35 ||| Induction was considered to have failed when labor failed to begin and/or the Bishop score remained at 6 or less following administration of 8 vaginal tablets or 1 hour after the 48th dose of the oral solution.
+54 ||| Materials and methods ||| 2.36 ||| The statistical analysis was performed with Epi Info version 7 (Centers for Disease Control and Prevention, Atlanta, GA, USA), using the intention-to-treat principle.
+55 ||| Materials and methods ||| 2.37 ||| For data collection and analysis, the groups were initially identified as A or B, and both the statistician and the investigators were blinded with respect to the allocated group until the analysis was concluded.
+56 ||| Materials and methods ||| 2.38 ||| Categorical variables were compared in contingency tables using the χ 2 test of association and the Fisher exact test, as appropriate.
+57 ||| Materials and methods ||| 2.39 ||| Continuous variables with normal distribution were compared using t test.
+58 ||| Materials and methods ||| 2.40 ||| For discrete variables and those without normal distribution, the MannWhitney U test was used.
+59 ||| Materials and methods ||| 2.41 ||| To determine the normality of numeric variables, the Kolmogorov-Smirnov test was used.
+60 ||| Materials and methods ||| 2.42 ||| Risk ratios (RR) and 95% confidence intervals (CIs) were calculated.
+61 ||| Materials and methods ||| 2.43 ||| The P values for all tests were 2-tailed; P b 0.05 was considered statistically significant.
+62 ||| Materials and methods ||| 2.44 ||| A Kaplan-Meier survival analysis was performed to assess the time from the beginning of induction until delivery, with the log rank test used to compare the areas under the curve for the 2 routes of administration.
+63 ||| Materials and methods ||| 2.45 ||| Women delivering by cesarean delivery were considered censored at the time of the cesarean delivery.
+64 ||| Results ||| 3.1 ||| During the study period, 450 women were referred to the participating hospitals for labor induction (Fig.
+65 ||| Results ||| 3.2 ||| Of these, 203 met the inclusion criteria; however, 3 declined participation.
+66 ||| Results ||| 3.3 ||| Therefore, 200 women remained in the study, 100 of whom were randomly assigned to the oral misoprostol solution group and 100 to the vaginal misoprostol group.
+67 ||| Results ||| 3.4 ||| There were no protocol violations.
+68 ||| Results ||| 3.5 ||| There were no significant differences in the baseline characteristics of the 2 treatment groups ( Table 1).
+69 ||| Results ||| 3.6 ||| The 2 groups were not significantly different in terms of vaginal delivery not achieved within 12 hours (P = 0.45) ( Table 2).
+70 ||| Results ||| 3.7 ||| The same was true for vaginal delivery not achieved within 24 hours, uterine hyperstimulation, and cesarean delivery.
+71 ||| Results ||| 3.8 ||| The main reasons for performing a   cesarean delivery were protracted active phase, induction failure, nonreassuring FHR, and uterine hyperstimulation, with no significant differences between the groups (Table 3).
+72 ||| Results ||| 3.9 ||| The 2 groups did not differ with respect to having an unfavorable cervix after 12 and 24 hours, induction failure, and requirement for oxytocin augmentation (Table 2).
+73 ||| Results ||| 3.10 ||| Of the 92 women who required oxytocin,   44 (47.8%) delivered within 24 hours in the oral group and 48 (52.2%) in the vaginal group (P = 0.69).
+74 ||| Results ||| 3.11 ||| Tachysystole was only found in the oral misoprostol group (Table 2).
+75 ||| Results ||| 3.12 ||| Epidural analgesia was required for delivery in 1 patient in the oral misoprostol solution group only.
+76 ||| Results ||| 3.13 ||| There were no differences between the group in terms of vaginal delivery and forceps delivery.
+77 ||| Results ||| 3.14 ||| No woman died, no cases of severe maternal or perinatal morbidity or perinatal death occurred, and there was no hypertonia or uterine rupture.
+78 ||| Results ||| 3.15 ||| No significant difference was found between the 2 groups with respect to the mean time from the beginning of induction to the onset of labor (oral misoprostol [n = 83], 16.4 ± 12.9 hours; vaginal misoprostol [n = 88], 14.5 ± 11.3 hours; P = 0.31).
+79 ||| Results ||| 3.16 ||| Likewise, there was no significant difference in the mean time from the beginning of induction to vaginal delivery (oral misoprostol [n = 59], 22.9 ± 14.9 hours; vaginal misoprostol [n = 63], 22.3 ± 13.0 hours; P = 0.81) and in the mean time between the onset of labor and vaginal delivery (oral misoprostol [n = 59], 7.05 ± 4.65 hours; vaginal misoprostol [n = 63], 6.98 ±3.83 hours; P = 0.93).
+80 ||| Results ||| 3.17 ||| The Kaplan-Meier survival curves for the time from induction to delivery did not differ between the groups (Fig.
+81 ||| Results ||| 3.18 ||| The frequency of adverse effects was similar in the 2 groups (Table 4).
+82 ||| Results ||| 3.19 ||| There were no episodes of shivering or diarrhea.
+83 ||| Results ||| 3.20 ||| Perinatal outcomes were also similar in the 2 groups (Table 5).
+84 ||| Results ||| 3.21 ||| There were no cases of neonatal encephalopathy or death.
+85 ||| Results ||| 3.22 ||| With respect to the mother's preference regarding the route of administration, 69.5% (95% CI, 62.6-75.8%) of the women reported that they would prefer the oral solution to the vaginal tablets should they need to use the drug to induce labor in a subsequent pregnancy.
+86 ||| Discussion ||| 4.1 ||| In the present study, no significant differences in the evaluated outcomes were found when an oral misoprostol solution was compared with vaginal misoprostol tablets.
+87 ||| Discussion ||| 4.2 ||| Several studies [8,17,22,23] have evaluated the frequency of vaginal delivery not achieved within 12 hours among women who received oral titrated versus vaginal misoprostol for labor induction.
+88 ||| Discussion ||| 4.3 ||| In previous reports [8,17,23], 68-74% of women exposed to vaginal misoprostol had not given birth at 12 hours compared with 85% in the present study.
+89 ||| Discussion ||| 4.4 ||| By contrast, with oral misoprostol, the frequency of vaginal delivery not achieved within 12 hours was only 26% in the first randomized clinical trial assessing this route of administration [8].
+90 ||| Discussion ||| 4.5 ||| This finding differs drastically from the results of the present study, where the frequency of vaginal delivery not achieved within 12 hours was 81% in the group receiving misoprostol via the oral route.
+91 ||| Discussion ||| 4.6 ||| In the present study, similar rates of vaginal delivery not achieved within 24 hours were found for the oral solution (63%) and the vaginal tablets (58%) of misoprostol, a result that is consistent with the findings from most other studies [3,7,12,17,24].
+92 ||| Discussion ||| 4.7 ||| However, in the randomized controlled trial [8], the frequency of vaginal delivery not achieved within 24 hours was 5.9% for the oral solution and 46% for the vaginal tablets.
+93 ||| Discussion ||| 4.8 ||| The frequency of uterine hyperstimulation was low in the present study, with no significant difference between the groups.
+94 ||| Discussion ||| 4.9 ||| This finding is consistent with other reports [3,7,9,11,12,17,23,25].
+95 ||| Discussion ||| 4.10 ||| The rate of cesarean deliveries was similar in the 2 groups, in concordance with a Cochrane review [3].
+96 ||| Discussion ||| 4.11 ||| No difference was found between the groups with respect to the indications for cesarean delivery.
+97 ||| Discussion ||| 4.12 ||| There were no cases of severe neonatal morbidity, neonatal death, severe maternal morbidity, or maternal death in the present study, which is consistent with the results of other studies [3].
+98 ||| Discussion ||| 4.13 ||| Likewise, no difference between the 2 groups was found in the need for oxytocin augmentation.
+99 ||| Discussion ||| 4.14 ||| The Cochrane review [3] reported a greater need for oxytocin in women using oral misoprostol (57%) than in those with vaginal administration (51%), a finding that is in agreement with the results from another randomized controlled trial [13].
+100 ||| Discussion ||| 4.15 ||| With reference to uterine hyperactivity, no statistically significant differences in the rate of tachysystole were found in the present study.
+101 ||| Discussion ||| 4.16 ||| No cases of uterine hypertonia occurred.
+102 ||| Discussion ||| 4.17 ||| The Cochrane review [3] found lower rates of uterine hyperstimulation with no change in the FHR with the use of oral misoprostol compared with vaginal tablets.
+103 ||| Discussion ||| 4.18 ||| With respect to the remaining outcomes (epidural analgesia and instrumental vaginal delivery), no significant differences were found, in agreement with the results of the Cochrane review [3].
+104 ||| Discussion ||| 4.19 ||| The mean time from the beginning of induction to the onset of labor, from the beginning of induction to vaginal delivery, and from the onset of labor to vaginal delivery did not differ between the 2 groups.
+105 ||| Discussion ||| 4.20 ||| The respective values in the present study are similar to those reported previously [9,17,24], with the exception of the findings from the first published randomized controlled trial [8] comparing an oral misoprostol solution with vaginal misoprostol and those from another study [16] that investigated the oral solution alone.
+106 ||| Discussion ||| 4.21 ||| Approximately 70% of the women reported that they would prefer the oral misoprostol solution over the vaginal tablets, should labor have to be induced in a future pregnancy.
+107 ||| Discussion ||| 4.22 ||| Another study [24] reported a satisfaction rate of approximately 85% with a sublingual solution.
+108 ||| Discussion ||| 4.23 ||| The present results show that the efficacy and safety of a titrated oral misoprostol solution are similar to those found with vaginal administration of a 25-μg dose every 6 hours.
+109 ||| Discussion ||| 4.24 ||| Further studies should be conducted before use of the oral misoprostol solution can be recommended in routine practice; future studies should also specifically address the issue of patient preference and satisfaction.
+110 ||| Acknowledgments ||| 5.1 ||| The Instituto de Medicina Integral Professor Fernando Figueira, where the study was carried out, is a private, nonprofit healthcare organization based in Recife, Pernambuco, Brazil.
+111 ||| Acknowledgments ||| 5.2 ||| The Institute did not interfere with the study design or analysis but covered all the costs involved in conducting the study, including the purchase of medication.
+112 ||| Conflict of interest ||| 6.1 ||| The authors have no conflicts of interest.

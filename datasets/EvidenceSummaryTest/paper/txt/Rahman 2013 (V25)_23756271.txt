@@ -1,0 +1,145 @@
+1 |||  ||| 0.1 ||| Objectives: To assess and compare the efficacy and safety of 50 µg oral misoprostol and 25 µg intravaginal misoprostol for induction of labour at term.
+2 |||  ||| 0.2 ||| Conclusion: Oral misoprostol in a dose of 50 µg every four hours, to a maximum of five doses, has the potential to induce labour as safely and effectively as 25 µg misoprostol administered vaginally every four hours.
+3 |||  ||| 0.3 ||| Methods: This non-blinded, randomized clinical trial included 228 pregnant women at term with obstetric or medical indications for induction of labour.
+4 |||  ||| 0.4 ||| Women either took 50 µg misoprostol orally (two 25 µg tablets) or had one 25 µg tablet of misoprostol inserted in the posterior vaginal fornix.
+5 |||  ||| 0.5 ||| In each group, misoprostol administration was repeated every four hours in the same dose until regular uterine contractions were established or to a maximum of five doses.
+6 |||  ||| 0.6 ||| Time to delivery and outcome data for each group were compared.
+7 |||  ||| 0.7 ||| Résumé Objectifs : Évaluer et comparer l'efficacité et l'innocuité de 50 µg de misoprostol par voie orale et de 25 µg de misoprostol par voie intravaginale pour le déclenchement du travail à terme.
+8 |||  ||| 0.8 ||| Results: Of the 228 women, eight (3 .5%) were excluded from the analysis as they withdrew their consent after randomization.
+9 |||  ||| 0.9 ||| Mean induction-to-delivery interval was similar in both groups (21 .22 hours in the oral group vs. 20 .15 hours in the vaginal group; P = 0 .58).
+10 |||  ||| 0.10 ||| There was no significant difference between the groups with respect to the number of women who delivered within 24 hours or who required oxytocin augmentation of labour, the mode of delivery, and neonatal outcomes (P > 0 .05).
+11 |||  ||| 0.11 ||| Uterine hyperstimulation occurred in two women who received misoprostol vaginally, but not in any of the women in the oral misoprostol group.
+12 |||  ||| 0.12 ||| Méthodes : Cet essai clinique randomisé n'ayant pas été mené à l'insu portait sur 228 femmes enceintes à terme qui présentaient des indications obstétricales ou médicales en ce qui concerne le déclenchement du travail.
+13 |||  ||| 0.13 ||| Ces femmes ont été affectées au hasard à un groupe devant prendre 50 µg de misoprostol par voie orale (deux comprimés de 25 µg) ou à un groupe devant se faire insérer un comprimé de 25 µg de misoprostol dans le cul-de-sac postérieur du vagin.
+14 |||  ||| 0.14 ||| Dans chacun de ces groupes, l'administration de la même dose de misoprostol a été répétée toutes les quatre heures jusqu'à ce que des contractions utérines régulières aient été établies ou jusqu'à l'administration d'un maximum de cinq doses.
+15 |||  ||| 0.15 ||| Le délai jusqu'à l'accouchement et les données quant aux issues ont été comparés chez ces groupes.
+16 |||  ||| 0.16 ||| Résultats : Huit (3,5 %) de ces 228 femmes ont été exclues de l'analyse puisqu'elles ont révoqué leur consentement à la suite de la randomisation.
+17 |||  ||| 0.17 ||| L'intervalle déclenchement-accouchement moyen était semblable dans les deux groupes (21,22 heures au sein du groupe « oral » vs 20,15 heures au sein du groupe « vaginal »; P = 0,58).
+18 |||  ||| 0.18 ||| Aucune différence significative n'a été constatée entre les deux groupes en ce qui concerne le nombre de femmes ayant accouché dans les 24 heures ou ayant nécessité une accélération du travail à l'oxytocine, le mode d'accouchement et les issues néonatales (P > 0,05).
+19 |||  ||| 0.19 ||| Une hyperstimulation utérine s'est manifestée chez deux des femmes 408 l MAY JOGC MAI 2013 Comparative Evaluation of 50 Microgram Oral Misoprostol and 25 Microgram Intravaginal Misoprostol for Induction of Labour at Term qui avaient reçu du misoprostol par voie vaginale; toutefois, aucune des femmes ayant reçu du misoprostol par voie orale n'a été affectée par un tel phénomène .
+20 |||  ||| 0.20 ||| Methods: This non-blinded, randomized clinical trial included
+21 |||  ||| 0.21 ||| 228 pregnant women at term with obstetric or medical indications for induction of labour .
+22 |||  ||| 0.22 ||| Women either took 50 µg misoprostol orally (two 25 µg tablets) or had one 25 µg tablet of misoprostol inserted in the posterior vaginal fornix .
+23 |||  ||| 0.23 ||| In each group, misoprostol administration was repeated every four hours in the same dose until regular uterine contractions were established or to a maximum of five doses .
+24 |||  ||| 0.24 ||| Time to delivery and outcome data for each group were compared .
+25 |||  ||| 0.25 ||| Résumé
+26 |||  ||| 0.26 ||| Objectifs : Évaluer et comparer l'efficacité et l'innocuité de 50 µg de misoprostol par voie orale et de 25 µg de misoprostol par voie intravaginale pour le déclenchement du travail à terme .
+27 |||  ||| 0.27 ||| Results: Of the 228 women, eight (3 .5%) were excluded from the analysis as they withdrew their consent after randomization .
+28 |||  ||| 0.28 ||| Mean induction-to-delivery interval was similar in both groups (21 .22 hours in the oral group vs .
+29 |||  ||| 0.29 ||| There was no significant difference between the groups with respect to the number of women who delivered within 24 hours or who required oxytocin augmentation of labour, the mode of delivery, and neonatal outcomes (P > 0 .05) .
+30 |||  ||| 0.30 ||| Uterine hyperstimulation occurred in two women who received misoprostol vaginally, but not in any of the women in the oral misoprostol group .
+31 |||  ||| 0.31 ||| Méthodes : Cet essai clinique randomisé n'ayant pas été mené à l'insu portait sur 228 femmes enceintes à terme qui présentaient des indications obstétricales ou médicales en ce qui concerne le déclenchement du travail .
+32 |||  ||| 0.32 ||| Ces femmes ont été affectées au hasard à un groupe devant prendre 50 µg de misoprostol par voie orale (deux comprimés de 25 µg) ou à un groupe devant se faire insérer un comprimé de 25 µg de misoprostol dans le cul-de-sac postérieur du vagin .
+33 |||  ||| 0.33 ||| Dans chacun de ces groupes, l'administration de la même dose de misoprostol a été répétée toutes les quatre heures jusqu'à ce que des contractions utérines régulières aient
+34 |||  ||| 0.34 ||| Comparative Evaluation of 50 Microgram Oral Misoprostol and 25 Microgram Intravaginal Misoprostol for Induction of Labour at Term
+35 |||  ||| 0.35 ||| qui avaient reçu du misoprostol par voie vaginale; toutefois, aucune des femmes ayant reçu du misoprostol par voie orale n'a été affectée par un tel phénomène .
+36 |||  ||| 0.36 ||| Conclusion : Le misoprostol administré par voie orale à raison  de 50 µg toutes les quatre heures, jusqu'à un maximum de  cinq doses, présente le potentiel de déclencher le travail de façon  tout aussi sûre et efficace que le misoprostol administré par voie  vaginale à raison de 25 µg toutes les quatre heures .
+37 |||  ||| 0.37 ||| The most common vaginal dose used has been 50 µg, inserted once or administered every four to six hours; inserting 25 µg every six hours intravaginally has been associated with the fewest side effects.
+38 ||| INTRODUCTION ||| 1.1 ||| I nduction of labour is widely performed when continuation of pregnancy is hazardous to the mother or fetus.
+39 ||| INTRODUCTION ||| 1.2 ||| There is also a risk of ascending infection because of repeated vaginal examinations.
+40 ||| INTRODUCTION ||| 1.3 ||| Prostaglandin E 2 has been the agent of choice for pre-induction cervical ripening for several decades and is one of the pharmacologic agents approved by the United States Food and Drug Administration for this indication.
+41 ||| INTRODUCTION ||| 1.4 ||| However, it has several disadvantages: it is expensive, it requires continuous refrigeration, and it is not widely available.
+42 ||| INTRODUCTION ||| 1.5 ||| Oral misoprostol is well tolerated when used for the management of upper gastrointestinal tract dysfunction.
+43 ||| INTRODUCTION ||| 1.6 ||| It has excellent cervical ripening and uterotonic properties, There have been few trials assessing the efficacy and tolerability of oral misoprostol for induction of labour.
+44 ||| INTRODUCTION ||| 1.7 ||| Oral misoprostol in a dose of 50 µg was found by Windrim et al.
+45 ||| INTRODUCTION ||| 1.8 ||| Seyfettin et al.
+46 ||| INTRODUCTION ||| 1.9 ||| These were all multiple dose trials.
+47 ||| INTRODUCTION ||| 1.10 ||| However, although the efficacy was high at higher doses, there was a significantly higher incidence of abnormal uterine activity, non-reassuring fetal heart rate tracings, and meconium-stained amniotic fluid.
+48 ||| INTRODUCTION ||| 1.11 ||| These properties make misoprostol a useful agent for induction of labour, particularly in settings in which the use of prostaglandin E 2 is not possible because of a lack of availability, a lack of facilities for storage, or financial constraints.
+49 ||| INTRODUCTION ||| 1.12 ||| There have been few randomized trials conducted comparing 50 µg oral misoprostol with 25 µg intravaginal misoprostol for labour induction.
+50 ||| INTRODUCTION ||| 1.13 ||| Most clinical trials
+51 ||| INTRODUCTION ||| 1.14 ||| In view of the uncertainty regarding the preferred dose and route of administration of misoprostol for induction of labour, we designed this study to assess and compare the efficacy and safety of 50 µg oral misoprostol with 25 µg intravaginal misoprostol for induction of labour at term.
+52 ||| INTRODUCTION ||| 1.15 ||| We chose the oral dose of 50 µg because of our experience with this dose and the experience of other investigators with oral doses up to 200 µg.
+53 ||| METHODS ||| 3.1 ||| We conducted a prospective, non-blinded randomized trial in the Labour and Maternity Ward, Department of Obstetrics and Gynaecology at the Central Referral Hospital, Gangtok, India from August 1, 2010, to July 31, 2011.
+54 ||| METHODS ||| 3.2 ||| The Central Referral Hospital, a teaching hospital of the Sikkim Manipal Institute of Medical Sciences, is one of the major hospitals in the Eastern Himalayan region, catering to the population of Gangtok and remote areas of Sikkim province, India.
+55 ||| METHODS ||| 3.3 ||| Administration of misoprostol also was stopped if there was a need for obstetric intervention.
+56 ||| METHODS ||| 3.4 ||| Written informed consent was obtained from the women who participated in the study.
+57 ||| METHODS ||| 3.5 ||| We included women admitted through the emergency or outpatient department with an indication for induction of labour at term.
+58 ||| METHODS ||| 3.6 ||| Women met the inclusion criteria if they were nulliparous or multiparous with a singleton pregnancy between 37 and 42 weeks' gestation, with obstetric or medical indications for induction of labour and an unfavourable cervix (initial Bishop score of ≤ 6), a vertex presentation, a reactive FHR pattern, and absence of uterine contractions.
+59 ||| METHODS ||| 3.7 ||| Women were excluded from the study if they had a malpresentation, uterine contractions, suspected cephalo-pelvic disproportion, an estimated fetal weight > 4000 g (by clinical assessment and ultrasonography), maternal age < 18 years, parity of ≥ 5, a favourable cervix (Bishop score > 6), a previous Caesarean section or uterine scar, multiple gestation, undiagnosed vaginal bleeding, fetal distress, suspected chorioamnionitis, or a contraindication to vaginal delivery or to administration of prostaglandins .
+60 ||| METHODS ||| 3.8 ||| Women in the study were monitored for uterine contractions, uterine hyperstimulation, nausea, vomiting, diarrhea, fever, and vaginal bleeding, and the progress of labour was recorded using a partogram.
+61 ||| METHODS ||| 3.9 ||| Cardiotocography was instituted before induction, and was repeated before each insertion of misoprostol and then intermittently during labour.
+62 ||| METHODS ||| 3.10 ||| FHR was also monitored every 30 minutes by intermittent fetal auscultation.
+63 ||| METHODS ||| 3.11 ||| If labour was established or the Bishop's score was 7 or more, the woman was transferred to the labour ward, and artificial rupture of membranes was performed at the discretion of the attending clinician.
+64 ||| METHODS ||| 3.12 ||| Labour was established when painful uterine contractions were accompanied by ruptured membranes, a bloody "show," or cervical effacement and/or dilatation.
+65 ||| METHODS ||| 3.13 ||| In women in either study group with inadequate uterine contractions, oxytocin was used for augmentation of labour according to our departmental protocol.
+66 ||| METHODS ||| 3.14 ||| If a woman failed to establish labour or the cervix was not favourable enough to permit artificial rupture of the membranes after five doses of misoprostol, she was categorized as having a failed induction.
+67 ||| METHODS ||| 3.15 ||| The woman was then offered a different method of labour induction (e.g., with use of PGE 2 vaginal gel) after a rest period.
+68 ||| METHODS ||| 3.16 ||| Women who refused further induction and requested operative delivery were delivered by CS.
+69 ||| METHODS ||| 3.17 ||| Women fulfilling the eligibility criteria were randomized into two groups: in one misoprostol was administered orally, and in the other vaginally.
+70 ||| METHODS ||| 3.18 ||| A staff member not involved with the trial generated allocation envelopes for each group, using the random number table, which were then sealed in consecutively numbered opaque envelopes.
+71 ||| METHODS ||| 3.19 ||| Once a woman consented to participate in the trial, the next sealed envelope was opened, irreversibly randomizing her group allocation.
+72 ||| METHODS ||| 3.20 ||| The randomization list and envelopes were kept securely by the staff member.
+73 ||| METHODS ||| 3.21 ||| This study was not placebo controlled.
+74 ||| METHODS ||| 3.22 ||| Women in the oral misoprostol group received 50 µg misoprostol (2 tablets of 25 µg) orally with a sip of water, and women in the vaginal misoprostol group had one 25 µg misoprostol tablet inserted by a trained staff physician in the posterior vaginal fornix without use of lubricant.
+75 ||| METHODS ||| 3.23 ||| In both groups the administration of the same dose of misoprostol was repeated every four hours until regular uterine contractions were achieved or the woman had received a total of five The primary outcomes used to evaluate efficacy were the induction-to-delivery interval in women who delivered vaginally and the rate of vaginal delivery within 24 hours.
+76 ||| METHODS ||| 3.24 ||| The primary measures used to evaluate safety were the incidence of tachysystole, hypertonus, uterine hyperstimulation syndrome, and non-reassuring FHR.
+77 ||| METHODS ||| 3.25 ||| The secondary outcome measures used to evaluate the efficacy or safety of treatment included the number of doses of misoprostol needed to effect delivery, requirement for oxytocin, the incidence of failed induction, the rate of CS, maternal adverse effects (nausea/vomiting, diarrhea, fever, postpartum hemorrhage, uterine rupture), and neonatal outcomes comprising low Apgar score (< 7 at 5 minutes), incidence of meconium-stained amniotic fluid, need for NICU admission, neonatal seizure within 48 hours of birth, and perinatal mortality rate.
+78 ||| METHODS ||| 3.26 ||| Adequate uterine contractions in this study were defined as occurring every two to three minutes and lasting 60 to 90 seconds.
+79 ||| METHODS ||| 3.27 ||| Uterine tachysystole was defined as six or more uterine contractions in 10 minutes without concomitant abnormal FHR pattern.
+80 ||| METHODS ||| 3.28 ||| Uterine hyperstimulation syndrome was defined as uterine tachysystole or a hypertonic uterus (single contraction lasting for at least 2 minutes) with the presence of an abnormal FHR pattern prompting intervention either with subcutaneous terbutaline or urgent delivery.
+81 ||| METHODS ||| 3.29 ||| Nonreassuring FHR patterns in this study were defined as late deceleration, severe variable deceleration, prolonged deceleration, tachycardia, or reduced FHR variability requiring intervention either by tocolysis or delivery.
+82 ||| METHODS ||| 3.30 ||| Non-progression of labour was diagnosed when there was no change or minimal change in cervical dilatation in a two-hour period during the latent or the active phase of labour, or no change or minimal change in descent of the presenting part over one hour during the second stage of labour in the presence of adequate uterine contractions.
+83 ||| METHODS ||| 3.31 ||| Assuming the mean induction to vaginal delivery interval with the established dinoprostone protocol to be 24 hours, with a standard deviation of 12 hours, 10,25,26 and assuming that the use of oral misoprostol would be as effective as the established protocol, The data collected were thoroughly screened and entered into Microsoft Excel spread sheets (Microsoft Corp., Redmond, WA) for analysis.
+84 ||| METHODS ||| 3.32 ||| The data were analyzed by intention-to-treat.
+85 ||| METHODS ||| 3.33 ||| Statistical analysis included calculation of relative risk with 95% confidence intervals for discrete data, and mean differences with 95% confidence intervals for continuous data, using InStat GraphPad v. 3 software (GraphPad Software Inc., La Jolla, CA).
+86 ||| METHODS ||| 3.34 ||| In cases of means and standard deviation, the two groups were compared using unpaired t test, while in cases of difference of absolute numbers chi-square tests were used.
+87 ||| METHODS ||| 3.35 ||| All statistical tests were evaluated at the 0.05 significance level.
+88 ||| METHODS ||| 3.36 ||| With
+89 ||| METHODS ||| 3.37 ||| OBSTETRICS
+90 ||| RESULTS ||| 4.1 ||| Two hundred twenty-eight pregnant women with obstetric or medical indications for induction of labour were randomized during the study period before the recruitment was stopped.
+91 ||| RESULTS ||| 4.2 ||| Eight of the 228 women (3.5%) were excluded from the analysis.
+92 ||| RESULTS ||| 4.3 ||| Three women assigned to the oral misoprostol group and five women assigned to the vaginal misoprostol group withdrew their consent after randomization.
+93 ||| RESULTS ||| 4.4 ||| The final analysis was performed on data from 220 women.
+94 ||| RESULTS ||| 4.5 ||| Details of the randomization are shown in Figure 1. outcomes in the two groups are shown schematically in Figure 2.
+95 ||| RESULTS ||| 4.6 ||| The incidence of adverse effects of treatment also was similar in each group (Table 2).
+96 ||| RESULTS ||| 4.7 ||| Postpartum hemorrhage occurred in one patient (0.9%) in each group with cervical tear and vaginal lacerations.
+97 ||| RESULTS ||| 4.8 ||| There was no case of uterine rupture in either group.
+98 ||| RESULTS ||| 4.9 ||| The demographic characteristics and indications for induction of labour are shown in Table 1.
+99 ||| RESULTS ||| 4.10 ||| The groups were similar in mean maternal age, gestational age, initial Bishop score, and indications for labour induction, with postdates being the most common indication in both groups (66% in the oral misoprostol group and 76% vaginal misoprostol group).
+100 ||| RESULTS ||| 4.11 ||| The mean Bishop score was 3.98 in the oral misoprostol group and 4.04 in the vaginal misoprostol group.
+101 ||| RESULTS ||| 4.12 ||| Most women in each group were nulliparous (69.1% in the oral misoprostol group and 65.5% in the vaginal misoprostol group).
+102 ||| RESULTS ||| 4.13 ||| Neonatal outcomes are shown in Table 3.
+103 ||| RESULTS ||| 4.14 ||| No significant differences between groups were found in the proportion of neonates with Apgar score < 7 at 5 minutes, the proportion delivered with meconium-stained amniotic fluid, or the proportion admitted to NICU.
+104 ||| RESULTS ||| 4.15 ||| In the oral misoprostol group, two babies were admitted to NICU because of feeding problems, one because of intrauterine growth restriction, one because of suspected neonatal sepsis and one because of breathing difficulties.
+105 ||| RESULTS ||| 4.16 ||| In the vaginal misoprostol group, three babies were admitted to NICU with suspected neonatal sepsis, two with hypoglycemia, two with jaundice, one with feeding difficulties, and one having had a seizure.
+106 ||| RESULTS ||| 4.17 ||| There was no perinatal mortality in either group.
+107 ||| RESULTS ||| 4.18 ||| Mean induction-to-delivery interval in women who delivered vaginally was similar in oral and vaginal groups (21.22 hours in oral group versus 20.15 hours in vaginal group; P = 0.58) ( Table 2).
+108 ||| RESULTS ||| 4.19 ||| There were no significant differences in the occurrence of tachysystole, hypertonus, hyperstimulation syndrome and non-reassuring FHR.
+109 ||| RESULTS ||| 4.20 ||| Tachysystole developed in two women (1.8%) in the oral misoprostol group and six women (5.5%) in the vaginal misoprostol group (RR 0.49, 95% CI 0.15 to 1.64; P = 0.28).
+110 ||| RESULTS ||| 4.21 ||| Uterine hyperstimulation occurred in two women (1.8%) in the vaginal misoprostol group.
+111 ||| RESULTS ||| 4.22 ||| Both of these (nulliparous) women received tocolysis and underwent urgent delivery by CS.
+112 ||| RESULTS ||| 4.23 ||| Non-reassuring FHR patterns necessitated urgent delivery in 14 women (12.7%) in the oral misoprostol group and 13 women (11.8%) in the vaginal misoprostol group (RR 1.04, 95% CI 0.71 to 1.54; P = 0.84).
+113 ||| RESULTS ||| 4.24 ||| Of these, 10 of 14 in the oral misoprostol and seven of 13 in the vaginal misoprostol group (including two with hyperstimulation syndrome) underwent CS.
+114 ||| DISCUSSION ||| 5.1 ||| Multiple trials have shown that misoprostol is an effective agent for cervical ripening and labour induction.
+115 ||| DISCUSSION ||| 5.2 ||| Vaginal misoprostol has been shown to be more effective than vaginal and intracervical PGE 2 in terms of shorter induction-to-delivery interval and less need for oxytocin.
+116 ||| DISCUSSION ||| 5.3 ||| Similar observations were made by Paungmora et al.
+117 ||| DISCUSSION ||| 5.4 ||| There were no differences in the modes of delivery (Table 2).
+118 ||| DISCUSSION ||| 5.5 ||| In both groups the majority of the women who had failed induction were nulliparous.
+119 ||| DISCUSSION ||| 5.6 ||| Women with failed inductions were offered alternative methods of labour induction.
+120 ||| DISCUSSION ||| 5.7 ||| Labour and delivery using different doses of oral (100 µg) and vaginal (50 µg) misoprostol, although higher incidences of tachysystole and hyperstimulation syndrome were reported with these higher doses.
+121 ||| DISCUSSION ||| 5.8 ||| This was a result of the greater bioavailability of vaginal misoprostol.
+122 ||| DISCUSSION ||| 5.9 ||| The mean number of doses of misoprostol was the same in each group.
+123 ||| DISCUSSION ||| 5.10 ||| The most important finding of this study was that the mean induction-to-vaginal delivery interval and the number of women who delivered within 24 hours was similar in the oral and vaginal misoprostol groups, with no difference in CS rates and neonatal outcomes.
+124 ||| DISCUSSION ||| 5.11 ||| We hope that these findings will help provide direction for others in induction of labour using misoprostol in women at term.
+125 ||| DISCUSSION ||| 5.12 ||| A limitation of our study is the lack of a placebo group and of blinding after randomization.
+126 ||| DISCUSSION ||| 5.13 ||| The women and the clinicians involved in the study were aware of the allocated treatment.
+127 ||| DISCUSSION ||| 5.14 ||| We acknowledge the likelihood that both staff and patients preferred use of oral misoprostol to vaginal misoprostol.
+128 ||| DISCUSSION ||| 5.15 ||| Further, our study had a relatively small sample size to exclude the possibility of important differences (e.g., neonatal outcomes).
+129 ||| DISCUSSION ||| 5.16 ||| There is a need for a greater number of appropriately designed randomized controlled trials (preferably double-blinded) with a larger sample size to validate the efficacy and safety of 50 µg oral misoprostol in comparison with 25 µg vaginal misoprostol.
+130 ||| DISCUSSION ||| 5.17 ||| The acceptability to women of the different routes of administration should also be evaluated.
+131 ||| DISCUSSION ||| 5.18 ||| Oral misoprostol in a dose of 50 µg has the potential to induce labour as safely and effectively as 25 µg vaginally administered misoprostol.
+132 ||| DISCUSSION ||| 5.19 ||| As oral use of the drug is easier and more convenient for both patients and caregivers, use of 50 µg oral misoprostol in this setting is preferable to the use of 25 µg vaginally inserted misoprostol.
+133 ||| DISCUSSION ||| 5.20 ||| Flow diagram from randomization to
+134 ||| DISCUSSION ||| 5.21 ||| The
+135 ||| DISCUSSION ||| 5.22 ||| Maternal demographic characteristics and indications for induction of labour
+136 ||| DISCUSSION ||| 5.23 ||| Comparison of labour outcomes
+137 ||| DISCUSSION ||| 5.24 ||| Comparison of neonatal outcomes
+138 ||| ACKNOWLEDGEMENTS ||| 6.1 ||| 20
+139 ||| ACKNOWLEDGEMENTS ||| 6.2 ||| more oxytocin augmentation was required in women using oral misoprostol (50 µg) than in women using vaginal misoprostol (50 µg).
+140 ||| ACKNOWLEDGEMENTS ||| 6.3 ||| This may have been because of the equivalent doses of misoprostol used for oral and vaginal administration in this study.
+141 ||| ACKNOWLEDGEMENTS ||| 6.4 ||| The authors would like to thank Professor (Dr) B.K.
+142 ||| ACKNOWLEDGEMENTS ||| 6.5 ||| Kanungo (Head, Department of Obstetrics and Gynaecology, Sikkim Manipal Institute of Medical Sciences & Central Referral Hospital), Dr Golay Paden Bhutia (RMO), all the nursing staff of labour and maternity ward, and all the patients who participated in the trial, making this study possible.
+143 ||| ACKNOWLEDGEMENTS ||| 6.6 ||| Uterine tachysystole occurred in two women (1.8%) in the oral misoprostol group and six women (5.5%) in the vaginal misoprostol group.
+144 ||| ACKNOWLEDGEMENTS ||| 6.7 ||| None of the women in the oral misoprostol group developed hyperstimulation syndrome, but two women in the vaginal misoprostol group did so.
+145 ||| ACKNOWLEDGEMENTS ||| 6.8 ||| Other authors have also reported more frequent occurrence of uterine hyperstimulation syndrome and a higher intervention rate for fetal distress in women receiving vaginal misoprostol.

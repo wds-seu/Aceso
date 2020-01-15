@@ -1,0 +1,149 @@
+1 |||  ||| 0.1 ||| Background: Previous studies showed improvement in heart function by injecting bone marrow mesenchymal stem cells (BMSCs) after AMI.
+2 |||  ||| 0.2 ||| Emerging evidence suggested that both the number and function of BMSCs decline with ageing.
+3 |||  ||| 0.3 ||| We designed a randomized, controlled trial to further investigate the safety and efficacy of this treatment.
+4 |||  ||| 0.4 ||| Methods: Patients with ST-elevation AMI undergoing successful reperfusion treatment within 12 hours were randomly assigned to receive an intracoronary infusion of BMSCs (n = 21) or standard medical treatment (n = 22) (the numbers of patients were limited because of the complication of coronary artery obstruction).
+5 |||  ||| 0.5 ||| Results: There is a closely positive correlation of the number and function of BMSCs vs. the cardiac function reflected by LVEF at baseline (r = 0.679, P = 0.001) and at 12-month follow-up (r = 0.477, P = 0.039).
+6 |||  ||| 0.6 ||| Six months after cell administration, myocardial viability within the infarct area by 18-FDG SPECT was improved in both groups compared with baseline, but no significant difference in the BMSCs compared with control groups (4.0 ± 0.4% 95%CI 3.1-4.9 vs. 3.2 ± 0.5% 95%CI 2.1-4.3, P = 0.237).
+7 |||  ||| 0.7 ||| Similarly, LVEF after 12 and 24 months follow-up did not show any difference between the two groups.
+8 |||  ||| 0.8 ||| In the BMSCs group, one patient suffered a serious complication of coronary artery occlusion during the BMSCs injection procedure.
+9 |||  ||| 0.9 ||| Conclusions: The clinical benefits of intracoronary injection of autologous BMSCs in acute STEMI patients need further investigation and reevaluation.
+10 ||| Introduction ||| 1.1 ||| Randomized, controlled clinical trials have demonstrated that there is a significant, but small improvement in LV function in autologous bone marrow mononuclear cells therapy following acute myocardial infarction (AMI) [1][2][3][4][5][6].
+11 ||| Introduction ||| 1.2 ||| Therefore, It is still a debatable issue concerning the optimal stem cell type [6,7].
+12 ||| Introduction ||| 1.3 ||| Among the stem cells population being tested in basic and clinical studies for cardiac repair, mesenchymal stem cells (MSCs) derived from variety of adult tissues with ease of preparation and immunoprivilege are the most widely studied to explore its endogenous cardiomyogenesis and angiogenesis by secreting soluble factors in the niche [8][9][10][11].
+13 ||| Introduction ||| 1.4 ||| There were many reports that MSCs have a highly plastic differentiation potential that includes endothelial, cardiomyocyte, and neovascular differentiation [9][10][11].
+14 ||| Introduction ||| 1.5 ||| Our previous study also demonstrated the transcription factors responsible for cardiomyogenic commitment of MSCs alike to those active during fetal cardiomyocyte development in vitro and vivo [12].
+15 ||| Introduction ||| 1.6 ||| MSCs transplantation in most animal models of AMI generally resulted in reduced infarct size, improved left ventricular ejection fraction, increased vascular density and myocardial perfusion [13][14][15][16].
+16 ||| Introduction ||| 1.7 ||| Two small non-randomized studies that used intracoronary bone marrowderived MSCs (BMSCs) in patients after AMI showed that no serious treatment-related side effects and significant short-term improvements in LVEF and SPECT perfusion were reported [17,18].
+17 ||| Introduction ||| 1.8 ||| However, reports published recently that the number of human BMSCs decreases with age, and the quality and function of MSCs are compromised in the older marrow donor [19][20][21][22][23].
+18 ||| Introduction ||| 1.9 ||| The issue of the complication of microvessel obstruction by intracoronary infusion of MSCs has yet to be resolved [24][25][26].
+19 ||| Introduction ||| 1.10 ||| Thus, evidence of safety and efficacy based on these studies remain largely undemonstrated in a human clinical setting.
+20 ||| Introduction ||| 1.11 ||| Accordingly, we designed a randomized, single-blinded, multicenter trial to evaluate 2-year follow-up safety and efficacy of BMSCs via intracoronary injection in patients with acute STEMI after successful primary percutaneous coronary intervention (PCI).
+21 ||| Introduction ||| 1.12 ||| The BM-MCs were seeded into 75 cm 2 tissue culture flasks in MSCs medium consisting of Dulbecco's modified Eagle's medium containing 4.5% glucose (DMEM-4.5, HyClone), supplemented with 10% fetal bovine serum (GIBCO) and 1% antibiotic-antimycotic solution (Lift Technologies).
+22 ||| Introduction ||| 1.13 ||| The cell suspension was removed after 72 hours and the adherent cells were cultured in at 37 °C with 5% CO 2 .
+23 ||| Introduction ||| 1.14 ||| The culture medium was changed every 3-4 days until colonies were formed.
+24 ||| Introduction ||| 1.15 ||| After 14.6 ± 0.7 days of culture, passage 2 (P2) cells were harvested by trypsin treatment.
+25 ||| Introduction ||| 1.16 ||| Cells were washed, and viability was tested by trypan blue exclusion.
+26 ||| Introduction ||| 1.17 ||| Cell counts were performed, and the cells at 4 °C were delivered to the catheterization laboratory.
+27 ||| Introduction ||| 1.18 ||| Cell surface phenotype was determined by flow cytometry.
+28 ||| Introduction ||| 1.19 ||| BMSCs were stained with saturating amounts of monoclonal antibodies conjugated with fluorescein isothiocyanate for CD44, CD70, CD90, CD105, CD31, CD34, and CD45, testing procedures for mycoplasma, sterility, endotoxin, identity, and purity were consistent with the International Society for Cellular Therapy (ISCT) criteria [28].
+29 ||| Introduction ||| 1.20 ||| Patients assigned to BMSCs group received an infusion of (3.08 ± 0.52) x 10 6 cells dispersed in 10 ml of heparinized saline.
+30 ||| Introduction ||| 1.21 ||| Before transplantation, filtration (cell strainer, FALCON) was carried out to prevent cell clotting and microembolization during intracoronary transplantation.
+31 ||| Introduction ||| 1.22 ||| After undergoing arterial puncture, all patients received 8000U of heparin, and cells were infused with the use of a stop-flow technique through an over-the wire balloon catheter positioned within the segment containing the stent, as we described previously [29].
+32 ||| Introduction ||| 1.23 ||| During the transfer procedure, the changes of ECG were monitored carefully.
+33 ||| Introduction ||| 1.24 ||| After completion of cell transfer, we injected contrast medium into the infracted-related artery to ascertain TIMI frame count before and after cell transfer.
+34 ||| Introduction ||| 1.25 ||| We defined complication of coronary artery obstruction as TIMI grade O-1, which no anterograde flow of contrast medium is detected beyond the point of occluded vessel, or anterograde flow fails to opacify the diatal portion of vessel.
+35 ||| Introduction ||| 1.26 ||| SPECT
+36 ||| Methods ||| 2.1 ||| Patients and protocol
+37 ||| Methods ||| 2.2 ||| Between May 2008 and November 2009, patients at 18-80 years with acute STEMI were recruited into this single-blind, randomized control, open-labeled, multicenter exploratory study, who had been successfully reperfused within 12 hours by means of stent implantation and had a substantial residual left ventricular regional wallmotion abnormality on echocardiography, as well as a creatine kinase MB level more than three times the upper reference value.
+38 ||| Methods ||| 2.3 ||| Exclusion criteria were: 1 > previous Q-wave myocardial infarction, 2 > cardiogenic shock, and 3 > severe coexisting conditions (such as advanced renal or hepatic dysfunction, or documented terminal illness or cancer) that will influence the patients' compliance with the protocol.
+39 ||| Methods ||| 2.4 ||| All patients received routine medication and standard rehabilitation programs for myocardial infarction in line with the recognized guideline.
+40 ||| Methods ||| 2.5 ||| The protocol was approved by the ethics review board of each participating center, and the study was conducted in accordance with the Declaration of Helsinki.
+41 ||| Methods ||| 2.6 ||| Written informed consent was obtained from each patient.
+42 ||| Methods ||| 2.7 ||| An independent data and safety monitoring panel was informed of any adverse events if occurred.
+43 ||| Methods ||| 2.8 ||| After an overnight fast for at least 12 h, patients were given an oral glucose load according to their serum glucose level.
+44 ||| Methods ||| 2.9 ||| Sequential measurements of serum glucose were made until the serum glucose level reached 7.8-8.9 mmol/l and then 18 F-FDG (185-296 MBq) and 99mTcsestamibi (555-740 MBq) were injected intravenously.
+45 ||| Methods ||| 2.10 ||| Non-gated SPECT was performed 1-1.5 h later using a dual head large-field of-view 5/8-inch crystal SPECT camera (Varicam, GE-Elscint, Haifa, Israel).
+46 ||| Methods ||| 2.11 ||| Myocardial images were reconstructed using a standard filtered back projection and displayed as series of shortaxis, horizontal and vertical long-axis slices.
+47 ||| Methods ||| 2.12 ||| Mean signal intensities were measured in the respective areas supplied by the 3 major coronary arteries in 3-axis views.
+48 ||| Methods ||| 2.13 ||| Results were calculated using 18 F-FDG/99mTcsestamibi SPECT bull's-eye views.
+49 ||| Methods ||| 2.14 ||| Two-dimensional echocardiograms
+50 ||| Methods ||| 2.15 ||| Patients underwent echocardiography consecutively before the procedure and at 6,12 and 24 months follow-up.
+51 ||| Methods ||| 2.16 ||| A 17-segment echocardiogram was performed to measure regional left ventricular wall motion score, end-systolic volume, end-diastolic volume and LVEF by using standard methods of the American Society of Echocardiography, 31 and
+52 ||| Study design ||| 3.1 ||| Randomization and baseline examination: Patients were randomly allocated at the ratio of 1:1 to either the BMSCs or control group (standard medication after primary PCI), with use of sequential numbers.
+53 ||| Study design ||| 3.2 ||| After randomization, all patients underwent biochemical assays, Holter monitoring, echocardiograms, and cardiac nuclear studies.
+54 ||| Study design ||| 3.3 ||| End points
+55 ||| Study design ||| 3.4 ||| The primary end points of the study were the absolute changes in myocardial viability and perfusion in the infarcted region measured by 18 F-fluorodeoxyglucose and 99mTc-sestamibi single-photon emission computed tomography (SPECT) at 6 months after cell infusion, and in global left ventricular ejection fraction measured by two-dimensional echocardiograms at 6,12 and 24 months after cell infusion.
+56 ||| Study design ||| 3.5 ||| Secondary endpoints were the incidence of cardiovascular events, total mortality and adverse events at 12 and 24 months' follow-up.
+57 ||| Study design ||| 3.6 ||| Cell preparation and administration
+58 ||| Study design ||| 3.7 ||| Bone marrow (80 ml in 2000 IU of heparin) was harvested from each patient in the BMSCs group from the posterior iliac crest under local anesthesia by a hematologist 2-3 days after primary PCI.
+59 ||| Study design ||| 3.8 ||| The bone marrow aspirate was shipped at room temperature to the central cell-processing laboratory (Cell Center of Academy of Military Medical Sciences) where BMSCs were purified following International Conference on Harmonization and US Food and Drug Administration regulatory guidelines [27].
+60 ||| Study design ||| 3.9 ||| All solutions were prepared under Good Manufacturing Practice (GMP) and all procedures were performed in line with Good Laboratory Practice (GLP).
+61 ||| Study design ||| 3.10 ||| The protocol of BMSCs preparation was approved by the Chinese State Food and Drug Administration.
+62 ||| Study design ||| 3.11 ||| The mononuclear cell fraction was isolated using a density gradient with Lymphocyte Separation Medium (Biowhittaker) and then the low-density cells were washed    were analyzed independently by 2 experienced observers who were unaware of patients' treatment assignments.
+63 ||| Study design ||| 3.12 ||| Statistical analysis (Table 1).
+64 ||| Study design ||| 3.13 ||| All patients received optimum postinfarction medical treatment.
+65 ||| Study design ||| 3.14 ||| There was no significant difference in baseline characteristics between two groups.
+66 ||| Study design ||| 3.15 ||| Parameters measured by 18-FDG/99mTc-sestamibi SPECT and echocardiography were analyzed independently by 2 experienced observers.
+67 ||| Study design ||| 3.16 ||| Data are expressed as means ± SE (unless stated otherwise).
+68 ||| Study design ||| 3.17 ||| Comparisons between BMSC group and control group were analyzed with the Student t-tests.
+69 ||| Study design ||| 3.18 ||| Comparisons of changes from baseline conditions were analyzed using the Student paired t-tests.
+70 ||| Study design ||| 3.19 ||| Categorical variables were compared by chi-square test or Fisher's exact test, as appropriate.
+71 ||| Study design ||| 3.20 ||| Pearson and Spearman correlations analysis were performed to identify correlations between the number of P2 MSCs and heart function and coronary artery disease.
+72 ||| Study design ||| 3.21 ||| Probability values of P b 0.05 were considered statistically significant.
+73 ||| Study design ||| 3.22 ||| All analyses were performed with SPSS 17.0 software.
+74 ||| Baseline characteristics ||| 5.1 ||| In the BMSCs-treated group, mean (3.08 ± 0.52) x10 6 P2 autologous BMSCs were infused via intracoronary.
+75 ||| Baseline characteristics ||| 5.2 ||| The cultured cells were plastic-adherent, spindle-shaped, and positive for CD90, CD105, CD44, and CD70.
+76 ||| Baseline characteristics ||| 5.3 ||| They were negative for CD31, CD45, and had multilineage differentiation potential in vitro in line with the criteria of the ISCT for defining BMSCs [28].
+77 ||| Baseline characteristics ||| 5.4 ||| However, importantly, as shown in Fig.
+78 ||| Baseline characteristics ||| 5.5 ||| Moreover, the number of BMSCs at P2 was significantly negatively associated with the number of coronary artery disease-vessels (r = − 0.596, P = 0.004) and the area of the myocardial defect (r = − 0.609, P = 0.003).
+79 ||| Baseline characteristics ||| 5.6 ||| A total of 54 patients with an acute ST-elevation MI were successfully reperfused by means of stent implantation (the enrollee of patients were limited because of the complication of coronary artery obstruction).
+80 ||| Baseline characteristics ||| 5.7 ||| Of these, 11 were excluded before undergoing bone marrow aspiration (Fig.
+81 ||| Baseline characteristics ||| 5.8 ||| Of those remaining, 43 patients were randomly assigned to receive BMSCs infusion (21 patients) or standard medical therapy after primary PCI (22 patients).
+82 ||| Baseline characteristics ||| 5.9 ||| The two groups were well matched with respect to baseline characteristics Table 2 summarizes the adverse clinical events during hospitalization with follow-up at 24 months.
+83 ||| Baseline characteristics ||| 5.10 ||| Periprocedural complications: In the BMSCs group, one patient died suddenly 3 days after the procedure.
+84 ||| Baseline characteristics ||| 5.11 ||| The suspected cause was acute in-stent thrombosis.
+85 ||| Baseline characteristics ||| 5.12 ||| Another patient suffered a serious complication of acute coronary artery occlusion in the cell infused vessel during intracoronary BMSCs injection.
+86 ||| Baseline characteristics ||| 5.13 ||| Similar with other patients, this patient was withdrawn 80 ml of bone marrow for BMSCs preparation, but the culture time to harvest P2 BMSCs was prolonged to 22 days in order to meet the minimum clinical-grade cell quantity requirement.
+87 ||| Baseline characteristics ||| 5.14 ||| After filtration by cell strainer, 0.84 million BMSCs (volume 2 ml) was infused during a 2-min balloon inflation via the over-wire catheter lumen.
+88 ||| Baseline characteristics ||| 5.15 ||| When we finished the fifth BMSCs injection, ST-segment elevation and T wave changes on the ECG were observed.
+89 ||| Baseline characteristics ||| 5.16 ||| Immediate angiography revealed occlusion of the proximal-mid left anterior descending coronary artery which was the previous site of stent implantation.
+90 ||| Baseline characteristics ||| 5.17 ||| At once 10 ml (0.5 mg) Tirofiban was injected by the intracoronary route and balloon inflation was performed at the site of occlusion.
+91 ||| Baseline characteristics ||| 5.18 ||| After several seconds grade 3 TIMI flow was restored.
+92 ||| Baseline characteristics ||| 5.19 ||| Since this time, the patient experienced a recurrent myocardial infarction but has survived up to now.
+93 ||| Baseline characteristics ||| 5.20 ||| Adverse events
+94 ||| Baseline characteristics ||| 5.21 ||| However, the major adverse cardiac events of death, recurrence of myocardial infarction, and rehospitalization for heart failure did not differ significantly between the two groups during 24 months of follow-up (Table 2).
+95 ||| Baseline characteristics ||| 5.22 ||| These outcomes did not differ significantly (P = 0.237) when the average intensities of F-18-FDG SPECT between the two groups were compared.
+96 ||| Baseline characteristics ||| 5.23 ||| Effects of BMSCs administration on myocardial perfusion
+97 ||| Baseline characteristics ||| 5.24 ||| 99mTc-sestamibi perfusion imaging studies in the BMSCs and the control groups were similar at baseline for the amount of total defect area (p = 0.459).
+98 ||| Baseline characteristics ||| 5.25 ||| At the 6-month follow-up, there was significant improvement of the region of myocardial ischemia in both groups compared with baseline.
+99 ||| Baseline characteristics ||| 5.26 ||| But these outcomes did not differ significantly between the two groups (4.4 ± 0.5% 95%CI 3.2-5.5 in BMSC group vs. 3.9 ± 0.6% 95%CI 2.6-5.2 in control group, P = 0.594) as shown in Fig.
+100 ||| Baseline characteristics ||| 5.27 ||| Effects of BMSCs administration on heart function
+101 ||| Baseline characteristics ||| 5.28 ||| Effects of BMSCs on myocardial viability
+102 ||| Baseline characteristics ||| 5.29 ||| A F-18-FDG SPECT was performed in 20 patients who underwent cell transplantation and 21 patients in control group before and 6 months after the procedure.
+103 ||| Baseline characteristics ||| 5.30 ||| As shown in Fig.
+104 ||| Baseline characteristics ||| 5.31 ||| Of the 2 remaining patients, 1 died and 1 was lost to 12 and 24 months follow-up in the BMSCs group, while 2 were lost to 12 and 24 months follow-up in the control group.
+105 ||| Baseline characteristics ||| 5.32 ||| Baseline global LVEF was similar between patient groups (P = 0.648) as shown Table 1.
+106 ||| Baseline characteristics ||| 5.33 ||| In both groups, global LVEF and LVFS increased at 6 months, and remained stable at 12 and 24 months ( Table 3).
+107 ||| Baseline characteristics ||| 5.34 ||| The absolute changes in global LVEF did not differ significantly between the two groups at 6 months (P = 0.356 and 0.643), 12 months (4.5 ± 0.7% 95%CI 3.0-6.1 vs. 3.2 ± 0.7% 95%CI 1.7-4.6, P = 0.182), and 24 months (LVEF: 3.5 ± 0.7% 95%CI 2.0-4.9 vs. 4.3 ± 0.7% 95%CI 2.8-5.8, P = 0.379) as shown in Table 3.
+108 ||| Baseline characteristics ||| 5.35 ||| Wall motion score index (WMSI) measured by  the 17-segment model was decreased at 6, 12, and 24 months in both groups, but no significant difference was found between the two groups (Table 3).
+109 ||| Baseline characteristics ||| 5.36 ||| Moreover, end-diastolic volume and end-systolic volumes also did not differ significantly between the two groups at 6, 12 and 24 months (P > 0.05, respectively) ( Table 3).
+110 ||| Discussion ||| 6.1 ||| In this randomized multicenter trial in STEMI patients results demonstrated that intracoronary treatment with BMSCs improves myocardial viability but under the dosage and timing conditions used in this study, does not appear to result in significant reduction of infarct size and improvement of myocardial function, as compared with the control group.
+111 ||| Discussion ||| 6.2 ||| Of note, we found one serious complication of acute coronary artery occlusion in relation to microvessel obstruction during intracoronary BMSC injection.
+112 ||| Discussion ||| 6.3 ||| This clinical trial suggests that the safety and efficacy of intracoronary BMSC infusion in patients with AMI should has yet to be adequately investigated and be resolved before clinical application.
+113 ||| Discussion ||| 6.4 ||| In our study, BMSCs were purified following International Conference on Harmonization and US Food and Drug Administration regulatory guidelines.
+114 ||| Discussion ||| 6.5 ||| All solutions were prepared using GMP quality and all procedures were performed under GLP conditions.
+115 ||| Discussion ||| 6.6 ||| But, only 3.08 ± 0.52 x10 6 BMSCs were obtained from 80 ml bone marrow of AMI patients after an average 14.6 ± 0.7 days in culture, despite optimal preparation conditions.
+116 ||| Discussion ||| 6.7 ||| Because of ethical concerns, we did not have comparable numbers in non-infarcted controls.
+117 ||| Discussion ||| 6.8 ||| Therefore, our study provided important evidence in the first time that the ability of MSCs to proliferate was significantly impaired in patients with AMI.
+118 ||| Discussion ||| 6.9 ||| This finding gives us a clue to our conflicting results with previous studies [17,18] that the disease of AMI and age can impact the quality of BMSCs of its purity, identity and potency to take effects that is in accord with recent reports [19][20][21][22][23]30].
+119 ||| Discussion ||| 6.10 ||| Correlation between quality of autologous BMSCs and its clinical effects in AMI patients
+120 ||| Discussion ||| 6.11 ||| Clinical impact of delivery time of BMSCs
+121 ||| Discussion ||| 6.12 ||| In this study, we failed to find the significant benefits of BMSCs on patients with AMI over control group, but we did observe an interesting phenomenon that there is a closely positive correlation of the Since the quantity and function of BMSCs decrease with age [19][20][21][22][23]30], it took more than 14 days (14.6 ± 0.7 days) to harvest BMSCs to reach the minimum quantity for clinical treatment.
+122 ||| Discussion ||| 6.13 ||| The Table 3 Quantitative measure of left ventricular function ⁎ .
+123 ||| Discussion ||| 6.14 ||| Variable
+124 ||| Discussion ||| 6.15 ||| Control (95% Cl) (n20) BMSC (95% Cl) (n19) P value
+125 ||| Discussion ||| 6.16 ||| Global LVEF (%) Baseline Mean 51.4 ± 1.6(48.0-54.8) 50.8 ± 1.5(47.6-53.
+126 ||| Discussion ||| 6.17 ||| A sub-group analysis reported by Clifford et al.
+127 ||| Discussion ||| 6.18 ||| So the result suggests that the optimum time window of cell delivery after AMI needs to be elucidated based on the dynamic pathology of infarct niche and its impact on infused cells prior to the application of this therapy in clinical settings.
+128 ||| Discussion ||| 6.19 ||| The culture of BMSCs in this patient was exceptionally prolonged [up to 22 days] because of low numbers yield of BMSCs in 0 passage, so that the diameter of his MSCs was larger than that of other patients'.
+129 ||| Discussion ||| 6.20 ||| Our study provides the first evidence of this adverse response, although such accident happened in a single case in our trial, it is a lifethreatening complication deserving more attention before clinical application.
+130 ||| Limitations ||| 7.1 ||| The safety concern of the delivery way of BMSCs
+131 ||| Limitations ||| 7.2 ||| To date, there have been debates on the risk by intracoronary injection of bone marrow MSCs.
+132 ||| Limitations ||| 7.3 ||| Preclinical studies have not been able to verify the safety of intracoronary injection because of observations that adherent MSCs may aggregate within the microvessels and impair blood flow to the heart [24][25][26].
+133 ||| Limitations ||| 7.4 ||| Despite these safety concerns, three clinical studies have used the intracoronary ejection of MSCs in patients with myocardial infarction [17,18,32].
+134 ||| Limitations ||| 7.5 ||| Chen and colleagues administered very high concentrations of MSCs by the intracoronary route in patients with AMI.
+135 ||| Limitations ||| 7.6 ||| However, there was no mention of any potential reduction in blood flow and any cell-related complications during [17].
+136 ||| Limitations ||| 7.7 ||| In our trial, we noted for the first time that intracoronary infusion of MSCs was involved in acute coronary artery occlusion and subsequent no-flow in a large coronary artery in a single case.
+137 ||| Limitations ||| 7.8 ||| We postulate that distal embolization and microvascular plugging may have resulted from intracoronary infusion of MSCs and persistent microvascular obstruction, which may result in a sequence of events leading to acute occlusion or in-stent thrombosis during BMSC infusion.
+138 ||| Limitations ||| 7.9 ||| The diameter of MSCs likely explains this phenomenon.
+139 ||| Limitations ||| 7.10 ||| In this regard it should be noted that MSCs (≈22-25 μm diameter) are larger than capillaries (8-10 um) and also less deformable than BM-MNCs (8-12 um)
+140 ||| Limitations ||| 7.11 ||| A major limitation of our study was that our patient numbers were limited out of concern for the risk of the complication of coronary artery obstruction.
+141 ||| Limitations ||| 7.12 ||| So, we decided an early termination of patient recruitment.
+142 ||| Limitations ||| 7.13 ||| Another limitation is that bone marrow aspiration and sham intracoronary injections were not performed in our control group for ethical reasons.
+143 ||| Limitations ||| 7.14 ||| On the other hand, we don't have cardiac contrast-enhanced magnetic resonance imaging (CE-MRI) available in all centers to assess the cardiac function that may be a flaw comparing with recently published related articles.
+144 ||| Limitations ||| 7.15 ||| However, with respect to the value of this study that we honestly report the insignificant findings from such a promising research field of stem cell therapy, lack of CE-MRI should not be weighed too much.
+145 ||| Conclusion ||| 8.1 ||| We report for the first time that AMI-related changes in the numerical yield of BMSCs resulted in failing to improve myocardial viability and function in human clinical setting.
+146 ||| Conclusion ||| 8.2 ||| Although this is a negative result, considering the novelty of stem cell therapy, this result is significant to be publicly discussed.
+147 ||| Conclusion ||| 8.3 ||| The clinical benefits and safety of intracoronary injection of autologous BMSCs in acute STEMI patients need further investigation and reevaluation.
+148 ||| Acknowledgment ||| 9.1 ||| We thank Dr. Joel S. Karliner, Professor of Medicine, University of California San Francisco, and Staff Cardiologist, Department of Veterans Affairs Medical Center, San Francisco, California, USA, for valuable comments and helpful suggestions in writing and revising this manuscript.
+149 ||| Acknowledgment ||| 9.2 ||| We also thank the nursing and technical staff of the coronary care unit, the catheterization laboratory, and the Cell Center of Academy of Military Medical Sciences.

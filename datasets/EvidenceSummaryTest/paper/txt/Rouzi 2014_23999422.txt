@@ -1,0 +1,130 @@
+1 |||  ||| 0.1 ||| OBJECTIVE: The objective of the study was to compare the efficacy and safety of hourly titrated oral misoprostol with vaginal dinoprostone insert.
+2 |||  ||| 0.2 ||| STUDY DESIGN: Subjects were randomized into hourly titrated oral misoprostol or dinoprostone 10 mg vaginal insert.
+3 |||  ||| 0.3 ||| Misoprostol was given as 20 mg hourly for 2 doses.
+4 |||  ||| 0.4 ||| In the absence of regular uterine contractions, the dose was increased to 30 mg hourly for 3 doses and then 40 mg for 1 dose, 50 mg for 1 dose, and 60 mg hourly for 4 doses.
+5 |||  ||| 0.5 ||| Before the 40 and 50 mg doses, 1 more hour of observation was given.
+6 |||  ||| 0.6 ||| The primary outcome variable was vaginal delivery within 24 hours.
+7 |||  ||| 0.7 ||| Safety assessments included the incidence of maternal morbidity and adverse neonatal outcomes.
+8 |||  ||| 0.8 ||| The proportion of women who achieved vaginal delivery within 24 hours was significantly greater for nulliparous women in the misoprostol group (24 of 51, 58.5%) compared with the dinoprostone group (12 of 36, 33.3%; P ¼ .0270).
+9 |||  ||| 0.9 ||| Significantly more women with baseline Bishop score of 3 or less in the misoprostol group had successful induction (43 of 59, 72.9%) compared with the dinoprostone group (27 of 60, 45.0%; P ¼ .002).
+10 |||  ||| 0.10 ||| Frequencies of maternal adverse events were similar between groups.
+11 |||  ||| 0.11 ||| RESULTS: A total of 160 women was enrolled in the study.
+12 |||  ||| 0.12 ||| The groups were similar for demographic and clinical factors.
+13 |||  ||| 0.13 ||| Vaginal delivery was CONCLUSION: Hourly titrated oral misoprostol can provide an effica-cious and safe substitute for the expensive dinoprostone vaginal insert.
+14 |||  ||| 0.14 ||| Cite this article as: Rouzi AA, Alsibiani S, Mansouri N, et al.
+15 |||  ||| 0.15 ||| Randomized clinical trial between hourly titrated oral misoprostol and vaginal dinoprostone for induction of labor.
+16 |||  ||| 0.16 ||| Am J Obstet Gynecol 2014;210:56.e1-6.
+17 |||  ||| 0.17 ||| Misoprostol has a short half-life (20-40 minutes) following oral administration.
+18 |||  ||| 0.18 ||| It reaches peak serum concentration in 30 minutes, followed by a rapid decline to low levels by 120 minutes, with a more gradual decline thereafter.
+19 |||  ||| 0.19 ||| There are limited data, however, regarding the use of hourly titrated oral misoprostol.
+20 |||  ||| 0.20 ||| Based on pharmacokinetics, previously published regimens, and the incidence of side effects, we hypothesized that stepwise hourly titrated oral misoprostol is efficacious and safe.
+21 |||  ||| 0.21 ||| The objective of this study was to compare the efficacy and safety of a stepwise protocol of hourly titrated oral misoprostol with vaginal dinoprostone insert in women scheduled for labor induction.
+22 |||  ||| 0.22 ||| All women admitted to the KAUH (Jeddah, Saudi Arabia) for whom induction of labor was indicated by their attending obstetrician, who met the eligibility criteria, and from whom written informed consent was obtained by the physician were enrolled.
+23 |||  ||| 0.23 ||| Inclusion criteria included singleton pregnancy of at least 34 weeks' gestation and a baseline Bishop score less than 6.
+24 |||  ||| 0.24 ||| Women with contraindications for use of either drug, previous cesarean section or other uterine surgery, severe pregnancy-induced hypertension (abnormal liver function tests, protein >1 g/d, blood pressure of !160/ 100 mm Hg), parity of 4 or more, or with uterine contractions were excluded.
+25 |||  ||| 0.25 ||| Women were randomized into the misoprostol or dinoprostone groups (1:1) using computer-generated numbers, with allocation concealed in opaque envelopes distributed by the obstetrics ward nurse.
+26 |||  ||| 0.26 ||| Labor management at the KAUH is standardized and includes electronic fetal monitoring performed 1 hour before and 1 hour after the start of induction, which is continued after the beginning of uterine contractions until delivery.
+27 |||  ||| 0.27 ||| Intramuscular or intravenous analgesia is given for pain relief during labor.
+28 |||  ||| 0.28 ||| Delivery is conducted by in-house staff, usually residents and senior residents under the care of the on-call consultant.
+29 |||  ||| 0.29 ||| Oral misoprostol was administered active labor was achieved, no further misoprostol was given.
+30 |||  ||| 0.30 ||| If contractions subsequently became inadequate, oxytocin augmentation was provided at least 2 hours after the last misoprostol dose.
+31 |||  ||| 0.31 ||| Dinoprostone 10 mg vaginal insert (Propess; Controlled Therapeutics, East Kilbride, Scotland) was placed manually in the posterior fornix for a maximum of 24 hours or until the establishment of regular uterine activity and then was removed.
+32 |||  ||| 0.32 ||| If contractions subsequently became inadequate, oxytocin augmentation was provided at least half an hour after removal of the insert.
+33 |||  ||| 0.33 ||| The primary outcome variable was successful labor induction, defined as the proportion of women achieving vaginal delivery within 24 hours after treatment initiation.
+34 |||  ||| 0.34 ||| Secondary outcomes included interval to delivery from first treatment (hours), rate of cesarean delivery, and need for augmentation with oxytocin.
+35 |||  ||| 0.35 ||| Safety assessments included the incidence of maternal morbidity and adverse neonatal outcomes.
+36 |||  ||| 0.36 ||| Uterine tachysystole was defined as more than 5 contractions in a 10 minute period without fetal heart rate changes and uterine hyperstimulation as tachysystolic uterine contractions associated with nonreassuring fetal heart rate pattern.
+37 |||  ||| 0.37 ||| Nonreassuring fetal heart rate was defined as an abnormal fetal heart rate on electronic monitoring.
+38 ||| RESULTS ||| 1.1 ||| A total of 160 women were enrolled between January 2011 and July 2012, of whom 80 were randomized to the misoprostol and 80 to the dinoprostone vaginal insert groups (Figure).
+39 ||| RESULTS ||| 1.2 ||| The groups were similar for demographic and clinical factors (Table 1).
+40 ||| RESULTS ||| 1.3 ||| They were 28.8 AE 5.5 years of age.
+41 ||| RESULTS ||| 1.4 ||| Approximately half had previous deliveries.
+42 ||| RESULTS ||| 1.5 ||| Three fourths of the women had a Bishop score of 3 or less at baseline, and postterm was the primary induction indication for 93 (58.1%) women.
+43 ||| RESULTS ||| 1.6 ||| Women in the misoprostol group received a median of 9 (range, 2e11) doses (median dose, 340 mg; range, 40e460 mg).
+44 ||| RESULTS ||| 1.7 ||| In the entire cohort, vaginal from a 1 mg/mL solution prepared from a 200 mg misoprostol tablet (Cytotec; Searle
+45 ||| STATISTICAL ANALYSIS ||| 2.1 ||| Pharmaceuticals, Leicester, UK) dissolved in 200 mL of water, following the procedure described in other studies.
+46 ||| STATISTICAL ANALYSIS ||| 2.2 ||| Several studies comparing oral misoprostol with vaginal prostaglandins for the induction of labor failed to show a statistically significant difference in rates of vaginal delivery within 24 hours, with success rates ranging from 54% to 74%.
+47 ||| STATISTICAL ANALYSIS ||| 2.3 ||| The starting dose was 20 mg hourly for 2 doses.
+48 ||| STATISTICAL ANALYSIS ||| 2.4 ||| In the absence of regular uterine activity, the dose was increased to 30 mg hourly for 3 doses and then 40 mg for 1 dose, 50 mg for 1 dose, and 60 mg hourly for 4 doses.
+49 ||| STATISTICAL ANALYSIS ||| 2.5 ||| Before administering the 40 mg and 50 mg doses, 1 more hour of observation was given.
+50 ||| STATISTICAL ANALYSIS ||| 2.6 ||| Regular uterine activity is defined as regular uterine contractions every 3-5 minutes and lasting 60 seconds or more.
+51 ||| STATISTICAL ANALYSIS ||| 2.7 ||| At any time, if establishment of In the study by Cheng et al, 6 however, 94% of subjects delivered within 24 hours after oral titrated misoprostol, compared with 54% after vaginal misoprostol.
+52 ||| STATISTICAL ANALYSIS ||| 2.8 ||| Using an intermediate projection of 60% delivery within 24 hours for dinoprostone and 80% for misoprostol would require 82 subjects per group at alpha ¼ .05 with 80% power.
+53 ||| STATISTICAL ANALYSIS ||| 2.9 ||| Analysis was performed on an intent-totreat basis.
+54 ||| STATISTICAL ANALYSIS ||| 2.10 ||| Dichotomous variables were compared between groups using c 2 analysis, and continuous variables using delivery was achieved within 24 hours in 100 subjects (62.5%): 44 (42 normal vaginal deliveries and 2 ventouse extractions) in the dinoprostone vaginal insert group (55.0%) and 56 (55 normal vaginal deliveries and 1 ventouse extraction) in the misoprostol group (70.0%) (P ¼ .05; power, 50%; relative risk relative risk [RR], 1.5, 95% confidence interval [CI], 0.99e2.27) ( Table 2).
+55 ||| STATISTICAL ANALYSIS ||| 2.11 ||| Proportions with vaginal delivery within 12 hours and interval from first treatment to vaginal delivery were not significantly different between groups.
+56 ||| STATISTICAL ANALYSIS ||| 2.12 ||| Proportions achieving vaginal delivery within 24 hours were similar between groups for women with previous childbirth (P ¼ .313); however, the proportion of women successfully induced was significantly greater for nulliparous women in the misoprostol group (24 of 51, 58.5%) compared with the dinoprostone vaginal insert group (12 of 36, 33.3%; P ¼ .027).
+57 ||| STATISTICAL ANALYSIS ||| 2.13 ||| In addition, proportions were similar between groups for women with indications for induction other than status postterm, whereas significantly more misoprostol-treated postterm women delivered vaginally within 24 hours (37 of 48, 77.1%) compared with dinoprostonetreated women (25 of 45, 55.6%; P ¼ .028).
+58 ||| STATISTICAL ANALYSIS ||| 2.14 ||| Although more women in the dinoprostone vaginal insert group whose Bishop score at baseline was 4 or 5 had successful induction (17 of 20, 85.0%) compared with the misoprostol group (13 of 21, 61.9%), the difference was not statistically significant (P ¼ .095).
+59 ||| STATISTICAL ANALYSIS ||| 2.15 ||| Although the induction success was similar in misoprostol group women with baseline Bishop scores of 3 or less compared with 4-5 (P ¼ .346), significantly more women with a baseline Bishop score of 3 or less in the misoprostol group had successful induction (43 of 59, 72.9%) compared with women with low scores in the dinoprostone group (27 of 60, 45.0%; P ¼ .002).
+60 ||| STATISTICAL ANALYSIS ||| 2.16 ||| This was reflected by a significantly lower success rate within the dinoprostone group subjects who had low (45.0%) compared with high (85.0%) Bishop scores at baseline (P ¼ .002).
+61 ||| STATISTICAL ANALYSIS ||| 2.17 ||| Oxytocin was used in fewer patients in the misoprostol group (n ¼ 36, 45.0%) compared with the dinoprostone group (n ¼ 46, 57.5%); however, the difference was not statistically significant (P ¼ .114).
+62 ||| STATISTICAL ANALYSIS ||| 2.18 ||| Similar proportions of patients treated with oxytocin were successfully induced in both groups (P ¼.45); however, in subjects who did not receive oxytocin, significantly more (41 of 44, 93.2%) who were treated with misoprostol delivered vaginally within 24 hours compared with those treated with dinoprostone (21 of 34, 61.8%; P < .001).
+63 ||| STATISTICAL ANALYSIS ||| 2.19 ||| Cesarean delivery was performed in twice as many women in the dinoprostone (n ¼ 18) compared with the misoprostol group (n ¼ 9), approaching statistical significance (22.5% vs 11.3%; P ¼ .057).
+64 ||| STATISTICAL ANALYSIS ||| 2.20 ||| Cesarean deliveries were performed less than 24 hours after treatment in 7 subjects in the dinoprostone group (38.9%), compared with 6 in the misoprostol group (66.7%).
+65 ||| STATISTICAL ANALYSIS ||| 2.21 ||| The small numbers preclude meaningful comparisons.
+66 ||| STATISTICAL ANALYSIS ||| 2.22 ||| Frequencies of maternal adverse events were similar between groups (Table 3).
+67 ||| STATISTICAL ANALYSIS ||| 2.23 ||| One woman in the misoprostol group experienced uterine tachysystole and hyperstimulation accompanied by shivering, vomiting, and nausea after 3 doses.
+68 ||| STATISTICAL ANALYSIS ||| 2.24 ||| Treatment was interrupted for 6.5 hours, during which time her condition stabilized.
+69 ||| STATISTICAL ANALYSIS ||| 2.25 ||| At that time the subject was given dinoprostone and underwent an uneventful vaginal delivery of a 3540 g male infant after an additional 19 hours.
+70 ||| STATISTICAL ANALYSIS ||| 2.26 ||| More infants in the dinoprostone group had a nonreassuring fetal heart rate (n ¼ 20, 25.0%) before delivery compared with the misoprostol group (n ¼ 10, 12.5%; P ¼ .043) ( Table 4).
+71 ||| STATISTICAL ANALYSIS ||| 2.27 ||| There was one perinatal death in each group; both women were undergoing induction because of congenital anomalies.
+72 ||| STATISTICAL ANALYSIS ||| 2.28 ||| The woman in the dinoprostone group underwent cesarean delivery approximately 20 hours after treatment, and the woman in the oral misoprostol group had a vaginal delivery after approximately 23 hours.
+73 ||| STATISTICAL ANALYSIS ||| 2.29 ||| A third subject with a fetus with congenital anomalies, also in the misoprostol group, underwent vaginal delivery approximately 29 hours after the start of induction.
+74 ||| STATISTICAL ANALYSIS ||| 2.30 ||| Proportions of neonates with an Apgar score less than 7 at 1 minute were similar between groups (P ¼ .442), and all scores were 7 or greater at 5 minutes.
+75 ||| STATISTICAL ANALYSIS ||| 2.31 ||| No neonates from the dinoprostone group had neonatal intensive care unit (NICU) admission, compared with 6 from the misoprostol group (7.5%; P ¼ .028).
+76 ||| STATISTICAL ANALYSIS ||| 2.32 ||| NICU admission was based on neonatal hypoglycemia because of maternal type 1 diabetes (n ¼ 3), growth restriction (n ¼ 2), and meconium aspiration (n ¼ 1).
+77 ||| STATISTICAL ANALYSIS ||| 2.33 ||| The 6 infants were discharged home in good condition.
+78 ||| STATISTICAL ANALYSIS ||| 2.34 ||| COMMENT
+79 ||| STATISTICAL ANALYSIS ||| 2.35 ||| Although misoprostol is not approved for labor induction, its comparative cost advantage over dinoprostone combined with greater satisfaction with oral administration contributed to its widespread off-label use for this indication.
+80 ||| STATISTICAL ANALYSIS ||| 2.36 ||| ACOG states that "no studies indicate that intrapartum exposure to misoprostol has any long-term adverse health consequences to the fetus in the absence of fetal distress, nor is there a plausible biologic basis for such a concern."
+81 ||| STATISTICAL ANALYSIS ||| 2.37 ||| Study design and subject characteristic variations complicate outcome comparisons, and contribute to the motivation to perform additional studies in the specific settings in which safe and effective treatments will be applied.
+82 ||| STATISTICAL ANALYSIS ||| 2.38 ||| Hofmeyr et al, 7 in 2001, published a pilot study from South Africa on the use of the new protocol using oral 2 hour   Data are number (percentage).
+83 ||| STATISTICAL ANALYSIS ||| 2.39 ||| Rouzi.
+84 ||| STATISTICAL ANALYSIS ||| 2.40 ||| Hourly titrated oral misoprostol.
+85 ||| STATISTICAL ANALYSIS ||| 2.41 ||| Am J Obstet Gynecol 2014.
+86 ||| STATISTICAL ANALYSIS ||| 2.42 ||| The median dosage of misoprostol used was 150 mg (range, 50e400 mg).
+87 ||| STATISTICAL ANALYSIS ||| 2.43 ||| Oral misoprostol solution was given as Within each study, similar delivery outcomes were achieved in each group.
+88 ||| STATISTICAL ANALYSIS ||| 2.44 ||| Our success rate in the entire cohort was similar to what is reported in the literature (63%); however, the 15% difference between dinoprostone (55%) and misoprostol (70%) subjects bordered on statistical significance (P ¼ .05).
+89 ||| STATISTICAL ANALYSIS ||| 2.45 ||| Cheng et al, 6 in 2008, reported that vaginal delivery within 24 hours was achieved in 94.1% of 101 women randomized to hourly titrated oral misoprostol, compared with 53.8% of 106 women treated with vaginal misoprostol (P < .01).
+90 ||| STATISTICAL ANALYSIS ||| 2.46 ||| The misoprostol protocol used 20 mg hourly for 4 doses and then 40 mg hourly for 4 doses and 60 mg 20 mg every 2 hours for 2 doses (Liverpool) or 3 doses (Johannesburg) and for OMS and vaginal dinoprostone were followed.
+91 ||| STATISTICAL ANALYSIS ||| 2.47 ||| The proportion of vaginal deliveries within 24 hours was similar in the 3 groups (55% in the Foley's catheter and misoprostol group, 60% in the misoprostol group, and 60% in the dinoprostone group).
+92 ||| STATISTICAL ANALYSIS ||| 2.48 ||| In 2003, Dällenbach et al 10 published an RCT between titrated oral misoprosincreased to 40 mg every 2 hours until hourly until adequate uterine contractions occurred.
+93 ||| STATISTICAL ANALYSIS ||| 2.49 ||| If contractions subsequently became inadequate, hourly doses of misoprostol solution were staradequate uterine contractions were achieved.
+94 ||| STATISTICAL ANALYSIS ||| 2.50 ||| No statistically significant differences were seen in the vaginal delivery within 24 hours (OMS: 62%, vaginal dinoprostone: 64%).
+95 ||| STATISTICAL ANALYSIS ||| 2.51 ||| The median and maximum doses of OMS used were not reported.
+96 ||| STATISTICAL ANALYSIS ||| 2.52 ||| In 2003, the same research group from South Africa reported a 3 arm RCT comparing Foley's catheter and titrated misoprostol, titrated misoprostol, and tol (20 mg given every 2 hours for 2 doses and increased to 40 mg every 2 hours for a maximum of 10 doses) and vaginal dinoprostone (2 mg twice, 6 hours apart).
+97 ||| STATISTICAL ANALYSIS ||| 2.53 ||| The median misoprostol dose ted at 10 mg, which could be increased to 20 mg or 40 mg based on uterine was 240 mg (range, 40e475 mg).
+98 ||| STATISTICAL ANALYSIS ||| 2.54 ||| There was no statistical significant difference between the 2 groups in the proportion of vaginal deliveries within 24 hours (56% in the misoprostol group and 62% in the dinoprostone group; RR, 0.90, 95% CI, 0.72e1.14).
+99 ||| STATISTICAL ANALYSIS ||| 2.55 ||| Induction failure was defined as not entering into the active phase after 36 hours of misoprostol treatment with a maximal cumulative dosage of 1600 mg.
+100 ||| STATISTICAL ANALYSIS ||| 2.56 ||| These researchers continue to report high success rates with hourly titrated oral misoprostol.
+101 ||| STATISTICAL ANALYSIS ||| 2.57 ||| This might have contributed to our lesser proportion of vaginal deliveries within 24 hours compared with those studies by Cheng et al.
+102 ||| STATISTICAL ANALYSIS ||| 2.58 ||| Perinatal death 1 (1.25) 1 (1.25) 1.00
+103 ||| STATISTICAL ANALYSIS ||| 2.59 ||| Apgar score <7 at 1 min 7 (8.75) 10 (12.5) .442
+104 ||| STATISTICAL ANALYSIS ||| 2.60 ||| 6,11
+105 ||| STATISTICAL ANALYSIS ||| 2.61 ||| Apgar score <7 at 5 min 0 0 1.00
+106 ||| STATISTICAL ANALYSIS ||| 2.62 ||| Thaisomboon et al 12 compared hourly NICU admission, n (%) 0 6 (7.5) .028
+107 ||| STATISTICAL ANALYSIS ||| 2.63 ||| titrated misoprostol dosing (20 mg hourly orally for 4 doses and then 40 mg NICU, neonatal intensive care unit.
+108 ||| STATISTICAL ANALYSIS ||| 2.64 ||| Rouzi.
+109 ||| STATISTICAL ANALYSIS ||| 2.65 ||| Hourly titrated oral misoprostol.
+110 ||| STATISTICAL ANALYSIS ||| 2.66 ||| Am J Obstet Gynecol 2014.
+111 ||| STATISTICAL ANALYSIS ||| 2.67 ||| hourly for a maximum of 8 hours) with 56.e5 American Journal of Obstetrics & Gynecology JANUARY 2014 www.AJOG.org
+112 ||| STATISTICAL ANALYSIS ||| 2.68 ||| Obstetrics Research static dosing (50 mg of misoprostol orally every 4 hours up to 12 hours) in a small study (32 women/group) reported in 2012.
+113 ||| STATISTICAL ANALYSIS ||| 2.69 ||| The 24 hour delivery rate was 28.1% and 46.9% in the titrated and static dose groups, respectively, despite a significantly higher mean total misoprostol dose given subjects in the titrated group (236.2 vs 103.1 mg; P ¼ .001).
+114 ||| STATISTICAL ANALYSIS ||| 2.70 ||| Our 45% oxytocin augmentation rate in the oral misoprostol group is within reported ranges.
+115 ||| STATISTICAL ANALYSIS ||| 2.71 ||| In one study, a 74.7% 24 hour vaginal delivery rate was achieved when 50 mg oral misoprostol was followed by up to 3 100 mg doses every more frequently in the misoprostol group, the rates of these and other maternal outcomes were not significantly different between groups.
+116 ||| STATISTICAL ANALYSIS ||| 2.72 ||| Similarly, other studies reported no difference in maternal side effects between oral misoprostol and vaginal dinoprostone treatment.
+117 ||| STATISTICAL ANALYSIS ||| 2.73 ||| NICU admission rates ranging from 0% to 12% have been reported following labor induction with oral misoprostol 16,10,12 and 0.5% to 12% following vaginal dinoprostone induction.
+118 ||| STATISTICAL ANALYSIS ||| 2.74 ||| In one study, when dinoprostone was compared with oral and vaginal misoprostol, significantly different uterine hyperstimulation rates occurred (8.9%, 16.5%, and 21.4%; P ¼ .004).
+119 ||| STATISTICAL ANALYSIS ||| 2.75 ||| In a large study that enrolled 741 subjects, incidence of uterine hyperstimulation was 1.9% and 6.1% in the oral misoprostol and vaginal dinoprostone groups 16 and was 9% and 14% of 100 subjects in another study.
+120 ||| STATISTICAL ANALYSIS ||| 2.76 ||| An adverse reaction considered related to misoprostol resulted in switching 1 subject in our study to dinoprostone because of uterine tachysystole and hyperstimulation, shivering, vomiting, and nausea.
+121 ||| STATISTICAL ANALYSIS ||| 2.77 ||| Although these events occurred Women and clinicians were not blinded to the allocated treatment, which raises the possibility of bias in clinical management decisions.
+122 ||| STATISTICAL ANALYSIS ||| 2.78 ||| However, such an effect can operate in either direction and is minimized by our standard labor ward management policies.
+123 ||| STATISTICAL ANALYSIS ||| 2.79 ||| Other limitations of our RCT include the small size.
+124 ||| STATISTICAL ANALYSIS ||| 2.80 ||| In addition to limitations on the primary endpoint, the disadvantages of small studies are particularly evident when assessing safety, in which detecting a significant increase in adverse events that have a low background incidence can require an unachievable number of subjects.
+125 ||| STATISTICAL ANALYSIS ||| 2.81 ||| In conclusion, despite the small sample size, our labor induction with hourly titrated oral misoprostol approached statistical significance, supporting the potential use of hourly titrated oral misoprostol for labor induction.
+126 ||| STATISTICAL ANALYSIS ||| 2.82 ||| Subsequent to this comparison with our standard protocol, further studies focusing on OMS are warranted to more clearly determine the optimal regimen.-
+127 ||| STATISTICAL ANALYSIS ||| 2.83 ||| 2
+128 ||| STATISTICAL ANALYSIS ||| 2.84 ||| 1
+129 ||| ACKNOWLEDGMENT ||| 3.1 ||| This project was funded by the Deanship of Scientific Research (DSR), King Abdulaziz University, Jeddah, under grant 5 / 11 /430.
+130 ||| ACKNOWLEDGMENT ||| 3.2 ||| The authors, therefore, acknowledge, with thanks, DSR technical and financial support.

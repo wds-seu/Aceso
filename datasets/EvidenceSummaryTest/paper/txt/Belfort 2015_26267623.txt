@@ -1,0 +1,119 @@
+1 |||  ||| 0.1 ||| BACKGROUND-It is unclear whether using fetal electrocardiographic (ECG) ST-segment analysis as an adjunct to conventional intrapartum electronic fetal heart-rate monitoring modifies intrapartum and neonatal outcomes.
+2 ||| Author Manuscript ||| 1.1 ||| CONCLUSIONS-Fetal ECG ST-segment analysis used as an adjunct to conventional intrapartum electronic fetal heart-rate monitoring did not improve perinatal outcomes or decrease operative-delivery rates.
+3 ||| Author Manuscript ||| 1.2 ||| CONTINUOUS INTRAPARTUM FETAL heart-rate monitoring has caused considerable controversy in obstetrics.
+4 ||| Author Manuscript ||| 1.3 ||| Despite decades of use and an associated rise in cesarean-delivery rates based at least in part on nonreassuring fetal heart-rate patterns, evidence that such monitoring has reduced the rate of hypoxia-induced neonatal encephalopathy is lacking.
+5 ||| Author Manuscript ||| 1.4 ||| In 2005, the Food and Drug Administration (FDA) granted conditional approval of the STAN S31 device (Neoventa Medical) for use as an adjunct to conventional electronic fetal heart-rate monitoring.
+6 ||| Author Manuscript ||| 1.5 ||| The rationale is that fetal acidemia is associated with fetal ECG ST-segment elevation and increased T-wave amplitude.
+7 ||| Author Manuscript ||| 1.6 ||| Initial FDA approval was based primarily on European studies 7-9 that suggested that fetal ST-segment analysis technology reduced the rates of neonatal encephalopathy, acidemia, and operative delivery.
+8 ||| Author Manuscript ||| 1.7 ||| However, the relevance of these results to usual obstetrical practice is unclear, given inconsistent findings among published trials and questions about eligibility criteria, choice and definition of primary outcomes, and intrapartum management, as discussed by Øian and Blix 10 and Steer and Hvidman.
+9 ||| Author Manuscript ||| 1.8 ||| We designed a large, multi-institutional, randomized trial to assess the effects of using fetal ECG ST-segment analysis on perinatal outcomes.
+10 ||| METHODS ||| 2.1 ||| STUDY DESIGN AND OVERSIGHT
+11 ||| METHODS ||| 2.2 ||| The study, which consisted of a pilot phase and the randomized trial, was conducted at 16 university-based clinical centers -each comprising 1 to 5 delivery hospitals (26 total) -in the Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD) Maternal-Fetal Medicine Units (MFMU) Network.
+12 ||| METHODS ||| 2.3 ||| The protocol was approved by the institutional review board at each hospital and is available with the full text of this article at NEJM.org.
+13 ||| METHODS ||| 2.4 ||| Written informed consent was obtained from all participants before participation.
+14 ||| METHODS ||| 2.5 ||| A small group of investigators (protocol subcommittee) provided oversight for the trial.
+15 ||| METHODS ||| 2.6 ||| The study was supported by the NICHD and by funding from the manufacturer (Neoventa Medical).
+16 ||| METHODS ||| 2.7 ||| Neoventa did not participate in the monitoring of the study; data collection, management, or analysis; or manuscript preparation.
+17 ||| METHODS ||| 2.8 ||| The first, second, third, and fifth authors take responsibility for the fidelity of the report to the study protocol and for the accuracy and completeness of the reported data.
+18 ||| Author Manuscript ||| 3.1 ||| CERTIFICATION, TRAINING, AND PILOT PHASE
+19 ||| Author Manuscript ||| 3.2 ||| All participating care providers and research personnel were trained and certified in the correct use of the fetal ECG ST-segment analysis system to a level exceeding FDA requirements.
+20 ||| Author Manuscript ||| 3.3 ||| Each hospital participated in a pilot phase that consisted of enrollment and care of at least 50 patients monitored with fetal ECG ST-segment analysis, with central review of labor-management decisions and retraining as needed before approval of the hospital to start the trial.
+21 ||| Author Manuscript ||| 3.4 ||| Details of the certification and monitoring process are provided in the Supplementary Appendix, available at NEJM.org; guidelines for the management of labor on the basis of fetal ECG analysis are summarized in Table 1, and Figure S1 in the Supplementary Appendix.
+22 ||| Author Manuscript ||| 4.1 ||| Once a hospital was approved to participate in the randomized trial, the independent data coordinating center sent a software card containing the encrypted randomization module to the designated local biomedical technician to be installed on the S31 monitors at that hospital.
+23 ||| Author Manuscript ||| 4.2 ||| No other personnel had access to the software or were able to adjust the monitors.
+24 ||| Author Manuscript ||| 4.3 ||| A separate randomization sequence was created for each monitor.
+25 ||| Author Manuscript ||| 5.1 ||| TRIAL PROTOCOL
+26 ||| Author Manuscript ||| 5.2 ||| Women with a singleton fetus at more than 36 weeks of gestation who were attempting vaginal delivery and had cervical dilation of 2 to 7 cm were invited to participate.
+27 ||| Author Manuscript ||| 5.3 ||| The main exclusion criteria were noncephalic presentation, planned cesarean delivery, a need for immediate delivery, absent fetal heart-rate variability (amplitude range undetectable) or a sinusoidal pattern, minimal fetal heart-rate variability in the 20 minutes before randomization, or other fetal or maternal conditions that would preclude a trial of labor or the placement of a scalp electrode.
+28 ||| Author Manuscript ||| 5.4 ||| The full eligibility criteria are provided in the Supplementary Appendix.
+29 ||| Author Manuscript ||| 6.1 ||| After spontaneous or artificial membrane rupture, a Goldtrace fetal scalp electrode (Neoventa Medical) was placed in each woman who consented to participate in the trial.
+30 ||| Author Manuscript ||| 6.2 ||| If it was not possible to obtain or maintain an adequate fetal ECG signal after three attempts at electrode placement or if an ST-segment event occurred during the attempts to obtain an adequate signal, the woman was excluded from randomization.
+31 ||| Author Manuscript ||| 6.3 ||| Immediately after successful electrode placement resulting in an adequate ST-segment analysis signal, a researcher activated the randomization module, which then automatically set the S31 monitor into "masked" or "open" mode according to the internal preassigned randomization scheme.
+32 ||| Author Manuscript ||| 6.4 ||| The masked S31 monitors functioned as conventional electronic fetal heart-rate monitors.
+33 ||| Author Manuscript ||| 6.5 ||| The care of patients in the masked group was managed at the discretion of the attending physician or midwife.
+34 ||| Author Manuscript ||| 6.6 ||| S31 monitors in the open mode displayed ECG ST-segment information intended for use when uncertain fetal heart-rate patterns were detected.
+35 ||| Author Manuscript ||| 6.7 ||| Management of the labor and delivery for women in this group was dictated by the STsegment analysis guidelines (Table 1, and Fig.
+36 ||| Author Manuscript ||| 6.8 ||| S1 in the Supplementary Appendix).
+37 ||| Author Manuscript ||| 6.9 ||| To monitor adherence to the guidelines, all tracings from fetuses of patients who subsequently had cesarean or operative vaginal (forceps or vacuum-assisted) deliveries and from fetuses who had ST-segment events or primary-outcome events, as well as tracings from fetuses of a sample of patients who subsequently had vaginal deliveries, were centrally reviewed by the protocol subcommittee, whose members were unaware of the outcome of the neonate.
+38 ||| Author Manuscript ||| 6.10 ||| If the group determined that the guidelines for fetal ECG ST-segment analysis had not been followed, the provider received additional training.
+39 ||| Author Manuscript ||| 8.1 ||| Paired arterial and venous umbilical-cord blood gas measurements were obtained from all neonates.
+40 ||| Author Manuscript ||| 8.2 ||| The base deficit was calculated with the use of measurements from the extracellular fluid and the modified Siggaard-Andersen curve.
+41 ||| Author Manuscript ||| 8.3 ||| All enrolled women and their infants were followed until hospital discharge.
+42 ||| Author Manuscript ||| 8.4 ||| Trained research staff collected maternal and perinatal data, including the interpretation by the clinical providers of the fetal heart-rate pattern (NICHD category 12 or fetal ECG ST-segment analysis category).
+43 ||| Author Manuscript ||| 8.5 ||| PRIMARY OUTCOME
+44 ||| Author Manuscript ||| 8.6 ||| The primary outcome was a composite of intrapartum fetal death, neonatal death, an Apgar score of 3 or less at 5 minutes, neonatal seizure, an umbilical-artery blood pH of 7.05 or less with a base deficit of 12 mmol per liter or more, intubation for ventilation at delivery, or neonatal encephalopathy.
+45 ||| Author Manuscript ||| 10.1 ||| Maternal secondary outcomes were cesarean delivery (with indication), forceps or vacuumassisted delivery, chorioamnionitis, maternal blood transfusion, duration of labor after randomization, shoulder dystocia, postpartum endometritis, and length of hospital stay.
+46 ||| Author Manuscript ||| 10.2 ||| Neonatal secondary outcomes were individual components of the primary outcome, Apgar score at 5 minutes, umbilical-artery blood gas results, and admission to the intermediate care nursery or neonatal intensive care unit.
+47 ||| STATISTICAL ANALYSIS ||| 11.1 ||| We calculated that a sample size of 11,000 patients would give the study more than 85% power to detect a 40% reduction in the primary outcome in the open group, assuming a rate of 1.75% in the masked group (derived from a previous MFMU Network randomized trial involving women in labor at term), at a two-sided type I error rate of 5%.
+48 ||| STATISTICAL ANALYSIS ||| 11.2 ||| Given a cesareandelivery rate for nonreassuring fetal status as low as 5%, there was adequate power (88%) to detect a 25% reduction in cesarean delivery for this specific indication.
+49 ||| Author Manuscript ||| 12.1 ||| We performed an intention-to-treat analysis, in which patients were included in the group to which they had been randomly assigned, regardless of the completeness of ST-segment monitoring or provider adherence to the protocol.
+50 ||| Author Manuscript ||| 12.2 ||| Categorical variables were compared with the use of the chi-square test or Fisher's exact test, as appropriate.
+51 ||| Author Manuscript ||| 12.3 ||| Relative risks and 95% confidence intervals were calculated.
+52 ||| Author Manuscript ||| 12.4 ||| Interaction tests in prespecified subgroups (category I vs. category II fetal heart-rate tracing at baseline, multiparous vs. nulliparous status, center, enrollment before vs. after the midpoint of recruitment for each site, and race or ethnic group) and in post hoc subgroups (induced vs. spontaneous labor and baseline cervical dilation of 2 to 5 cm vs. 6 to 7 cm) were conducted with the use of the Breslow-Day method for the following end points: primary outcome, cesarean delivery, and any operative delivery (cesarean and operative vaginal delivery combined).
+53 ||| Author Manuscript ||| 12.5 ||| Continuous variables were compared with the use of the Wilcoxon rank-sum test.
+54 ||| Author Manuscript ||| 12.6 ||| An independent data and safety monitoring committee monitored the trial for safety and trial performance.
+55 ||| Author Manuscript ||| 12.7 ||| The committee did not review interim data on the primary outcome; therefore, no adjustment to the type I error rate was necessary.
+56 ||| Author Manuscript ||| 12.8 ||| For all secondary outcomes, a nominal P value of less than 0.05, without adjustment for multiple comparisons, was considered to indicate statistical significance.
+57 ||| Author Manuscript ||| 15.1 ||| RECRUITMENT AND CHARACTERISTICS OF THE PARTICIPANTS
+58 ||| Author Manuscript ||| 15.2 ||| Recruitment to the pilot study started in April 2010; by April 2013, a total of 26 hospitals were authorized to start the randomized trial.
+59 ||| Author Manuscript ||| 15.3 ||| Recruitment to the trial began in November 2010 and ended in March 2014.
+60 ||| Author Manuscript ||| 15.4 ||| A total of 43,376 women were screened for inclusion, of whom 18,456 did not meet eligibility criteria, 13,812 declined participation, and 11,108 were randomly assigned to the open group (5532 women) or the masked group (5576 women) (Fig.
+61 ||| Author Manuscript ||| 15.5 ||| A total of 85 women discontinued open or masked ST-segment monitoring before delivery; however, outcome data were obtained for all women and their neonates.
+62 ||| Author Manuscript ||| 16.1 ||| There were no significant differences in baseline characteristics between the two groups ( Table 2).
+63 ||| Author Manuscript ||| 16.2 ||| Assessment of fetal heart rate immediately before randomization showed that 73% of fetal heart-rate tracings were NICHD category I (reassuring) and 27% were category
+64 ||| OUTCOMES ||| 17.1 ||| Valid umbilical-cord blood gas measurements were obtained for 96.5% of all neonates.
+65 ||| OUTCOMES ||| 17.2 ||| The primary outcome occurred in 52 neonates (0.9%) of patients in the open group and in 40 neonates (0.7%) of patients in the masked group (relative risk, 1.31; 95% confidence interval, 0.87 to 1.98; P = 0.20) (Table 3).
+66 ||| OUTCOMES ||| 17.3 ||| The groups did not differ significantly with respect to the incidences of individual components of the primary outcome, with one exception: the frequency of an Apgar score of 3 or less at 5 minutes was higher among neonates of patients in the open group than among neonates of patients in the masked group (0.3% vs. 0.1%; P = 0.02).
+67 ||| OUTCOMES ||| 17.4 ||| However, most components of the primary outcome occurred in no more than 0.1% of neonates in either group.
+68 ||| Author Manuscript ||| 18.1 ||| There were no significant differences between the two groups in the overall rates of cesarean delivery (P = 0.30) or any operative delivery (P = 0.31).
+69 ||| Author Manuscript ||| 18.2 ||| Overall, cesarean delivery because of fetal indications occurred in 287 women (5.2%) in the open group and 298 women (5.3%) in the masked group (P = 0.48).
+70 ||| Author Manuscript ||| 18.3 ||| There were no significant differences between groups in any secondary outcomes (Table 4).
+71 ||| Author Manuscript ||| 18.4 ||| Adverse events related to the ST-segment monitoring were rare, and the rates of individual adverse events were similar in the two groups (Table S1 in the Supplementary Appendix).
+72 ||| Author Manuscript ||| 18.5 ||| There were no significant differences between any of the subgroups we assessed with respect to the effect of monitoring with ST-segment analysis on the primary outcome, cesarean delivery, and any operative delivery (P>0.05 for interaction for all comparisons) (Fig.
+73 ||| Author Manuscript ||| 18.6 ||| S3, S4, and S5 in the Supplementary Appendix).
+74 ||| Author Manuscript ||| 18.7 ||| Among the 2427 women assigned to the open group whose fetus' tracings were reviewed, 163 (6.7%) were determined not to have received care according to ST-segment analysis guidelines.
+75 ||| Author Manuscript ||| 18.8 ||| In 95 cases (3.9%), expeditious delivery did not occur when recommended, and in 68 cases (2.8%), delivery was expedited when the guidelines indicated that continued observation was warranted.
+76 ||| Author Manuscript ||| 18.9 ||| The primary outcome occurred in 5 of the 95 cases in which delivery did not occur as expeditiously as recommended and in 0 of the 68 in which delivery was expedited when not recommended.
+77 ||| Author Manuscript ||| 18.10 ||| Even if the 5 cases were recoded as not associated with a primary outcome, there would be no significant difference between the two groups (P = 0.43).
+78 ||| Author Manuscript ||| 18.11 ||| Of the 5 patients, 2 had a cesarean delivery and 3 a spontaneous vaginal delivery.
+79 ||| Author Manuscript ||| 18.12 ||| An as-treated analysis in which patients for whom ST-segment analysis guidelines were not followed were included with the masked group did not reveal any significant differences between the groups (Table S3 in
+80 ||| Author Manuscript ||| 19.1 ||| PROTOCOL ADHERENCE
+81 ||| DISCUSSION ||| 20.1 ||| This large, randomized trial showed that in a U.S. population of pregnant women in whom labor and delivery were managed according to U.S. practices, ST-segment analysis as an adjunct to continuous electronic fetal monitoring neither improved neonatal outcomes nor reduced the rates of cesarean delivery or operative vaginal delivery.
+82 ||| DISCUSSION ||| 20.2 ||| Although our findings differ from those of two randomized trials, 8,9 they are in agreement with those of other randomized trials.
+83 ||| DISCUSSION ||| 20.3 ||| In the open group, 5.9% of cesarean deliveries occurred when ST-segment analysis guidelines indicated that labor should continue (Table S2 in the Supplementary Appendix).
+84 ||| DISCUSSION ||| 20.4 ||| Even if these 55 cases had resulted in a vaginal delivery, there would have been no significant difference in the cesarean-delivery rate.
+85 ||| DISCUSSION ||| 20.5 ||| A similar result is true for operative vaginal delivery.
+86 ||| DISCUSSION ||| 20.6 ||| Moreover, if we assumed that all the cases in which operative delivery was indicated had actually occurred in accordance with ST-segment analysis guidelines and that 5 cases of the primary outcome had been avoided, the incidence of the primary outcome would have remained similar in the two groups.
+87 ||| Author Manuscript ||| 21.1 ||| There could have been a Hawthorne effect (the tendency for some people to perform better when they believe that they are being watched) resulting in improved interpretation of fetal heart-rate patterns, consistent with the suggestion that a systematic approach to fetal monitoring, rather than ST-segment analysis itself, may be what is effective.
+88 ||| Author Manuscript ||| 21.2 ||| A reanalysis of the meta-analysis by Schuit et al.
+89 ||| Author Manuscript ||| 23.1 ||| The frequency of operative vaginal delivery in our trial was lower than the 13 to 14% frequency in the meta-analysis by Schuit et al.
+90 ||| Author Manuscript ||| 23.2 ||| These differences could have influenced intrapartum care and may have contributed to differences between our results and those of European trials.
+91 ||| Author Manuscript ||| 23.3 ||| Our study had a lower-than-anticipated incidence of the primary outcome and, therefore, reduced power to show between-group differences.
+92 ||| Author Manuscript ||| 23.4 ||| However, the lower boundary of the 95% confidence interval for the relative risk of the primary outcome was 0.87, implying at best a reduction of 13% in the open group.
+93 ||| Author Manuscript ||| 23.5 ||| This is far lower than the hypothesized effect and may be of questionable clinical significance.
+94 ||| Author Manuscript ||| 23.6 ||| Even with lower rates of cesarean delivery and operative vaginal delivery than expected (16.5% and 5.9%, respectively), the trial still had 80% power to detect relative differences of 11% and 15%, respectively, in these outcomes.
+95 ||| Author Manuscript ||| 23.7 ||| To be eligible for ST-segment analysis, patients must have cervical dilatation of at least 2 cm and have ruptured membranes.
+96 ||| Author Manuscript ||| 23.8 ||| These women are likely to have a lower cesareandelivery rate than the overall rate in all women attempting vaginal delivery, some of whom are undergoing labor induction or in spontaneous labor at less than 2 cm.
+97 ||| Author Manuscript ||| 23.9 ||| However, insofar as the clinical use of ST-segment analysis outside the trial would require the same eligibility criteria, we consider these results to be generalizable to clinical practice in the United States.
+98 ||| Author Manuscript ||| 24.1 ||| In conclusion, this large and closely monitored randomized, controlled trial showed no significant benefit of the adjunctive use of ST-segment analysis in reducing a composite of neonatal outcomes or in reducing cesarean or operative vaginal deliveries in a U.S. population undergoing conventional intrapartum continuous electronic fetal heart-rate monitoring.
+99 ||| Supplementary Material ||| 26.1 ||| Refer to Web version on PubMed Central for supplementary material.
+100 ||| Supplementary Material ||| 26.2 ||| Enrollment and Outcomes
+101 ||| Supplementary Material ||| 26.3 ||| ECG denotes electrocardiographic.
+102 ||| Supplementary Material ||| 26.4 ||| Author
+103 ||| Supplementary Material ||| 26.5 ||| *
+104 ||| Supplementary Material ||| 26.6 ||| N Engl J Med.
+105 ||| Supplementary Material ||| 26.7 ||| Author manuscript; available in PMC 2016 February 13.
+106 ||| Supplementary Material ||| 26.8 ||| Med.
+107 ||| Supplementary Material ||| 26.9 ||| Author manuscript; available in PMC 2016 February 13.
+108 ||| Supplementary Material ||| 26.10 ||| There were no significant differences in baseline characteristics between the two groups.
+109 ||| Acknowledgments ||| 27.1 ||| Supported by grants (HD34208, HD53097, HD40545, HD40560, HD27869, HD40485, HD40512, HD27915, HD40544, HD40500, HD68282, HD68268, HD27917, HD21410, and HD36801) from the NICHD and by funding from Neoventa Medical.
+110 ||| Acknowledgments ||| 27.2 ||| We thank Kim Hill, R.N., B.S.N., and Ashley Salazar, R.N., M.S.N., W.H.N.P., for assistance with protocol development and coordination between clinical research centers; Steven J. Weiner, M.S., for protocol development, data management, and statistical analysis; and Michael W. Varner, M.D., and Catherine Y. Spong, M.D., for protocol development, oversight, and outcome review.
+111 ||| Acknowledgments ||| 27.3 ||| Neonatal
+112 ||| Acknowledgments ||| 27.4 ||| Apgar score at 5 min Median 9 9 0.54
+113 ||| Acknowledgments ||| 27.5 ||| Interquartile range 9-9 9-9
+114 ||| Acknowledgments ||| 27.6 ||| Neonatal
+115 ||| Acknowledgments ||| 27.7 ||| Apgar score at 5 min Median 9 9 0.54
+116 ||| Acknowledgments ||| 27.8 ||| Interquartile range 9-9 9-9
+117 ||| Acknowledgments ||| 27.9 ||| Neonatal
+118 ||| Acknowledgments ||| 27.10 ||| Apgar score at 5 min Median 9 9 0.54
+119 ||| Acknowledgments ||| 27.11 ||| Interquartile range 9-9 9-9
