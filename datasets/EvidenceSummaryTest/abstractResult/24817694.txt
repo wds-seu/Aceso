@@ -1,0 +1,11 @@
+AIM: To determine the effectiveness and cost-effectiveness of a mobile phone intervention to improve exercise capacity and physical activity behaviour in people with ischaemic heart disease (IHD).
+METHODS AND RESULTS: In this single-blind, parallel, two-arm, randomized controlled trial adults (n = 171) with IHD were randomized to receive a mobile phone delivered intervention (HEART; n = 85) plus usual care, or usual care alone (n = 86).
+Adult participants aged 18 years or more, with a diagnosis of IHD, were clinically stable as outpatients, able to perform exercise, able to understand and write English, and had access to the Internet. 
+The HEART (Heart Exercise And Remote Technologies) intervention involved a personalized, automated package of text messages and a secure website with video messages aimed at increasing exercise behaviour, delivered over 24 weeks. 
+All participants were able to access usual community-based cardiac rehabilitation, which involves encouragement of physical activity and an offer to join a local cardiac support club. 
+All outcomes were assessed at baseline and 24 weeks and included peak oxygen uptake (PVO2; primary outcome), self-reported physical activity, health-related quality of life, self-efficacy and motivation (secondary outcomes). 
+Results showed no differences in PVO2 between the two groups (difference -0.21 ml kg(-1)min(-1), 95% CI: -1.1, 0.7; p = 0.65) at 24 weeks. However significant treatment effects were observed for selected secondary outcomes, including leisure time physical activity (difference 110.2 min/week, 95% CI: -0.8, 221.3; p = 0.05) and walking (difference 151.4 min/week, 95% CI: 27.6, 275.2; p = 0.02). 
+There were also significant improvements in self-efficacy to be active (difference 6.2%, 95% CI: 0.2, 12.2; p = 0.04) and the general health domain of the SF36 (difference 2.1, 95% CI: 0.1, 4.1; p = 0.03) at 24 weeks. 
+The HEART programme was considered likely to be cost-effective for leisure time activity and walking.
+CONCLUSIONS: A mobile phone intervention was not effective at increasing exercise capacity over and above usual care. 
+The intervention was effective and probably cost-effective for increasing physical activity and may have the potential to augment existing cardiac rehabilitation services.

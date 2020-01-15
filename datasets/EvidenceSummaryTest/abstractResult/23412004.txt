@@ -1,0 +1,9 @@
+PURPOSE: To evaluate the effectiveness and the safety of orally administered misoprostol in comparison to intravenously infused oxytocin for labor induction in term pregnant women.
+METHODS: Between 2008 and 2010, a total of 285 term pregnant women whom were candidate for vaginal delivery were assessed for eligibility to enter the study. 
+Twenty five patients were excluded for different reasons; and 260 included women were randomly assigned to one of the two groups according to the method of treatment, misoprostol or oxytocin. The misoprostol group received 25 ¦Ìg every 2 hours for up to 24 hours for induction. 
+The oxytocin group received an infusion of 10 IU which was gradually increased. The time from induction to delivery and induction to the beginning of the active phase and successful inductions within 12, 18, and 24 hours were recorded. The trial is registered at irct.ir, number IRCT2012061910068N1.
+RESULTS: Failure of induction, leading to caesarean section was around 38.3% in the oxytocin group and significantly higher than that of the misoprostol group (20.3%) (p<0.001). 
+Despite the more prevalent failure in the oxytocin group, the mean time intervals from induction to active phase and labor of this group were both significantly less than the misoprostol group (10.1¡À6.1 and 13.2¡À7.7 versus 12.9¡À5.4 and 15.6¡À5.1 hours respectively, both p-values were <0.05).
+Maternal and fetal complications were comparable between groups except gastrointestinal symptoms which were encountered more frequently in the misoprostol (10.9 versus 3.9%, p=0.03).
+CONCLUSIONS: Misoprostol is a safe and effective drug with low complications for the induction of labor. 
+Failure is seen less with misoprostol and caesarean sections are less frequently indicated as compared to oxytocin.

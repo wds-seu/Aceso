@@ -1,0 +1,9 @@
+OBJECTIVE: To compare the efficacy of oral with vaginal misoprostol for induction of labour.
+DESIGN: A randomized trial.
+SETTING: Tertiary care hospital.
+PARTICIPANTS: Two hundred women requiring induction of labour.
+METHODS: Group A received oral misoprostol 50 mcg 6 hourly maximum 4 doses to 100 patients and Group B received vaginal misoprostol 50 mcg 6 hourly maximum 4 doses to 100 patients. When the patient entered active stage of labour i.e. clinically adequate constractions of 3/10 min of >40 s duration, and cervical dilatation of with 4 cm, further doses of misoprostol were not administered. Statistical analysis was done using chi-square test and t test.
+RESULT: Both groups were comparable with respect to maternal age, gestational age, indication of induction and initial modified Bishops score Mean number of dosage required for successful induction were significantly less in vaginal group than oral group (in oral groups A were 2.73 + 0.58, and in vaginal Group B 2.26 + 0.52, P value < 0.0001 highly significant). 
+The induction delivery interval was significantly less in vaginal group than oral group (Group A 15.24 + 3.47 h Group B 12.74 + 2.60 h, P < 0.0001 highly significant). 
+Oxytocin augmentation required was less in vaginal group. 26 caesarean sections were performed in oral group and 17 caesarean sections were done in vaginal group (P value 0.06 NS). APGAR score, birth weight, NICU admissions showed no difference between the two groups.
+CONCLUSION: This study shows that vaginal route of administration of misoprostol is preferable to oral route for induction of labour when used in equivalent dosage of 50 mcg 6 hourly.

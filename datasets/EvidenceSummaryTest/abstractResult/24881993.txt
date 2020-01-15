@@ -1,0 +1,14 @@
+BACKGROUND: The fixed-dose combination of any two antihypertensive drugs from different drug classes is typically more effective in reducing blood pressure than a dose increase of component monotherapy. 
+We assessed the efficacy and safety of a fixed-dose combination of a vasodilating β blocker (nebivolol) and an angiotensin II receptor blocker (valsartan) in adults with hypertension.
+METHODS: We did an 8-week, phase 3, multicentre, randomised, double-blind, placebo-controlled, parallel-group trial at 401 US sites. Participants (age −18 years) with hypertension but with blood pressure less than 180/110 mm Hg were randomly assigned (2:2:2:2:2:2:2:1) by a 24-h interactive web response system in blocks of 15 to 4 weeks of double-blind treatment with nebivolol and valsartan fixed-dose combination (5 and 80 mg/day, 5 and 160 mg/day, or 10 and 160 mg/day), nebivolol (5 mg/day or 20 mg/day), valsartan (80 mg/day or 160 mg/day), or placebo. 
+Doses were doubled in weeks 5-8; results are reported according to the final dose. 
+Participants and research staff were masked to treatment allocation. The primary and key secondary endpoints were changes from baseline to week 8 in diastolic and systolic blood pressure, respectively. 
+The primary statistical comparison was between the highest fixed-dose combination dose and the highest monotherapy doses; lower doses were then compared if this comparison was positive (Hochberg method for multiple testing). 
+Efficacy analyses were by intention to treat. Safety assessments included monitoring of adverse events. 
+Continuous efficacy parameters were analysed using an ANCOVA model; binary outcomes were analysed using a logistic regression model. This study is registered with ClinicalTrials.gov, NCT01508026.
+FINDINGS: Between Jan 6, 2012, and March 15, 2013, 4161 patients were randomly assigned (277 to placebo and 554-555 to each active comparator group), 4118 of whom were included in the primary analysis. 
+At week 8, the fixed-dose combination 20 and 320 mg/day group had significantly greater reductions in diastolic blood pressure from baseline than both nebivolol 40 mg/day (least-squares mean difference -1，2 mm Hg, 95% CI -2，3 to -0，1; p=0，030) and valsartan 320 mg/day (-4，4 mm Hg, -5，4 to -3，3; p<0，0001); all other comparisons were also significant, favouring the fixed-dose combinations (all p<0，0001). 
+All systolic blood pressure comparisons were also significant (all p<0，01). 
+At least one treatment-emergent adverse event was experienced by 30-36% of participants in each group.
+INTERPRETATION: Nebivolol and valsartan fixed-dose combination is an effective and well-tolerated treatment option for patients with hypertension.
+FUNDING: Forest Research Institute.
