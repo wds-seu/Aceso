@@ -55,7 +55,7 @@ please read the document about [Visidom](https://github.com/facebookresearch/vis
 Model | Parameters | Value
 ---|---| ---
 CNN | dropout | 0.5
-CNN | kernel size | {3,4,5}
+CNN | kernel size | {2,3,4}
 CNN | kernel number | 100
 CNN | epoch | 100
 CNN | initial learning rate | 0.01
@@ -67,7 +67,7 @@ Bi-LSTM | dimensions of embedding | 200
 Bi-LSTM |init | Orthogonal
 Bi-LSTM |	hidden size  | 200
 Concept2Vec|diameter of	hypercube|	5.50E-07
-Concept2Vec|dimensions of embedding| 200
+Concept2Vec|dimensions of embedding| 108
 DeepWalk|number of sampled paths|	10
 DeepWalk|walk length |40
 DeepWalk|windows size |5
