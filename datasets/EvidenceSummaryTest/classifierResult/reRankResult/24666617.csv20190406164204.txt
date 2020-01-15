@@ -1,0 +1,16 @@
+P: 38 |||  ||| 0.38 ||| We found a statistically significant reduction in the frequency of MACCE in patients aged <65 years (0% vs 10%, p ¼ 0.02)..
+P: 24 |||  ||| 0.24 ||| Six-month follow-up was completed in 107 (97%) and 112 (98%) patients in the aspirin monotherapy and dAPT groups, respectively..
+P: 27 |||  ||| 0.27 ||| The overall incidence of the primary end point was not affected by the different antiplatelet management protocols (6% vs 10%; RR 0.61, 95% CI 0.25 to 1.51, two-tailed p ¼ 0.33, one-tailed p ¼ 0.20)..
+P: 9 |||  ||| 0.9 ||| In the subgroup analysis, dAPT led to lower rates of adverse events in patients with a body mass index >30 kg/m 2 (0% vs 18%, p <0.01) and those <65 years (0% vs 10%, p [ 0.02)..
+I: 3 |||  ||| 0.3 ||| This study was designed to define the impact of dual antiplatelet therapy (dAPT) on clinical outcomes among aspirin-resistant patients who underwent coronary artery surgery..
+I: 4 |||  ||| 0.4 ||| We randomly assigned 219 aspirin-resistant patients according to multiple electrode aggregometry to receive clopidogrel (75 mg) plus aspirin (300 mg) or aspirin-monotherapy (300 mg)..
+I: 11 |||  ||| 0.11 ||| A total of 224 aspirin-resistant patients with CABG were randomly assigned to receive aspirin only (n ¼ 110) or aspirin plus clopidogrel (n ¼ 114)..
+I: 6 |||  ||| 0.6 ||| The primary end point occurred in 6% of patients assigned to dAPT and 10% of patients randomized to aspirin-monotherapy (relative risk 0.61, 95% confidence interval 0.25 to 1.51, p [ 0.33)..
+I: 40 |||  ||| 0.40 ||| The incidences of MACCE among obese patients were 0% with the dAPT strategy versus 18% in the aspirin-only arm (p <0.01)..
+I: 52 |||  ||| 0.52 ||| We found that 51% of patients who underwent elective CABG had incomplete inhibition of platelet reactivity with aspirin..
+I: 48 |||  ||| 0.48 ||| The principal goal of this trial was to measure the impact of enhanced platelet inhibition with clopidogrel in the background of standard therapy in aspirin-resistant patients with CABG on the incidence of adverse events..
+O: 8 |||  ||| 0.8 ||| The total incidence of bleeding events was 25% and 19% in the dAPT and aspirin-monotherapy groups, respectively (relative risk 1.34, 95% confidence interval 0.80 to 2.23, p [ 0.33)..
+O: 10 |||  ||| 0.10 ||| In conclusion, the addition of clopidogrel in patients found to be aspirin resistant after coronary artery bypass grafting did not reduce the incidence of adverse events, nor did it increase the number of recorded bleeding events..
+O: 36 |||  ||| 0.36 ||| The incidence of bleeding events in the per-protocol analysis did not differ significantly from the intention-to-treat analysis (24% in the dAPT group vs 19% in the aspirin monotherapy group; RR 1.28, 95% CI 0.75 to 2.20, two-tailed p ¼ 0.39, one-tailed p ¼ 0.23)..
+O: 59 |||  ||| 0.59 ||| Our trial, however, did not prove that the combination of aspirin and clopidogrel was superior in reducing the frequency of the primary end point to aspirin monotherapy in aspirin-resistant patients with CABG..
+O: 28 |||  ||| 0.28 ||| A nonsignificant 43% RR reduction in the composite end point of MI/stroke/cardiovascular death was observed with enhancement of platelet inhibition (two-tailed p ¼ 0.49, one-tailed p ¼ 0.34)..

@@ -1,0 +1,16 @@
+P: 8 ||| Introduction ||| 1.7 ||| The purpose of this study was to compare the efficacy and safety of oral versus vaginal misoprostol for induction of labour in the equivalent dosage of 50 mcg 6 hourly..
+P: 50 ||| Discussion ||| 4.17 ||| In vaginal group, out of 17 LSCS, 14 patients required LSCS for fetal distress which cannot be attributed to failure of drug, three patients had non progress of labour due to unforeseen cephalopelvic disproportion..
+P: 23 ||| Inclusion Criteria ||| 3.2 ||| Both the groups were comparable with respect to the maternal age, gestational age, indication for induction and pre-induction modified Bishop's score (Tables 1, 2)..
+P: 20 ||| Materials and Methods ||| 2.11 ||| Patients at term with various indications for induction of labour were included in the study after a written, valid consent..
+I: 62 ||| Discussion ||| 4.29 ||| In vaginal group four patients required maximum dose (4 doses)..
+I: 46 ||| Discussion ||| 4.13 ||| In oral group 26 patients required LSCS of which 19 were due to fetal distress and one due to impending eclampsia..
+I: 69 ||| Discussion ||| 4.36 ||| Oxytocin augmentation was more in patients with poor bishops score (Table 4) side effects of misoprostol in both groups were not significant..
+I: 24 ||| Inclusion Criteria ||| 3.3 ||| Mean pre induction Bishop's score in oral group was 3.09 ± 0.692 and in vaginal group was 3.17 ± 0.721..
+I: 41 ||| Discussion ||| 4.8 ||| The mean number of dosage of misoprostol required for successful labour induction was 2.73 ± 0.58 in the oral group and 2.26 ± 0.52 in vaginal group (P value \ 0.0001, highly significant) ( Table 2)..
+O: 43 ||| Discussion ||| 4.10 ||| Mean induction delivery interval for successful outcome was 15.24 ± 3.47 h in oral group and 1.74 ± 2.60 h in oral group and 12.74 ± 2.60 h in vaginal group..
+O: 75 ||| Conclusion ||| 6.1 ||| In conclusion, this study shows that for induction of labour, vaginal misoprostol is preferable to oral misoprostol when used in equivalent dosage of 50 mcg..
+O: 76 ||| Conclusion ||| 6.2 ||| In vaginal route of administration compared to oral route, the number of dosage required is less, induction delivery interval is less, less incidence of failed induction,.
+O: 73 ||| Discussion ||| 4.40 ||| Thus present study shows that the fetal outcome results were also comparable in both the groups..
+O: 19 ||| Materials and Methods ||| 2.10 ||| The study population (n = 200) was a mixture of high and low risk population..
+O: 71 ||| Discussion ||| 4.38 ||| Fetal outcome data showed no significant difference between two groups with respect to birth weights (Group A 2,820 ± 377 g, Group B 2730 ± 447 g t = 1.53, P = 0.12 Not significant) ( Table 5)..
+O: 3 ||| Introduction ||| 1.2 ||| The success of labour induction depends on the cervical status at the time of induction..

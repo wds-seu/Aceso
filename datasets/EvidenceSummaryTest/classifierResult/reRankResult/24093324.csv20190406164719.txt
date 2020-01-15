@@ -1,0 +1,16 @@
+P: 18 ||| METHODS ||| 1.4 ||| The aim of the current secondary analysis was to evaluate if the initial benefit seen with 6 months of dual antiplatelet therapy compared to aspirin monotherapy would persist after discontinuation of clopidogrel..
+P: 92 ||| Conclusion ||| 5.3 ||| Further prospective trials are required in order to determine the optimal duration of dual antiplatelet therapy..
+P: 35 ||| METHODS ||| 1.21 ||| TLR was carried out if clinical claudication symptoms, as well as angiographically confirmed restenosis, were present..
+P: 20 ||| METHODS ||| 1.6 ||| In brief, 80 patients (42 men; mean age 70 years) gave written informed consent and were enrolled in the trial according to the inclusion/exclusion criteria (Table 1)..
+P: 81 ||| RESULTS ||| 3.37 ||| It is a reasonable clinical recommendation that prolonged dual antiplatelet therapy (.6 months) should be considered in patients who are at high risk for restenosis..
+I: 3 |||  ||| 0.3 ||| Clopidogrel and placebo were stopped after 6 months, and patients remained on aspirin only..
+I: 1 |||  ||| 0.1 ||| Methods: A prospective, randomized, single-center, double-blinded and placebo-controlled clinical trial randomly assigned 40 patients to receive pre-and postinterventional therapy with aspirin and clopidogrel..
+I: 12 |||  ||| 0.12 ||| Thus, based on the results of randomized clinical trials, current guidelines recommend dual antiplatelet therapy consisting of clopidogrel and aspirin for 12 months after percutaneous coronary intervention (PCI) due to acute myocardial infarction and/ or coronary artery disease..
+I: 13 |||  ||| 0.13 ||| The results of the MIRROR study showed that patients treated with clopidogrel þ aspirin compared to aspirin alone had significantly lower target lesion revascularization (TLR) rates at 6 months..
+I: 58 ||| RESULTS ||| 3.14 ||| At 12 months after the primary intervention, the positive effect of dual antiplatelet therapy did not persist after discontinuation of clopidogrel..
+O: 76 ||| RESULTS ||| 3.32 ||| Furthermore, our results support the conclusion that a premature cessation of dual antiplatelet therapy should be avoided, except under circumstances in which it would be clinically unsafe to do so, such as allergic reactions or for patients requiring surgery..
+O: 74 ||| RESULTS ||| 3.30 ||| Coronary drug-eluting stents are associated with delayed endothelialization, which might result in late stent thrombosis when dual antiplatelet therapy is stopped..
+O: 90 ||| Conclusion ||| 5.1 ||| In contrast to the predictions from studies with limited follow-up that investigated the role of dual antiplatelet therapy in minimizing TLR, the advantage of dual antiplatelet therapy does not persist after stopping clopidogrel..
+O: 82 ||| RESULTS ||| 3.38 ||| This is especially true considering our results, which demonstrated that ongoing dual antiplatelet therapy, when compared to aspirin monotherapy, appears to reduce the claudication symptoms of patients with similar restenosis rates..
+O: 83 ||| RESULTS ||| 3.39 ||| One strategy may be to prolong dual antiplatelet therapy for an extended period or even indefinitely to avoid an increase in TLR..
+O: 50 ||| RESULTS ||| 3.6 ||| There were no significant differences in the rate of binary restenosis at 6 months..
