@@ -1,0 +1,12 @@
+OBJECTIVE: To compare home-based cardiac rehabilitation (CR) with usual care (control group with no rehabilitation) in elderly patients who declined participation in centre-based CR.
+DESIGN: Randomised clinical trial with 12 months follow-up and mortality data after 5.5 years (mean follow-up 4&frac12; years).
+SETTING: Rehabilitation unit, Department of Cardiology, Copenhagen, Denmark.
+PARTICIPANTS: Elderly patients ≥65 years with coronary heart disease.
+INTERVENTION: A physiotherapist made home visits in order to develop an individualised exercise programme that could be performed at home and surrounding outdoor area. Risk factor intervention, medical adjustment, physical and psychological assessments were offered at baseline and after 3, 6 and 12 months.
+MAIN OUTCOME MEASUREMENTS: The primary outcome was 6 min walk test (6MWT). Secondary outcomes were blood pressure, body composition, cholesterol profile, cessation of smoking, health-related quality of life (HRQoL), anxiety and depression.
+RESULTS: 40 patients participated. The study population was characterised by high age (median age 77 years, range 65-92 years) and high level of comorbidity. Patients receiving home-based CR had a significant increase in the primary outcome 6MWT of 33.5 m (95% CI: 6.2 to 60.8, p=0.02) at 3 months, whereas the usual care group did not significantly improve, but with no significant differences between the groups. 
+At 12 months follow-up, there was a decline in 6MWT in both groups; -55.2 m (95% CI: 18.7 to 91.7, p<0.01) in the home group and -52.1 m (95% CI: -3.0 to 107.1, p=0.06) in the usual care group. 
+There were no significant differences in blood pressure, body composition, cholesterol profile, cessation of smoking or HRQoL after 3, 6 and 12 months follow-up.
+CONCLUSIONS: Participation in home-based CR improved exercise capacity among elderly patients with coronary heart disease, but there was no significant difference between the home intervention and the control group. 
+In addition, no significant difference was found in the secondary outcomes. 
+When intervention ceased, the initial increase in exercise capacity was rapidly lost.
