@@ -1,0 +1,10 @@
+label,sentence,pubmed_id,labeler
+P,26 ||| Inclusion Criteria ||| 3.5 ||| Gestational age 34-42 weeks 3.,24431667,ml
+P,1 |||  ||| 0.1 ||| Objective To compare the efficacy of oral with vaginal misoprostol for induction of labour.,24431667,ml
+P,27 ||| Inclusion Criteria ||| 3.6 ||| Singleton viable pregnancy 4.,24431667,ml
+P,25 ||| Inclusion Criteria ||| 3.4 ||| Primigravida 2.,24431667,ml
+I,"33 ||| Inclusion Criteria ||| 3.12 ||| The patients were randomly allocated to either Group A, (n = 100) who received oral tablet misoprostol 50 mcg 6 hourly for maximum four doses or Group B, (n = 100) who received vaginal tablet misoprostol 50 mcg 6 hourly for maximum four doses.",24431667,ml
+I,"38 ||| Discussion ||| 4.5 ||| Demographic profile, gestational age, number of doses required, induction-delivery interval, mode of delivery and feto maternal outcome was noted.",24431667,ml
+O,"75 ||| Conclusion ||| 6.1 ||| In conclusion, this study shows that for induction of labour, vaginal misoprostol is preferable to oral misoprostol when used in equivalent dosage of 50 mcg.",24431667,ml
+O,"76 ||| Conclusion ||| 6.2 ||| In vaginal route of administration compared to oral route, the number of dosage required is less, induction delivery interval is less, less incidence of failed induction,",24431667,ml
+O,"44 ||| Discussion ||| 4.11 ||| The mean induction delivery interval was significantly less in vaginal group (P \ 0.0001, highly significant).",24431667,ml

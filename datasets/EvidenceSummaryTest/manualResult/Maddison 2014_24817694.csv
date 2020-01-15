@@ -1,0 +1,11 @@
+label,sentence,pubmed_id,labeler
+P,"4 |||  ||| 0.4 ||| Adult participants aged 18 years or more, with a diagnosis of IHD, were clinically stable as outpatients, able to perform exercise, able to understand and write English, and had access to the Internet.",24817694,奉捷
+P,"31 ||| Introduction ||| 1.16 ||| All participants were clinically stable as outpatients, able to perform exercise, able to understand and write English, and had access to the Internet (e.g.",24817694,奉捷
+P,"30 ||| Introduction ||| 1.15 ||| Participants were adults aged 18 years or more, with a diagnosis of IHD, defined as angina, myocardial infarction, revascularization, including angioplasty, stent or coronary artery bypass graft within the previous 3-24 months.",24817694,奉捷
+P,89 ||| Results ||| 2.7 ||| A total of 171 eligible participants were randomized to the trial (Figure 1).,24817694,奉捷
+I,"42 ||| Introduction ||| 1.27 ||| They received six messages per week for the first 12 weeks, five messages per week for 6 weeks and then four messages per week for the remaining 6 weeks (total 24 weeks).",24817694,奉捷
+I,"32 ||| Introduction ||| 1.17 ||| Eligible participants were randomized to either receive an exercise intervention delivered via mobile phone, or to usual care, with encouragement to be physically active and attend a cardiac club.",24817694,奉捷
+I,"41 ||| Introduction ||| 1.26 ||| In addition, participants in the intervention group received the HEART programme-a personalized, automated package of text messages via their mobile phones aimed at increasing exercise behaviour over 24 weeks.",24817694,奉捷
+O,12 |||  ||| 0.12 ||| Conclusions: A mobile phone intervention was not effective at increasing exercise capacity over and above usual care.,24817694,奉捷
+O,"9 |||  ||| 0.9 ||| However significant treatment effects were observed for selected secondary outcomes, including leisure time physical activity (difference 110.2 min/week, 95% CI: À0.8, 221.3; p ¼ 0.05) and walking (difference 151.4 min/week, 95% CI: 27.6, 275.2; p ¼ 0.02).",24817694,奉捷
+O,13 |||  ||| 0.13 ||| The intervention was effective and probably cost-effective for increasing physical activity and may have the potential to augment existing cardiac rehabilitation services.,24817694,奉捷

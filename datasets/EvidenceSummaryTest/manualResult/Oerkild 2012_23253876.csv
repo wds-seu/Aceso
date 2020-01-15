@@ -1,0 +1,10 @@
+label,sentence,pubmed_id,labeler
+P,"13 ||| METHODS ||| 2.3 ||| Inclusion criteria were patients ≥65 years with a recent coronary event defined as acute myocardial infarction (MI), percutaneous transluminal coronary intervention (PCI) or coronary artery bypass graft (CABG) and who declined participation in centre-based CR.",23253876,奉捷
+P,"14 ||| METHODS ||| 2.4 ||| Exclusion criteria were mental disorders (dementia), social disorders (severe alcoholism and drug abuse), living in a nursing home, language barriers or use of wheelchair.",23253876,奉捷
+P,"10 ||| INTRODUCTION ||| 1.10 ||| The aim of this study is, in a randomised design, to compare the effect of home-based CR with usual care (no rehabilitation) in a population of patients ≥65 years with coronary heart disease, who declined participation in a centre-based CR programme.",23253876,奉捷
+P,62 ||| RESULTS ||| 5.1 ||| A total of 40 patients participated.,23253876,奉捷
+I,64 ||| RESULTS ||| 5.3 ||| All patients received antithrombotics and lipid-lowering drugs and 77.4% received β-blockers.,23253876,奉捷
+I,"50 ||| METHODS ||| 2.40 ||| Patients were not offered exercise education or dietary counselling but, as for the home group, offered risk factor intervention and medical adjustment by a cardiologist at baseline and after 3, 6 and 12 months.",23253876,奉捷
+I,"36 ||| METHODS ||| 2.26 ||| All patients were offered dietary counselling and, if required, smoking cessation.",23253876,奉捷
+O,"2 ||| INTRODUCTION ||| 1.2 ||| The centre-based programmes are the cornerstone in the evidence of CR, with meta-analysis showing an approximately 20% reduction in all-cause and cardiac mortality and 17% reduction in re-infarction rate among patients who participated in the programmes.",23253876,奉捷
+O,"1 ||| INTRODUCTION ||| 1.1 ||| Participation in cardiac rehabilitation (CR) is often the first step towards optimal secondary treatment and prevention, and is recommended to patients with coronary heart disease.",23253876,奉捷
