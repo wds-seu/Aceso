@@ -30,13 +30,13 @@ This is the codes of the article ACESO: PICO-guided Evidence Summarization on Me
 ## Datasets
 in the file of datasets/PICO/:
 
-* P.csv 280
+* P.csv ~600
 
-* I.csv 290
+* I.csv ~700
 
-* O.csv 320
+* O.csv ~600
 
-* N.csv 330
+* N.csv ~600
 
 ## run and test
 1. start the visdom server :  python -m visdom.server
